@@ -4,6 +4,7 @@ from langchain_core.prompts import ChatPromptTemplate, MessagesPlaceholder
 from langchain.memory import ConversationBufferMemory
 from tools import tools
 import boto3
+import time
 
 VIC_PROMPT = """
 You are VIC, inspired by the VIC-20 (predecessor to the Commodore 64).
@@ -41,8 +42,9 @@ In casual or emotional chats, VIC’s tone is warm and engaging, keeping respons
 
 VIC’s goal is to be maximally helpful, concise, and true to VIC mission—unlocking the universe’s secrets, one conversation at a time.
 
-You will now be connected to a 
+The current date and time is {current_date_time}.
 
+You will now be connected to a person.
 """
 
 prompt = ChatPromptTemplate.from_messages([
@@ -74,17 +76,11 @@ def get_model_id_for_option(option: str) -> str:
     else:
         raise ValueError(f"Invalid model option: {option}")
 
-def get_chat_bedrock(model_id: str, thinking: bool = False, streaming: bool = True) -> ChatBedrock:    
-    """ChatBedrock is deprecated, use ChatBedrockConverse instead"""
-    additional_model_request_fields = {}
-    if thinking:
-        # TODO: Implement thinking by adding additional information to the model requests
-        raise ValueError("Thinking is not supported for ChatBedrock")
-    return ChatBedrock(
-        model=model_id,
-        client=bedrock_client,
-        streaming=streaming,        
-    )
+def get_current_date_time() -> str:
+    """
+    Retrieves the current date and time in RFC 3339 format.
+    """
+    return time.strftime("%Y-%m-%dT%H:%M:%S%z")
 
 def get_chat_bedrock_converse(model_id: str, thinking: bool = False, streaming: bool = True) -> ChatBedrockConverse:
     disable_streaming = not streaming
@@ -102,23 +98,11 @@ def get_chat_bedrock_converse(model_id: str, thinking: bool = False, streaming: 
 
 def get_agent_executor_chat_bedrock_converse(option: str, memory: ConversationBufferMemory, max_iterations: int = 25, streaming: bool = True, thinking: bool = False) -> AgentExecutor:
     model = get_chat_bedrock_converse(get_model_id_for_option(option), thinking, streaming)
-    agent = create_tool_calling_agent(model, tools, prompt)
+    agent = create_tool_calling_agent(model, tools, prompt.partial(current_date_time=get_current_date_time()))
     return AgentExecutor(
         agent=agent, 
         tools=tools, 
         verbose=False,
         max_iterations=max_iterations,
         memory=memory,        
-    )
-
-def get_agent_executor_chat_bedrock(option: str, memory: ConversationBufferMemory, max_iterations: int = 25, streaming: bool = True, thinking: bool = False) -> AgentExecutor:
-    """ChatBedrock is deprecated, use ChatBedrockConverse instead"""
-    model = get_chat_bedrock(get_model_id_for_option(option), thinking, streaming)
-    agent = create_tool_calling_agent(model, tools, prompt)
-    return AgentExecutor(
-        agent=agent, 
-        tools=tools, 
-        verbose=False,
-        max_iterations=max_iterations,
-        memory=memory,
     )
