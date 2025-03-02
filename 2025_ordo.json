@@ -1,0 +1,7435 @@
+[
+    {
+      "date": "2025-01-01",
+      "weekday": "wed",
+      "celebrations": [
+        {
+          "title": "SOLEMNITY OF MARY, THE HOLY MOTHER OF GOD",
+          "rank": "solemnity"
+        }
+      ],
+      "readings": {
+        "first_reading": "Nm 6:22-27",
+        "second_reading": "Gal 4:4-7",
+        "gospel": "Lk 2:16-21",
+        "psalm": "Prop"
+      },
+      "saint": null,
+      "color": "white",
+      "season": "Christmas"
+    },
+    {
+      "date": "2025-01-02",
+      "weekday": "thu",
+      "celebrations": [
+        {
+          "title": "Saints Basil the Great and Gregory Nazianzen, Bishops and Doctors of the Church",
+          "rank": "memorial"
+        }
+      ],
+      "readings": {
+        "first_reading": "1 Jn 2:22-28",
+        "second_reading": null,
+        "gospel": "Jn 1:19-28",
+        "psalm": "I"
+      },
+      "saint": "Basil the Great and Gregory Nazianzen",
+      "color": "white",
+      "season": "Christmas"
+    },
+    {
+      "date": "2025-01-03",
+      "weekday": "fri",
+      "celebrations": [
+        {
+          "title": "Christmas Weekday",
+          "rank": "weekday"
+        },
+        {
+          "title": "The Most Holy Name of Jesus",
+          "rank": "optional memorial"
+        }
+      ],
+      "readings": {
+        "first_reading": "1 Jn 2:29—3:6",
+        "second_reading": null,
+        "gospel": "Jn 1:29-34",
+        "psalm": null
+      },
+      "saint": null,
+      "color": "white",
+      "season": "Christmas"
+    },
+    {
+      "date": "2025-01-04",
+      "weekday": "sat",
+      "celebrations": [
+        {
+          "title": "Saint Elizabeth Ann Seton, Religious",
+          "rank": "memorial"
+        }
+      ],
+      "readings": {
+        "first_reading": "1 Jn 3:7-10",
+        "second_reading": null,
+        "gospel": "Jn 1:35-42",
+        "psalm": null
+      },
+      "saint": "Elizabeth Ann Seton",
+      "color": "white",
+      "season": "Christmas"
+    },
+    {
+      "date": "2025-01-05",
+      "weekday": "sun",
+      "celebrations": [
+        {
+          "title": "THE EPIPHANY OF THE LORD",
+          "rank": "solemnity"
+        }
+      ],
+      "readings": {
+        "first_reading": "Is 60:1-6",
+        "second_reading": "Eph 3:2-3a, 5-6",
+        "gospel": "Mt 2:1-12",
+        "psalm": "Prop"
+      },
+      "saint": null,
+      "color": "white",
+      "season": "Christmas"
+    },
+    {
+      "date": "2025-01-06",
+      "weekday": "mon",
+      "celebrations": [
+        {
+          "title": "Christmas Weekday",
+          "rank": "weekday"
+        },
+        {
+          "title": "Saint André Bessette, Religious",
+          "rank": "optional memorial"
+        }
+      ],
+      "readings": {
+        "first_reading": "1 Jn 3:22—4:6",
+        "second_reading": null,
+        "gospel": "Mt 4:12-17, 23-25",
+        "psalm": "II"
+      },
+      "saint": null,
+      "color": "white",
+      "season": "Christmas"
+    },
+    {
+      "date": "2025-01-07",
+      "weekday": "tue",
+      "celebrations": [
+        {
+          "title": "Christmas Weekday",
+          "rank": "weekday"
+        },
+        {
+          "title": "Saint Raymond of Penyafort, Priest",
+          "rank": "optional memorial"
+        }
+      ],
+      "readings": {
+        "first_reading": "1 Jn 4:7-10",
+        "second_reading": null,
+        "gospel": "Mk 6:34-44",
+        "psalm": null
+      },
+      "saint": null,
+      "color": "white",
+      "season": "Christmas"
+    },
+    {
+      "date": "2025-01-08",
+      "weekday": "wed",
+      "celebrations": [
+        {
+          "title": "Christmas Weekday",
+          "rank": "weekday"
+        }
+      ],
+      "readings": {
+        "first_reading": "1 Jn 4:11-18",
+        "second_reading": null,
+        "gospel": "Mk 6:45-52",
+        "psalm": null
+      },
+      "saint": null,
+      "color": "white",
+      "season": "Christmas"
+    },
+    {
+      "date": "2025-01-09",
+      "weekday": "thu",
+      "celebrations": [
+        {
+          "title": "Christmas Weekday",
+          "rank": "weekday"
+        }
+      ],
+      "readings": {
+        "first_reading": "1 Jn 4:19—5:4",
+        "second_reading": null,
+        "gospel": "Lk 4:14-22a",
+        "psalm": null
+      },
+      "saint": null,
+      "color": "white",
+      "season": "Christmas"
+    },
+    {
+      "date": "2025-01-10",
+      "weekday": "fri",
+      "celebrations": [
+        {
+          "title": "Christmas Weekday",
+          "rank": "weekday"
+        }
+      ],
+      "readings": {
+        "first_reading": "1 Jn 5:5-13",
+        "second_reading": null,
+        "gospel": "Lk 5:12-16",
+        "psalm": null
+      },
+      "saint": null,
+      "color": "white",
+      "season": "Christmas"
+    },
+    {
+      "date": "2025-01-11",
+      "weekday": "sat",
+      "celebrations": [
+        {
+          "title": "Christmas Weekday",
+          "rank": "weekday"
+        }
+      ],
+      "readings": {
+        "first_reading": "1 Jn 5:14-21",
+        "second_reading": null,
+        "gospel": "Jn 3:22-30",
+        "psalm": null
+      },
+      "saint": null,
+      "color": "white",
+      "season": "Christmas"
+    },
+    {
+      "date": "2025-01-12",
+      "weekday": "sun",
+      "celebrations": [
+        {
+          "title": "THE BAPTISM OF THE LORD",
+          "rank": "feast"
+        }
+      ],
+      "readings": {
+        "first_reading": "Is 42:1-4, 6-7",
+        "second_reading": "Acts 10:34-38",
+        "gospel": "Lk 3:15-16, 21-22",
+        "psalm": "Prop"
+      },
+      "saint": null,
+      "color": "white",
+      "season": "Christmas"
+    },
+    {
+      "date": "2025-01-13",
+      "weekday": "mon",
+      "celebrations": [
+        {
+          "title": "Weekday (First Week in Ordinary Time)",
+          "rank": "weekday"
+        },
+        {
+          "title": "Saint Hilary, Bishop and Doctor of the Church",
+          "rank": "optional memorial"
+        }
+      ],
+      "readings": {
+        "first_reading": "Heb 1:1-6",
+        "second_reading": null,
+        "gospel": "Mk 1:14-20",
+        "psalm": "I"
+      },
+      "saint": null,
+      "color": "green",
+      "season": "Ordinary Time"
+    },
+    {
+      "date": "2025-01-14",
+      "weekday": "tue",
+      "celebrations": [
+        {
+          "title": "Weekday",
+          "rank": "weekday"
+        }
+      ],
+      "readings": {
+        "first_reading": "Heb 2:5-12",
+        "second_reading": null,
+        "gospel": "Mk 1:21-28",
+        "psalm": null
+      },
+      "saint": null,
+      "color": "green",
+      "season": "Ordinary Time"
+    },
+    {
+      "date": "2025-01-15",
+      "weekday": "wed",
+      "celebrations": [
+        {
+          "title": "Weekday",
+          "rank": "weekday"
+        }
+      ],
+      "readings": {
+        "first_reading": "Heb 2:14-18",
+        "second_reading": null,
+        "gospel": "Mk 1:29-39",
+        "psalm": null
+      },
+      "saint": null,
+      "color": "green",
+      "season": "Ordinary Time"
+    },
+    {
+      "date": "2025-01-16",
+      "weekday": "thu",
+      "celebrations": [
+        {
+          "title": "Weekday",
+          "rank": "weekday"
+        }
+      ],
+      "readings": {
+        "first_reading": "Heb 3:7-14",
+        "second_reading": null,
+        "gospel": "Mk 1:40-45",
+        "psalm": null
+      },
+      "saint": null,
+      "color": "green",
+      "season": "Ordinary Time"
+    },
+    {
+      "date": "2025-01-17",
+      "weekday": "fri",
+      "celebrations": [
+        {
+          "title": "Saint Anthony, Abbot",
+          "rank": "memorial"
+        }
+      ],
+      "readings": {
+        "first_reading": "Heb 4:1-5, 11",
+        "second_reading": null,
+        "gospel": "Mk 2:1-12",
+        "psalm": null
+      },
+      "saint": "Anthony",
+      "color": "white",
+      "season": "Ordinary Time"
+    },
+    {
+      "date": "2025-01-18",
+      "weekday": "sat",
+      "celebrations": [
+        {
+          "title": "Weekday",
+          "rank": "weekday"
+        },
+        {
+          "title": "Blessed Virgin Mary",
+          "rank": "optional memorial"
+        }
+      ],
+      "readings": {
+        "first_reading": "Heb 4:12-16",
+        "second_reading": null,
+        "gospel": "Mk 2:13-17",
+        "psalm": null
+      },
+      "saint": null,
+      "color": "green",
+      "season": "Ordinary Time"
+    },
+    {
+      "date": "2025-01-19",
+      "weekday": "sun",
+      "celebrations": [
+        {
+          "title": "SECOND SUNDAY IN ORDINARY TIME",
+          "rank": "sunday"
+        }
+      ],
+      "readings": {
+        "first_reading": "Is 62:1-5",
+        "second_reading": "1 Cor 12:4-11",
+        "gospel": "Jn 2:1-11",
+        "psalm": "II"
+      },
+      "saint": null,
+      "color": "green",
+      "season": "Ordinary Time"
+    },
+    {
+      "date": "2025-01-20",
+      "weekday": "mon",
+      "celebrations": [
+        {
+          "title": "Weekday",
+          "rank": "weekday"
+        },
+        {
+          "title": "Saint Fabian, Pope and Martyr",
+          "rank": "optional memorial"
+        },
+        {
+          "title": "Saint Sebastian, Martyr",
+          "rank": "optional memorial"
+        }
+      ],
+      "readings": {
+        "first_reading": "Heb 5:1-10",
+        "second_reading": null,
+        "gospel": "Mk 2:18-22",
+        "psalm": null
+      },
+      "saint": null,
+      "color": "green",
+      "season": "Ordinary Time"
+    },
+    {
+      "date": "2025-01-21",
+      "weekday": "tue",
+      "celebrations": [
+        {
+          "title": "Saint Agnes, Virgin and Martyr",
+          "rank": "memorial"
+        }
+      ],
+      "readings": {
+        "first_reading": "Heb 6:10-20",
+        "second_reading": null,
+        "gospel": "Mk 2:23-28",
+        "psalm": "Prop"
+      },
+      "saint": "Agnes",
+      "color": "red",
+      "season": "Ordinary Time"
+    },
+    {
+      "date": "2025-01-22",
+      "weekday": "wed",
+      "celebrations": [
+        {
+          "title": "USA: Day of Prayer for the Legal Protection of Unborn Children",
+          "rank": "weekday"
+        }
+      ],
+      "readings": {
+        "first_reading": "Heb 7:1-3, 15-17",
+        "second_reading": null,
+        "gospel": "Mk 3:1-6",
+        "psalm": null
+      },
+      "saint": null,
+      "color": "white",
+      "season": "Ordinary Time"
+    },
+    {
+      "date": "2025-01-23",
+      "weekday": "thu",
+      "celebrations": [
+        {
+          "title": "Weekday",
+          "rank": "weekday"
+        },
+        {
+          "title": "Saint Vincent, Deacon and Martyr",
+          "rank": "optional memorial"
+        },
+        {
+          "title": "Saint Marianne Cope, Virgin",
+          "rank": "optional memorial"
+        }
+      ],
+      "readings": {
+        "first_reading": "Heb 7:25—8:6",
+        "second_reading": null,
+        "gospel": "Mk 3:7-12",
+        "psalm": null
+      },
+      "saint": null,
+      "color": "green",
+      "season": "Ordinary Time"
+    },
+    {
+      "date": "2025-01-24",
+      "weekday": "fri",
+      "celebrations": [
+        {
+          "title": "Saint Francis de Sales, Bishop and Doctor of the Church",
+          "rank": "memorial"
+        }
+      ],
+      "readings": {
+        "first_reading": "Heb 8:6-13",
+        "second_reading": null,
+        "gospel": "Mk 3:13-19",
+        "psalm": null
+      },
+      "saint": "Francis de Sales",
+      "color": "white",
+      "season": "Ordinary Time"
+    },
+    {
+      "date": "2025-01-25",
+      "weekday": "sat",
+      "celebrations": [
+        {
+          "title": "The Conversion of Saint Paul the Apostle",
+          "rank": "feast"
+        }
+      ],
+      "readings": {
+        "first_reading": "Acts 22:3-16 or Acts 9:1-22",
+        "second_reading": null,
+        "gospel": "Mk 16:15-18",
+        "psalm": "Prop"
+      },
+      "saint": "Paul",
+      "color": "white",
+      "season": "Ordinary Time"
+    },
+    {
+      "date": "2025-01-26",
+      "weekday": "sun",
+      "celebrations": [
+        {
+          "title": "THIRD SUNDAY IN ORDINARY TIME",
+          "rank": "sunday"
+        }
+      ],
+      "readings": {
+        "first_reading": "Neh 8:2-4a, 5-6, 8-10",
+        "second_reading": "1 Cor 12:12-30 or 12:12-14, 27",
+        "gospel": "Lk 1:1-4; 4:14-21",
+        "psalm": "III"
+      },
+      "saint": null,
+      "color": "green",
+      "season": "Ordinary Time"
+    },
+    {
+      "date": "2025-01-27",
+      "weekday": "mon",
+      "celebrations": [
+        {
+          "title": "Weekday",
+          "rank": "weekday"
+        },
+        {
+          "title": "Saint Angela Merici, Virgin",
+          "rank": "optional memorial"
+        }
+      ],
+      "readings": {
+        "first_reading": "Heb 9:15, 24-28",
+        "second_reading": null,
+        "gospel": "Mk 3:22-30",
+        "psalm": null
+      },
+      "saint": null,
+      "color": "green",
+      "season": "Ordinary Time"
+    },
+    {
+      "date": "2025-01-28",
+      "weekday": "tue",
+      "celebrations": [
+        {
+          "title": "Saint Thomas Aquinas, Priest and Doctor of the Church",
+          "rank": "memorial"
+        }
+      ],
+      "readings": {
+        "first_reading": "Heb 10:1-10",
+        "second_reading": null,
+        "gospel": "Mk 3:31-35",
+        "psalm": null
+      },
+      "saint": "Thomas Aquinas",
+      "color": "white",
+      "season": "Ordinary Time"
+    },
+    {
+      "date": "2025-01-29",
+      "weekday": "wed",
+      "celebrations": [
+        {
+          "title": "Weekday",
+          "rank": "weekday"
+        }
+      ],
+      "readings": {
+        "first_reading": "Heb 10:11-18",
+        "second_reading": null,
+        "gospel": "Mk 4:1-20",
+        "psalm": null
+      },
+      "saint": null,
+      "color": "green",
+      "season": "Ordinary Time"
+    },
+    {
+      "date": "2025-01-30",
+      "weekday": "thu",
+      "celebrations": [
+        {
+          "title": "Weekday",
+          "rank": "weekday"
+        }
+      ],
+      "readings": {
+        "first_reading": "Heb 10:19-25",
+        "second_reading": null,
+        "gospel": "Mk 4:21-25",
+        "psalm": null
+      },
+      "saint": null,
+      "color": "green",
+      "season": "Ordinary Time"
+    },
+    {
+      "date": "2025-01-31",
+      "weekday": "fri",
+      "celebrations": [
+        {
+          "title": "Saint John Bosco, Priest",
+          "rank": "memorial"
+        }
+      ],
+      "readings": {
+        "first_reading": "Heb 10:32-39",
+        "second_reading": null,
+        "gospel": "Mk 4:26-34",
+        "psalm": null
+      },
+      "saint": "John Bosco",
+      "color": "white",
+      "season": "Ordinary Time"
+    },
+    {
+      "date": "2025-02-01",
+      "weekday": "sat",
+      "celebrations": [
+        {
+          "title": "Weekday",
+          "rank": "weekday"
+        },
+        {
+          "title": "Blessed Virgin Mary",
+          "rank": "optional memorial"
+        }
+      ],
+      "readings": {
+        "first_reading": "Heb 11:1-2, 8-19",
+        "second_reading": null,
+        "gospel": "Mk 4:35-41",
+        "psalm": null
+      },
+      "saint": null,
+      "color": "green",
+      "season": "Ordinary Time"
+    },
+    {
+      "date": "2025-02-02",
+      "weekday": "sun",
+      "celebrations": [
+        {
+          "title": "THE PRESENTATION OF THE LORD",
+          "rank": "feast"
+        }
+      ],
+      "readings": {
+        "first_reading": "Mal 3:1-4",
+        "second_reading": "Heb 2:14-18",
+        "gospel": "Lk 2:22-40 or 2:22-32",
+        "psalm": "Prop"
+      },
+      "saint": null,
+      "color": "white",
+      "season": "Ordinary Time"
+    },
+    {
+      "date": "2025-02-03",
+      "weekday": "mon",
+      "celebrations": [
+        {
+          "title": "Weekday (Fourth Week in Ordinary Time)",
+          "rank": "weekday"
+        },
+        {
+          "title": "Saint Blaise, Bishop and Martyr",
+          "rank": "optional memorial"
+        },
+        {
+          "title": "Saint Ansgar, Bishop",
+          "rank": "optional memorial"
+        }
+      ],
+      "readings": {
+        "first_reading": "Heb 11:32-40",
+        "second_reading": null,
+        "gospel": "Mk 5:1-20",
+        "psalm": "IV"
+      },
+      "saint": null,
+      "color": "green",
+      "season": "Ordinary Time"
+    },
+    {
+      "date": "2025-02-04",
+      "weekday": "tue",
+      "celebrations": [
+        {
+          "title": "Weekday",
+          "rank": "weekday"
+        }
+      ],
+      "readings": {
+        "first_reading": "Heb 12:1-4",
+        "second_reading": null,
+        "gospel": "Mk 5:21-43",
+        "psalm": null
+      },
+      "saint": null,
+      "color": "green",
+      "season": "Ordinary Time"
+    },
+    {
+      "date": "2025-02-05",
+      "weekday": "wed",
+      "celebrations": [
+        {
+          "title": "Saint Agatha, Virgin and Martyr",
+          "rank": "memorial"
+        }
+      ],
+      "readings": {
+        "first_reading": "Heb 12:4-7, 11-15",
+        "second_reading": null,
+        "gospel": "Mk 6:1-6",
+        "psalm": null
+      },
+      "saint": "Agatha",
+      "color": "red",
+      "season": "Ordinary Time"
+    },
+    {
+      "date": "2025-02-06",
+      "weekday": "thu",
+      "celebrations": [
+        {
+          "title": "Saint Paul Miki and Companions, Martyrs",
+          "rank": "memorial"
+        }
+      ],
+      "readings": {
+        "first_reading": "Heb 12:18-19, 21-24",
+        "second_reading": null,
+        "gospel": "Mk 6:7-13",
+        "psalm": null
+      },
+      "saint": "Paul Miki and Companions",
+      "color": "red",
+      "season": "Ordinary Time"
+    },
+    {
+      "date": "2025-02-07",
+      "weekday": "fri",
+      "celebrations": [
+        {
+          "title": "Weekday",
+          "rank": "weekday"
+        }
+      ],
+      "readings": {
+        "first_reading": "Heb 13:1-8",
+        "second_reading": null,
+        "gospel": "Mk 6:14-29",
+        "psalm": null
+      },
+      "saint": null,
+      "color": "green",
+      "season": "Ordinary Time"
+    },
+    {
+      "date": "2025-02-08",
+      "weekday": "sat",
+      "celebrations": [
+        {
+          "title": "Weekday",
+          "rank": "weekday"
+        },
+        {
+          "title": "Saint Jerome Emiliani",
+          "rank": "optional memorial"
+        },
+        {
+          "title": "Saint Josephine Bakhita, Virgin",
+          "rank": "optional memorial"
+        },
+        {
+          "title": "Blessed Virgin Mary",
+          "rank": "optional memorial"
+        }
+      ],
+      "readings": {
+        "first_reading": "Heb 13:15-17, 20-21",
+        "second_reading": null,
+        "gospel": "Mk 6:30-34",
+        "psalm": null
+      },
+      "saint": null,
+      "color": "green",
+      "season": "Ordinary Time"
+    },
+    {
+      "date": "2025-02-09",
+      "weekday": "sun",
+      "celebrations": [
+        {
+          "title": "FIFTH SUNDAY IN ORDINARY TIME",
+          "rank": "sunday"
+        }
+      ],
+      "readings": {
+        "first_reading": "Is 6:1-2a, 3-8",
+        "second_reading": "1 Cor 15:1-11 or 15:3-8, 11",
+        "gospel": "Lk 5:1-11",
+        "psalm": "I"
+      },
+      "saint": null,
+      "color": "green",
+      "season": "Ordinary Time"
+    },
+    {
+      "date": "2025-02-10",
+      "weekday": "mon",
+      "celebrations": [
+        {
+          "title": "Saint Scholastica, Virgin",
+          "rank": "memorial"
+        }
+      ],
+      "readings": {
+        "first_reading": "Gn 1:1-19",
+        "second_reading": null,
+        "gospel": "Mk 6:53-56",
+        "psalm": null
+      },
+      "saint": "Scholastica",
+      "color": "white",
+      "season": "Ordinary Time"
+    },
+    {
+      "date": "2025-02-11",
+      "weekday": "tue",
+      "celebrations": [
+        {
+          "title": "Weekday",
+          "rank": "weekday"
+        },
+        {
+          "title": "Our Lady of Lourdes",
+          "rank": "optional memorial"
+        }
+      ],
+      "readings": {
+        "first_reading": "Gn 1:20—2:4a",
+        "second_reading": null,
+        "gospel": "Mk 7:1-13",
+        "psalm": null
+      },
+      "saint": null,
+      "color": "green",
+      "season": "Ordinary Time"
+    },
+    {
+      "date": "2025-02-12",
+      "weekday": "wed",
+      "celebrations": [
+        {
+          "title": "Weekday",
+          "rank": "weekday"
+        }
+      ],
+      "readings": {
+        "first_reading": "Gn 2:4b-9, 15-17",
+        "second_reading": null,
+        "gospel": "Mk 7:14-23",
+        "psalm": null
+      },
+      "saint": null,
+      "color": "green",
+      "season": "Ordinary Time"
+    },
+    {
+      "date": "2025-02-13",
+      "weekday": "thu",
+      "celebrations": [
+        {
+          "title": "Weekday",
+          "rank": "weekday"
+        }
+      ],
+      "readings": {
+        "first_reading": "Gn 2:18-25",
+        "second_reading": null,
+        "gospel": "Mk 7:24-30",
+        "psalm": null
+      },
+      "saint": null,
+      "color": "green",
+      "season": "Ordinary Time"
+    },
+    {
+      "date": "2025-02-14",
+      "weekday": "fri",
+      "celebrations": [
+        {
+          "title": "Saints Cyril, Monk, and Methodius, Bishop",
+          "rank": "memorial"
+        }
+      ],
+      "readings": {
+        "first_reading": "Gn 3:1-8",
+        "second_reading": null,
+        "gospel": "Mk 7:31-37",
+        "psalm": null
+      },
+      "saint": "Cyril and Methodius",
+      "color": "white",
+      "season": "Ordinary Time"
+    },
+    {
+      "date": "2025-02-15",
+      "weekday": "sat",
+      "celebrations": [
+        {
+          "title": "Weekday",
+          "rank": "weekday"
+        },
+        {
+          "title": "Blessed Virgin Mary",
+          "rank": "optional memorial"
+        }
+      ],
+      "readings": {
+        "first_reading": "Gn 3:9-24",
+        "second_reading": null,
+        "gospel": "Mk 8:1-10",
+        "psalm": null
+      },
+      "saint": null,
+      "color": "green",
+      "season": "Ordinary Time"
+    },
+    {
+      "date": "2025-02-16",
+      "weekday": "sun",
+      "celebrations": [
+        {
+          "title": "SIXTH SUNDAY IN ORDINARY TIME",
+          "rank": "sunday"
+        }
+      ],
+      "readings": {
+        "first_reading": "Jer 17:5-8",
+        "second_reading": "1 Cor 15:12, 16-20",
+        "gospel": "Lk 6:17, 20-26",
+        "psalm": "II"
+      },
+      "saint": null,
+      "color": "green",
+      "season": "Ordinary Time"
+    },
+    {
+      "date": "2025-02-17",
+      "weekday": "mon",
+      "celebrations": [
+        {
+          "title": "Weekday",
+          "rank": "weekday"
+        },
+        {
+          "title": "The Seven Holy Founders of the Servite Order",
+          "rank": "optional memorial"
+        }
+      ],
+      "readings": {
+        "first_reading": "Gn 4:1-15, 25",
+        "second_reading": null,
+        "gospel": "Mk 8:11-13",
+        "psalm": null
+      },
+      "saint": null,
+      "color": "green",
+      "season": "Ordinary Time"
+    },
+    {
+      "date": "2025-02-18",
+      "weekday": "tue",
+      "celebrations": [
+        {
+          "title": "Weekday",
+          "rank": "weekday"
+        }
+      ],
+      "readings": {
+        "first_reading": "Gn 6:5-8; 7:1-5, 10",
+        "second_reading": null,
+        "gospel": "Mk 8:14-21",
+        "psalm": null
+      },
+      "saint": null,
+      "color": "green",
+      "season": "Ordinary Time"
+    },
+    {
+      "date": "2025-02-19",
+      "weekday": "wed",
+      "celebrations": [
+        {
+          "title": "Weekday",
+          "rank": "weekday"
+        }
+      ],
+      "readings": {
+        "first_reading": "Gn 8:6-13, 20-22",
+        "second_reading": null,
+        "gospel": "Mk 8:22-26",
+        "psalm": null
+      },
+      "saint": null,
+      "color": "green",
+      "season": "Ordinary Time"
+    },
+    {
+      "date": "2025-02-20",
+      "weekday": "thu",
+      "celebrations": [
+        {
+          "title": "Weekday",
+          "rank": "weekday"
+        }
+      ],
+      "readings": {
+        "first_reading": "Gn 9:1-13",
+        "second_reading": null,
+        "gospel": "Mk 8:27-33",
+        "psalm": null
+      },
+      "saint": null,
+      "color": "green",
+      "season": "Ordinary Time"
+    },
+    {
+      "date": "2025-02-21",
+      "weekday": "fri",
+      "celebrations": [
+        {
+          "title": "Weekday",
+          "rank": "weekday"
+        },
+        {
+          "title": "Saint Peter Damian, Bishop and Doctor of the Church",
+          "rank": "optional memorial"
+        }
+      ],
+      "readings": {
+        "first_reading": "Gn 11:1-9",
+        "second_reading": null,
+        "gospel": "Mk 8:34—9:1",
+        "psalm": null
+      },
+      "saint": null,
+      "color": "green",
+      "season": "Ordinary Time"
+    },
+    {
+      "date": "2025-02-22",
+      "weekday": "sat",
+      "celebrations": [
+        {
+          "title": "The Chair of Saint Peter the Apostle",
+          "rank": "feast"
+        }
+      ],
+      "readings": {
+        "first_reading": "1 Pt 5:1-4",
+        "second_reading": null,
+        "gospel": "Mt 16:13-19",
+        "psalm": "Prop"
+      },
+      "saint": "Peter",
+      "color": "white",
+      "season": "Ordinary Time"
+    },
+    {
+      "date": "2025-02-23",
+      "weekday": "sun",
+      "celebrations": [
+        {
+          "title": "SEVENTH SUNDAY IN ORDINARY TIME",
+          "rank": "sunday"
+        }
+      ],
+      "readings": {
+        "first_reading": "1 Sm 26:2, 7-9, 12-13, 22-23",
+        "second_reading": "1 Cor 15:45-49",
+        "gospel": "Lk 6:27-38",
+        "psalm": "III"
+      },
+      "saint": null,
+      "color": "green",
+      "season": "Ordinary Time"
+    },
+    {
+      "date": "2025-02-24",
+      "weekday": "mon",
+      "celebrations": [
+        {
+          "title": "Weekday",
+          "rank": "weekday"
+        }
+      ],
+      "readings": {
+        "first_reading": "Sir 1:1-10",
+        "second_reading": null,
+        "gospel": "Mk 9:14-29",
+        "psalm": null
+      },
+      "saint": null,
+      "color": "green",
+      "season": "Ordinary Time"
+    },
+    {
+      "date": "2025-02-25",
+      "weekday": "tue",
+      "celebrations": [
+        {
+          "title": "Weekday",
+          "rank": "weekday"
+        }
+      ],
+      "readings": {
+        "first_reading": "Sir 2:1-11",
+        "second_reading": null,
+        "gospel": "Mk 9:30-37",
+        "psalm": null
+      },
+      "saint": null,
+      "color": "green",
+      "season": "Ordinary Time"
+    },
+    {
+      "date": "2025-02-26",
+      "weekday": "wed",
+      "celebrations": [
+        {
+          "title": "Weekday",
+          "rank": "weekday"
+        }
+      ],
+      "readings": {
+        "first_reading": "Sir 4:11-19",
+        "second_reading": null,
+        "gospel": "Mk 9:38-40",
+        "psalm": null
+      },
+      "saint": null,
+      "color": "green",
+      "season": "Ordinary Time"
+    },
+    {
+      "date": "2025-02-27",
+      "weekday": "thu",
+      "celebrations": [
+        {
+          "title": "Weekday",
+          "rank": "weekday"
+        },
+        {
+          "title": "Saint Gregory of Narek, Abbot and Doctor of the Church",
+          "rank": "optional memorial"
+        }
+      ],
+      "readings": {
+        "first_reading": "Sir 5:1-8",
+        "second_reading": null,
+        "gospel": "Mk 9:41-50",
+        "psalm": null
+      },
+      "saint": null,
+      "color": "green",
+      "season": "Ordinary Time"
+    },
+    {
+      "date": "2025-02-28",
+      "weekday": "fri",
+      "celebrations": [
+        {
+          "title": "Weekday",
+          "rank": "weekday"
+        }
+      ],
+      "readings": {
+        "first_reading": "Sir 6:5-17",
+        "second_reading": null,
+        "gospel": "Mk 10:1-12",
+        "psalm": null
+      },
+      "saint": null,
+      "color": "green",
+      "season": "Ordinary Time"
+    },
+    {
+      "date": "2025-03-01",
+      "weekday": "sat",
+      "celebrations": [
+        {
+          "title": "Weekday",
+          "rank": "weekday"
+        },
+        {
+          "title": "Blessed Virgin Mary",
+          "rank": "optional memorial"
+        }
+      ],
+      "readings": {
+        "first_reading": "Sir 17:1-15",
+        "second_reading": null,
+        "gospel": "Mk 10:13-16",
+        "psalm": null
+      },
+      "saint": null,
+      "color": "green",
+      "season": "Ordinary Time"
+    },
+    {
+      "date": "2025-03-02",
+      "weekday": "sun",
+      "celebrations": [
+        {
+          "title": "EIGHTH SUNDAY IN ORDINARY TIME",
+          "rank": "sunday"
+        }
+      ],
+      "readings": {
+        "first_reading": "Sir 27:4-7",
+        "second_reading": "1 Cor 15:54-58",
+        "gospel": "Lk 6:39-45",
+        "psalm": "IV"
+      },
+      "saint": null,
+      "color": "green",
+      "season": "Ordinary Time"
+    },
+    {
+      "date": "2025-03-03",
+      "weekday": "mon",
+      "celebrations": [
+        {
+          "title": "Weekday",
+          "rank": "weekday"
+        },
+        {
+          "title": "Saint Katharine Drexel, Virgin",
+          "rank": "optional memorial"
+        }
+      ],
+      "readings": {
+        "first_reading": "Sir 17:20-24",
+        "second_reading": null,
+        "gospel": "Mk 10:17-27",
+        "psalm": null
+      },
+      "saint": null,
+      "color": "green",
+      "season": "Ordinary Time"
+    },
+    {
+      "date": "2025-03-04",
+      "weekday": "tue",
+      "celebrations": [
+        {
+          "title": "Weekday",
+          "rank": "weekday"
+        },
+        {
+          "title": "Saint Casimir",
+          "rank": "optional memorial"
+        }
+      ],
+      "readings": {
+        "first_reading": "Sir 35:1-12",
+        "second_reading": null,
+        "gospel": "Mk 10:28-31",
+        "psalm": null
+      },
+      "saint": null,
+      "color": "green",
+      "season": "Ordinary Time"
+    },
+    {
+      "date": "2025-03-05",
+      "weekday": "wed",
+      "celebrations": [
+        {
+          "title": "Ash Wednesday",
+          "rank": "solemnity"
+        }
+      ],
+      "readings": {
+        "first_reading": "Jl 2:12-18",
+        "second_reading": "2 Cor 5:20—6:2",
+        "gospel": "Mt 6:1-6, 16-18",
+        "psalm": "IV"
+      },
+      "saint": null,
+      "color": "violet",
+      "season": "Lent"
+    },
+    {
+      "date": "2025-03-06",
+      "weekday": "thu",
+      "celebrations": [
+        {
+          "title": "Thursday after Ash Wednesday",
+          "rank": "weekday"
+        }
+      ],
+      "readings": {
+        "first_reading": "Dt 30:15-20",
+        "second_reading": null,
+        "gospel": "Lk 9:22-25",
+        "psalm": null
+      },
+      "saint": null,
+      "color": "violet",
+      "season": "Lent"
+    },
+    {
+      "date": "2025-03-07",
+      "weekday": "fri",
+      "celebrations": [
+        {
+          "title": "Friday after Ash Wednesday",
+          "rank": "weekday"
+        },
+        {
+          "title": "Saints Perpetua and Felicity, Martyrs",
+          "rank": "optional memorial"
+        }
+      ],
+      "readings": {
+        "first_reading": "Is 58:1-9a",
+        "second_reading": null,
+        "gospel": "Mt 9:14-15",
+        "psalm": null
+      },
+      "saint": null,
+      "color": "violet",
+      "season": "Lent"
+    },
+    {
+      "date": "2025-03-08",
+      "weekday": "sat",
+      "celebrations": [
+        {
+          "title": "Saturday after Ash Wednesday",
+          "rank": "weekday"
+        },
+        {
+          "title": "Saint John of God, Religious",
+          "rank": "optional memorial"
+        }
+      ],
+      "readings": {
+        "first_reading": "Is 58:9b-14",
+        "second_reading": null,
+        "gospel": "Lk 5:27-32",
+        "psalm": null
+      },
+      "saint": null,
+      "color": "violet",
+      "season": "Lent"
+    },
+    {
+      "date": "2025-03-09",
+      "weekday": "sun",
+      "celebrations": [
+        {
+          "title": "FIRST SUNDAY OF LENT",
+          "rank": "sunday"
+        }
+      ],
+      "readings": {
+        "first_reading": "Dt 26:4-10",
+        "second_reading": "Rom 10:8-13",
+        "gospel": "Lk 4:1-13",
+        "psalm": "I"
+      },
+      "saint": null,
+      "color": "violet",
+      "season": "Lent"
+    },
+    {
+      "date": "2025-03-10",
+      "weekday": "mon",
+      "celebrations": [
+        {
+          "title": "Lenten Weekday",
+          "rank": "weekday"
+        }
+      ],
+      "readings": {
+        "first_reading": "Lv 19:1-2, 11-18",
+        "second_reading": null,
+        "gospel": "Mt 25:31-46",
+        "psalm": null
+      },
+      "saint": null,
+      "color": "violet",
+      "season": "Lent"
+    },
+    {
+      "date": "2025-03-11",
+      "weekday": "tue",
+      "celebrations": [
+        {
+          "title": "Lenten Weekday",
+          "rank": "weekday"
+        }
+      ],
+      "readings": {
+        "first_reading": "Is 55:10-11",
+        "second_reading": null,
+        "gospel": "Mt 6:7-15",
+        "psalm": null
+      },
+      "saint": null,
+      "color": "violet",
+      "season": "Lent"
+    },
+    {
+      "date": "2025-03-12",
+      "weekday": "wed",
+      "celebrations": [
+        {
+          "title": "Lenten Weekday",
+          "rank": "weekday"
+        }
+      ],
+      "readings": {
+        "first_reading": "Jon 3:1-10",
+        "second_reading": null,
+        "gospel": "Lk 11:29-32",
+        "psalm": null
+      },
+      "saint": null,
+      "color": "violet",
+      "season": "Lent"
+    },
+    {
+      "date": "2025-03-13",
+      "weekday": "thu",
+      "celebrations": [
+        {
+          "title": "Lenten Weekday",
+          "rank": "weekday"
+        }
+      ],
+      "readings": {
+        "first_reading": "Est C:12, 14-16, 23-25",
+        "second_reading": null,
+        "gospel": "Mt 7:7-12",
+        "psalm": null
+      },
+      "saint": null,
+      "color": "violet",
+      "season": "Lent"
+    },
+    {
+      "date": "2025-03-14",
+      "weekday": "fri",
+      "celebrations": [
+        {
+          "title": "Lenten Weekday",
+          "rank": "weekday"
+        }
+      ],
+      "readings": {
+        "first_reading": "Ez 18:21-28",
+        "second_reading": null,
+        "gospel": "Mt 5:20-26",
+        "psalm": null
+      },
+      "saint": null,
+      "color": "violet",
+      "season": "Lent"
+    },
+    {
+      "date": "2025-03-15",
+      "weekday": "sat",
+      "celebrations": [
+        {
+          "title": "Lenten Weekday",
+          "rank": "weekday"
+        }
+      ],
+      "readings": {
+        "first_reading": "Dt 26:16-19",
+        "second_reading": null,
+        "gospel": "Mt 5:43-48",
+        "psalm": null
+      },
+      "saint": null,
+      "color": "violet",
+      "season": "Lent"
+    },
+    {
+      "date": "2025-03-16",
+      "weekday": "sun",
+      "celebrations": [
+        {
+          "title": "SECOND SUNDAY OF LENT",
+          "rank": "sunday"
+        }
+      ],
+      "readings": {
+        "first_reading": "Gn 15:5-12, 17-18",
+        "second_reading": "Phil 3:17—4:1 or 3:20—4:1",
+        "gospel": "Lk 9:28b-36",
+        "psalm": "II"
+      },
+      "saint": null,
+      "color": "violet",
+      "season": "Lent"
+    },
+    {
+      "date": "2025-03-17",
+      "weekday": "mon",
+      "celebrations": [
+        {
+          "title": "Lenten Weekday",
+          "rank": "weekday"
+        },
+        {
+          "title": "Saint Patrick, Bishop",
+          "rank": "optional memorial"
+        }
+      ],
+      "readings": {
+        "first_reading": "Dn 9:4b-10",
+        "second_reading": null,
+        "gospel": "Lk 6:36-38",
+        "psalm": null
+      },
+      "saint": null,
+      "color": "violet",
+      "season": "Lent"
+    },
+    {
+      "date": "2025-03-18",
+      "weekday": "tue",
+      "celebrations": [
+        {
+          "title": "Lenten Weekday",
+          "rank": "weekday"
+        },
+        {
+          "title": "Saint Cyril of Jerusalem, Bishop and Doctor of the Church",
+          "rank": "optional memorial"
+        }
+      ],
+      "readings": {
+        "first_reading": "Is 1:10, 16-20",
+        "second_reading": null,
+        "gospel": "Mt 23:1-12",
+        "psalm": null
+      },
+      "saint": null,
+      "color": "violet",
+      "season": "Lent"
+    },
+    {
+      "date": "2025-03-19",
+      "weekday": "wed",
+      "celebrations": [
+        {
+          "title": "SAINT JOSEPH, SPOUSE OF THE BLESSED VIRGIN MARY",
+          "rank": "solemnity"
+        }
+      ],
+      "readings": {
+        "first_reading": "2 Sm 7:4-5a, 12-14a, 16",
+        "second_reading": "Rom 4:13, 16-18, 22",
+        "gospel": "Mt 1:16, 18-21, 24a or Lk 2:41-51a",
+        "psalm": "Prop"
+      },
+      "saint": "Joseph",
+      "color": "white",
+      "season": "Lent"
+    },
+    {
+      "date": "2025-03-20",
+      "weekday": "thu",
+      "celebrations": [
+        {
+          "title": "Lenten Weekday",
+          "rank": "weekday"
+        }
+      ],
+      "readings": {
+        "first_reading": "Jer 17:5-10",
+        "second_reading": null,
+        "gospel": "Lk 16:19-31",
+        "psalm": null
+      },
+      "saint": null,
+      "color": "violet",
+      "season": "Lent"
+    },
+    {
+      "date": "2025-03-21",
+      "weekday": "fri",
+      "celebrations": [
+        {
+          "title": "Lenten Weekday",
+          "rank": "weekday"
+        }
+      ],
+      "readings": {
+        "first_reading": "Gn 37:3-4, 12-13a, 17b-28a",
+        "second_reading": null,
+        "gospel": "Mt 21:33-43, 45-46",
+        "psalm": null
+      },
+      "saint": null,
+      "color": "violet",
+      "season": "Lent"
+    },
+    {
+      "date": "2025-03-22",
+      "weekday": "sat",
+      "celebrations": [
+        {
+          "title": "Lenten Weekday",
+          "rank": "weekday"
+        }
+      ],
+      "readings": {
+        "first_reading": "Mi 7:14-15, 18-20",
+        "second_reading": null,
+        "gospel": "Lk 15:1-3, 11-32",
+        "psalm": null
+      },
+      "saint": null,
+      "color": "violet",
+      "season": "Lent"
+    },
+    {
+      "date": "2025-03-23",
+      "weekday": "sun",
+      "celebrations": [
+        {
+          "title": "THIRD SUNDAY OF LENT",
+          "rank": "sunday"
+        }
+      ],
+      "readings": {
+        "first_reading": "Ex 3:1-8a, 13-15",
+        "second_reading": "1 Cor 10:1-6, 10-12",
+        "gospel": "Lk 13:1-9",
+        "psalm": "III"
+      },
+      "saint": null,
+      "color": "violet",
+      "season": "Lent"
+    },
+    {
+      "date": "2025-03-24",
+      "weekday": "mon",
+      "celebrations": [
+        {
+          "title": "Lenten Weekday",
+          "rank": "weekday"
+        }
+      ],
+      "readings": {
+        "first_reading": "2 Kgs 5:1-15b",
+        "second_reading": null,
+        "gospel": "Lk 4:24-30",
+        "psalm": null
+      },
+      "saint": null,
+      "color": "violet",
+      "season": "Lent"
+    },
+    {
+      "date": "2025-03-25",
+      "weekday": "tue",
+      "celebrations": [
+        {
+          "title": "THE ANNUNCIATION OF THE LORD",
+          "rank": "solemnity"
+        }
+      ],
+      "readings": {
+        "first_reading": "Is 7:10-14; 8:10",
+        "second_reading": "Heb 10:4-10",
+        "gospel": "Lk 1:26-38",
+        "psalm": "Prop"
+      },
+      "saint": null,
+      "color": "white",
+      "season": "Lent"
+    },
+    {
+      "date": "2025-03-26",
+      "weekday": "wed",
+      "celebrations": [
+        {
+          "title": "Lenten Weekday",
+          "rank": "weekday"
+        }
+      ],
+      "readings": {
+        "first_reading": "Dt 4:1, 5-9",
+        "second_reading": null,
+        "gospel": "Mt 5:17-19",
+        "psalm": null
+      },
+      "saint": null,
+      "color": "violet",
+      "season": "Lent"
+    },
+    {
+      "date": "2025-03-27",
+      "weekday": "thu",
+      "celebrations": [
+        {
+          "title": "Lenten Weekday",
+          "rank": "weekday"
+        }
+      ],
+      "readings": {
+        "first_reading": "Jer 7:23-28",
+        "second_reading": null,
+        "gospel": "Lk 11:14-23",
+        "psalm": null
+      },
+      "saint": null,
+      "color": "violet",
+      "season": "Lent"
+    },
+    {
+      "date": "2025-03-28",
+      "weekday": "fri",
+      "celebrations": [
+        {
+          "title": "Lenten Weekday",
+          "rank": "weekday"
+        }
+      ],
+      "readings": {
+        "first_reading": "Hos 14:2-10",
+        "second_reading": null,
+        "gospel": "Mk 12:28-34",
+        "psalm": null
+      },
+      "saint": null,
+      "color": "violet",
+      "season": "Lent"
+    },
+    {
+      "date": "2025-03-29",
+      "weekday": "sat",
+      "celebrations": [
+        {
+          "title": "Lenten Weekday",
+          "rank": "weekday"
+        }
+      ],
+      "readings": {
+        "first_reading": "Hos 6:1-6",
+        "second_reading": null,
+        "gospel": "Lk 18:9-14",
+        "psalm": null
+      },
+      "saint": null,
+      "color": "violet",
+      "season": "Lent"
+    },
+    {
+      "date": "2025-03-30",
+      "weekday": "sun",
+      "celebrations": [
+        {
+          "title": "FOURTH SUNDAY OF LENT",
+          "rank": "sunday"
+        }
+      ],
+      "readings": {
+        "first_reading": "Jos 5:9a, 10-12",
+        "second_reading": "2 Cor 5:17-21",
+        "gospel": "Lk 15:1-3, 11-32",
+        "psalm": "IV"
+      },
+      "saint": null,
+      "color": "violet",
+      "season": "Lent"
+    },
+    {
+      "date": "2025-03-31",
+      "weekday": "mon",
+      "celebrations": [
+        {
+          "title": "Lenten Weekday",
+          "rank": "weekday"
+        }
+      ],
+      "readings": {
+        "first_reading": "Is 65:17-21",
+        "second_reading": null,
+        "gospel": "Jn 4:43-54",
+        "psalm": null
+      },
+      "saint": null,
+      "color": "violet",
+      "season": "Lent"
+    },
+    {
+      "date": "2025-04-01",
+      "weekday": "tue",
+      "celebrations": [
+        {
+          "title": "Lenten Weekday",
+          "rank": "weekday"
+        }
+      ],
+      "readings": {
+        "first_reading": "Ez 47:1-9, 12",
+        "second_reading": null,
+        "gospel": "Jn 5:1-16",
+        "psalm": null
+      },
+      "saint": null,
+      "color": "violet",
+      "season": "Lent"
+    },
+    {
+      "date": "2025-04-02",
+      "weekday": "wed",
+      "celebrations": [
+        {
+          "title": "Lenten Weekday",
+          "rank": "weekday"
+        },
+        {
+          "title": "Saint Francis of Paola, Hermit",
+          "rank": "optional memorial"
+        }
+      ],
+      "readings": {
+        "first_reading": "Is 49:8-15",
+        "second_reading": null,
+        "gospel": "Jn 5:17-30",
+        "psalm": null
+      },
+      "saint": null,
+      "color": "violet",
+      "season": "Lent"
+    },
+    {
+      "date": "2025-04-03",
+      "weekday": "thu",
+      "celebrations": [
+        {
+          "title": "Lenten Weekday",
+          "rank": "weekday"
+        }
+      ],
+      "readings": {
+        "first_reading": "Ex 32:7-14",
+        "second_reading": null,
+        "gospel": "Jn 5:31-47",
+        "psalm": null
+      },
+      "saint": null,
+      "color": "violet",
+      "season": "Lent"
+    },
+    {
+      "date": "2025-04-04",
+      "weekday": "fri",
+      "celebrations": [
+        {
+          "title": "Lenten Weekday",
+          "rank": "weekday"
+        },
+        {
+          "title": "Saint Isidore, Bishop and Doctor of the Church",
+          "rank": "optional memorial"
+        }
+      ],
+      "readings": {
+        "first_reading": "Wis 2:1a, 12-22",
+        "second_reading": null,
+        "gospel": "Jn 7:1-2, 10, 25-30",
+        "psalm": null
+      },
+      "saint": null,
+      "color": "violet",
+      "season": "Lent"
+    },
+    {
+      "date": "2025-04-05",
+      "weekday": "sat",
+      "celebrations": [
+        {
+          "title": "Lenten Weekday",
+          "rank": "weekday"
+        },
+        {
+          "title": "Saint Vincent Ferrer, Priest",
+          "rank": "optional memorial"
+        }
+      ],
+      "readings": {
+        "first_reading": "Jer 11:18-20",
+        "second_reading": null,
+        "gospel": "Jn 7:40-53",
+        "psalm": null
+      },
+      "saint": null,
+      "color": "violet",
+      "season": "Lent"
+    },
+    {
+      "date": "2025-04-06",
+      "weekday": "sun",
+      "celebrations": [
+        {
+          "title": "FIFTH SUNDAY OF LENT",
+          "rank": "sunday"
+        }
+      ],
+      "readings": {
+        "first_reading": "Is 43:16-21",
+        "second_reading": "Phil 3:8-14",
+        "gospel": "Jn 8:1-11",
+        "psalm": "I"
+      },
+      "saint": null,
+      "color": "violet",
+      "season": "Lent"
+    },
+    {
+      "date": "2025-04-07",
+      "weekday": "mon",
+      "celebrations": [
+        {
+          "title": "Lenten Weekday",
+          "rank": "weekday"
+        },
+        {
+          "title": "Saint John Baptist de la Salle, Priest",
+          "rank": "optional memorial"
+        }
+      ],
+      "readings": {
+        "first_reading": "Dn 13:1-9, 15-17, 19-30, 33-62 or 13:41c-62",
+        "second_reading": null,
+        "gospel": "Jn 8:12-20",
+        "psalm": null
+      },
+      "saint": null,
+      "color": "violet",
+      "season": "Lent"
+    },
+    {
+      "date": "2025-04-08",
+      "weekday": "tue",
+      "celebrations": [
+        {
+          "title": "Lenten Weekday",
+          "rank": "weekday"
+        }
+      ],
+      "readings": {
+        "first_reading": "Nm 21:4-9",
+        "second_reading": null,
+        "gospel": "Jn 8:21-30",
+        "psalm": null
+      },
+      "saint": null,
+      "color": "violet",
+      "season": "Lent"
+    },
+    {
+      "date": "2025-04-09",
+      "weekday": "wed",
+      "celebrations": [
+        {
+          "title": "Lenten Weekday",
+          "rank": "weekday"
+        }
+      ],
+      "readings": {
+        "first_reading": "Dn 3:14-20, 91-92, 95",
+        "second_reading": null,
+        "gospel": "Jn 8:31-42",
+        "psalm": null
+      },
+      "saint": null,
+      "color": "violet",
+      "season": "Lent"
+    },
+    {
+      "date": "2025-04-10",
+      "weekday": "thu",
+      "celebrations": [
+        {
+          "title": "Lenten Weekday",
+          "rank": "weekday"
+        }
+      ],
+      "readings": {
+        "first_reading": "Gn 17:3-9",
+        "second_reading": null,
+        "gospel": "Jn 8:51-59",
+        "psalm": null
+      },
+      "saint": null,
+      "color": "violet",
+      "season": "Lent"
+    },
+    {
+      "date": "2025-04-11",
+      "weekday": "fri",
+      "celebrations": [
+        {
+          "title": "Lenten Weekday",
+          "rank": "weekday"
+        },
+        {
+          "title": "Saint Stanislaus, Bishop and Martyr",
+          "rank": "optional memorial"
+        }
+      ],
+      "readings": {
+        "first_reading": "Jer 20:10-13",
+        "second_reading": null,
+        "gospel": "Jn 10:31-42",
+        "psalm": null
+      },
+      "saint": null,
+      "color": "violet",
+      "season": "Lent"
+    },
+    {
+      "date": "2025-04-12",
+      "weekday": "sat",
+      "celebrations": [
+        {
+          "title": "Lenten Weekday",
+          "rank": "weekday"
+        }
+      ],
+      "readings": {
+        "first_reading": "Ez 37:21-28",
+        "second_reading": null,
+        "gospel": "Jn 11:45-56",
+        "psalm": null
+      },
+      "saint": null,
+      "color": "violet",
+      "season": "Lent"
+    },
+    {
+      "date": "2025-04-13",
+      "weekday": "sun",
+      "celebrations": [
+        {
+          "title": "PALM SUNDAY OF THE PASSION OF THE LORD",
+          "rank": "sunday"
+        }
+      ],
+      "readings": {
+        "first_reading": "Is 50:4-7",
+        "second_reading": "Phil 2:6-11",
+        "gospel": "Lk 22:14—23:56 or 23:1-49",
+        "psalm": "II"
+      },
+      "saint": null,
+      "color": "red",
+      "season": "Lent"
+    },
+    {
+      "date": "2025-04-14",
+      "weekday": "mon",
+      "celebrations": [
+        {
+          "title": "Monday of Holy Week",
+          "rank": "weekday"
+        }
+      ],
+      "readings": {
+        "first_reading": "Is 42:1-7",
+        "second_reading": null,
+        "gospel": "Jn 12:1-11",
+        "psalm": null
+      },
+      "saint": null,
+      "color": "violet",
+      "season": "Lent"
+    },
+    {
+      "date": "2025-04-15",
+      "weekday": "tue",
+      "celebrations": [
+        {
+          "title": "Tuesday of Holy Week",
+          "rank": "weekday"
+        }
+      ],
+      "readings": {
+        "first_reading": "Is 49:1-6",
+        "second_reading": null,
+        "gospel": "Jn 13:21-33, 36-38",
+        "psalm": null
+      },
+      "saint": null,
+      "color": "violet",
+      "season": "Lent"
+    },
+    {
+      "date": "2025-04-16",
+      "weekday": "wed",
+      "celebrations": [
+        {
+          "title": "Wednesday of Holy Week",
+          "rank": "weekday"
+        }
+      ],
+      "readings": {
+        "first_reading": "Is 50:4-9a",
+        "second_reading": null,
+        "gospel": "Mt 26:14-25",
+        "psalm": null
+      },
+      "saint": null,
+      "color": "violet",
+      "season": "Lent"
+    },
+    {
+      "date": "2025-04-17",
+      "weekday": "thu",
+      "celebrations": [
+        {
+          "title": "Thursday of Holy Week (Holy Thursday)",
+          "rank": "solemnity"
+        }
+      ],
+      "readings": {
+        "first_reading": "Ex 12:1-8, 11-14",
+        "second_reading": "1 Cor 11:23-26",
+        "gospel": "Jn 13:1-15",
+        "psalm": "Prop"
+      },
+      "saint": null,
+      "color": "white",
+      "season": "Lent"
+    },
+    {
+      "date": "2025-04-18",
+      "weekday": "fri",
+      "celebrations": [
+        {
+          "title": "Friday of the Passion of the Lord (Good Friday)",
+          "rank": "solemnity"
+        }
+      ],
+      "readings": {
+        "first_reading": "Is 52:13—53:12",
+        "second_reading": "Heb 4:14-16; 5:7-9",
+        "gospel": "Jn 18:1—19:42",
+        "psalm": "Prop"
+      },
+      "saint": null,
+      "color": "red",
+      "season": "Lent"
+    },
+    {
+      "date": "2025-04-19",
+      "weekday": "sat",
+      "celebrations": [
+        {
+          "title": "Holy Saturday",
+          "rank": "solemnity"
+        }
+      ],
+      "readings": {
+        "first_reading": "Gn 1:1—2:2 or 1:1, 26-31a",
+        "second_reading": "Rom 6:3-11",
+        "gospel": "Lk 24:1-12",
+        "psalm": "Prop"
+      },
+      "saint": null,
+      "color": "white",
+      "season": "Easter"
+    },
+    {
+      "date": "2025-04-20",
+      "weekday": "sun",
+      "celebrations": [
+        {
+          "title": "EASTER SUNDAY OF THE RESURRECTION OF THE LORD",
+          "rank": "solemnity"
+        }
+      ],
+      "readings": {
+        "first_reading": "Acts 10:34a, 37-43",
+        "second_reading": "Col 3:1-4 or 1 Cor 5:6b-8",
+        "gospel": "Jn 20:1-9 or Lk 24:1-12",
+        "psalm": "Prop"
+      },
+      "saint": null,
+      "color": "white",
+      "season": "Easter"
+    },
+    {
+      "date": "2025-04-21",
+      "weekday": "mon",
+      "celebrations": [
+        {
+          "title": "Monday within the Octave of Easter",
+          "rank": "solemnity"
+        }
+      ],
+      "readings": {
+        "first_reading": "Acts 2:14, 22-33",
+        "second_reading": null,
+        "gospel": "Mt 28:8-15",
+        "psalm": "Prop"
+      },
+      "saint": null,
+      "color": "white",
+      "season": "Easter"
+    },
+    {
+      "date": "2025-04-22",
+      "weekday": "tue",
+      "celebrations": [
+        {
+          "title": "Tuesday within the Octave of Easter",
+          "rank": "solemnity"
+        }
+      ],
+      "readings": {
+        "first_reading": "Acts 2:36-41",
+        "second_reading": null,
+        "gospel": "Jn 20:11-18",
+        "psalm": "Prop"
+      },
+      "saint": null,
+      "color": "white",
+      "season": "Easter"
+    },
+    {
+      "date": "2025-04-23",
+      "weekday": "wed",
+      "celebrations": [
+        {
+          "title": "Wednesday within the Octave of Easter",
+          "rank": "solemnity"
+        }
+      ],
+      "readings": {
+        "first_reading": "Acts 3:1-10",
+        "second_reading": null,
+        "gospel": "Lk 24:13-35",
+        "psalm": "Prop"
+      },
+      "saint": null,
+      "color": "white",
+      "season": "Easter"
+    },
+    {
+      "date": "2025-04-24",
+      "weekday": "thu",
+      "celebrations": [
+        {
+          "title": "Thursday within the Octave of Easter",
+          "rank": "solemnity"
+        }
+      ],
+      "readings": {
+        "first_reading": "Acts 3:11-26",
+        "second_reading": null,
+        "gospel": "Lk 24:35-48",
+        "psalm": "Prop"
+      },
+      "saint": null,
+      "color": "white",
+      "season": "Easter"
+    },
+    {
+      "date": "2025-04-25",
+      "weekday": "fri",
+      "celebrations": [
+        {
+          "title": "Friday within the Octave of Easter",
+          "rank": "solemnity"
+        }
+      ],
+      "readings": {
+        "first_reading": "Acts 4:1-12",
+        "second_reading": null,
+        "gospel": "Jn 21:1-14",
+        "psalm": "Prop"
+      },
+      "saint": null,
+      "color": "white",
+      "season": "Easter"
+    },
+    {
+        "date": "2025-04-26",
+        "weekday": "sat",
+        "celebrations": [
+        {
+            "title": "Saturday within the Octave of Easter",
+            "rank": "solemnity"
+        }
+        ],
+        "readings": {
+        "first_reading": "Acts 4:13-21",
+        "second_reading": null,
+        "gospel": "Mk 16:9-15",
+        "psalm": "Prop"
+        },
+        "saint": null,
+        "color": "white",
+        "season": "Easter"
+    },
+    {
+        "date": "2025-04-27",
+        "weekday": "sun",
+        "celebrations": [
+        {
+            "title": "SECOND SUNDAY OF EASTER (OR SUNDAY OF DIVINE MERCY)",
+            "rank": "sunday"
+        }
+        ],
+        "readings": {
+        "first_reading": "Acts 5:12-16",
+        "second_reading": "Rv 1:9-11a, 12-13, 17-19",
+        "gospel": "Jn 20:19-31",
+        "psalm": "Prop"
+        },
+        "saint": null,
+        "color": "white",
+        "season": "Easter"
+    },
+    {
+        "date": "2025-04-28",
+        "weekday": "mon",
+        "celebrations": [
+        {
+            "title": "Easter Weekday",
+            "rank": "weekday"
+        },
+        {
+            "title": "Saint Peter Chanel, Priest and Martyr",
+            "rank": "optional memorial"
+        },
+        {
+            "title": "Saint Louis Grignion de Montfort, Priest",
+            "rank": "optional memorial"
+        }
+        ],
+        "readings": {
+        "first_reading": "Acts 4:23-31",
+        "second_reading": null,
+        "gospel": "Jn 3:1-8",
+        "psalm": "II"
+        },
+        "saint": null,
+        "color": "white",
+        "season": "Easter"
+    },
+    {
+        "date": "2025-04-29",
+        "weekday": "tue",
+        "celebrations": [
+        {
+            "title": "Saint Catherine of Siena, Virgin and Doctor of the Church",
+            "rank": "memorial"
+        }
+        ],
+        "readings": {
+        "first_reading": "Acts 4:32-37",
+        "second_reading": null,
+        "gospel": "Jn 3:7b-15",
+        "psalm": null
+        },
+        "saint": "Catherine of Siena",
+        "color": "white",
+        "season": "Easter"
+    },
+    {
+        "date": "2025-04-30",
+        "weekday": "wed",
+        "celebrations": [
+        {
+            "title": "Easter Weekday",
+            "rank": "weekday"
+        },
+        {
+            "title": "Saint Pius V, Pope",
+            "rank": "optional memorial"
+        }
+        ],
+        "readings": {
+        "first_reading": "Acts 5:17-26",
+        "second_reading": null,
+        "gospel": "Jn 3:16-21",
+        "psalm": null
+        },
+        "saint": null,
+        "color": "white",
+        "season": "Easter"
+    },
+    {
+        "date": "2025-05-01",
+        "weekday": "thu",
+        "celebrations": [
+        {
+            "title": "Easter Weekday",
+            "rank": "weekday"
+        },
+        {
+            "title": "Saint Joseph the Worker",
+            "rank": "optional memorial"
+        }
+        ],
+        "readings": {
+        "first_reading": "Acts 5:27-33",
+        "second_reading": null,
+        "gospel": "Jn 3:31-36",
+        "psalm": null
+        },
+        "saint": null,
+        "color": "white",
+        "season": "Easter"
+    },
+    {
+        "date": "2025-05-02",
+        "weekday": "fri",
+        "celebrations": [
+        {
+            "title": "Saint Athanasius, Bishop and Doctor of the Church",
+            "rank": "memorial"
+        }
+        ],
+        "readings": {
+        "first_reading": "Acts 5:34-42",
+        "second_reading": null,
+        "gospel": "Jn 6:1-15",
+        "psalm": null
+        },
+        "saint": "Athanasius",
+        "color": "white",
+        "season": "Easter"
+    },
+    {
+        "date": "2025-05-03",
+        "weekday": "sat",
+        "celebrations": [
+        {
+            "title": "Saints Philip and James, Apostles",
+            "rank": "feast"
+        }
+        ],
+        "readings": {
+        "first_reading": "1 Cor 15:1-8",
+        "second_reading": null,
+        "gospel": "Jn 14:6-14",
+        "psalm": "Prop"
+        },
+        "saint": "Philip and James",
+        "color": "red",
+        "season": "Easter"
+    },
+    {
+        "date": "2025-05-04",
+        "weekday": "sun",
+        "celebrations": [
+        {
+            "title": "THIRD SUNDAY OF EASTER",
+            "rank": "sunday"
+        }
+        ],
+        "readings": {
+        "first_reading": "Acts 5:27-32, 40b-41",
+        "second_reading": "Rv 5:11-14",
+        "gospel": "Jn 21:1-19 or 21:1-14",
+        "psalm": "III"
+        },
+        "saint": null,
+        "color": "white",
+        "season": "Easter"
+    },
+    {
+        "date": "2025-05-05",
+        "weekday": "mon",
+        "celebrations": [
+        {
+            "title": "Easter Weekday",
+            "rank": "weekday"
+        }
+        ],
+        "readings": {
+        "first_reading": "Acts 6:8-15",
+        "second_reading": null,
+        "gospel": "Jn 6:22-29",
+        "psalm": null
+        },
+        "saint": null,
+        "color": "white",
+        "season": "Easter"
+    },
+    {
+        "date": "2025-05-06",
+        "weekday": "tue",
+        "celebrations": [
+        {
+            "title": "Easter Weekday",
+            "rank": "weekday"
+        }
+        ],
+        "readings": {
+        "first_reading": "Acts 7:51—8:1a",
+        "second_reading": null,
+        "gospel": "Jn 6:30-35",
+        "psalm": null
+        },
+        "saint": null,
+        "color": "white",
+        "season": "Easter"
+    },
+    {
+        "date": "2025-05-07",
+        "weekday": "wed",
+        "celebrations": [
+        {
+            "title": "Easter Weekday",
+            "rank": "weekday"
+        }
+        ],
+        "readings": {
+        "first_reading": "Acts 8:1b-8",
+        "second_reading": null,
+        "gospel": "Jn 6:35-40",
+        "psalm": null
+        },
+        "saint": null,
+        "color": "white",
+        "season": "Easter"
+    },
+    {
+        "date": "2025-05-08",
+        "weekday": "thu",
+        "celebrations": [
+        {
+            "title": "Easter Weekday",
+            "rank": "weekday"
+        }
+        ],
+        "readings": {
+        "first_reading": "Acts 8:26-40",
+        "second_reading": null,
+        "gospel": "Jn 6:44-51",
+        "psalm": null
+        },
+        "saint": null,
+        "color": "white",
+        "season": "Easter"
+    },
+    {
+        "date": "2025-05-09",
+        "weekday": "fri",
+        "celebrations": [
+        {
+            "title": "Easter Weekday",
+            "rank": "weekday"
+        }
+        ],
+        "readings": {
+        "first_reading": "Acts 9:1-20",
+        "second_reading": null,
+        "gospel": "Jn 6:52-59",
+        "psalm": null
+        },
+        "saint": null,
+        "color": "white",
+        "season": "Easter"
+    },
+    {
+        "date": "2025-05-10",
+        "weekday": "sat",
+        "celebrations": [
+        {
+            "title": "Easter Weekday",
+            "rank": "weekday"
+        },
+        {
+            "title": "Saint John of Avila, Priest and Doctor of the Church",
+            "rank": "optional memorial"
+        },
+        {
+            "title": "Saint Damien de Veuster, Priest",
+            "rank": "optional memorial"
+        }
+        ],
+        "readings": {
+        "first_reading": "Acts 9:31-42",
+        "second_reading": null,
+        "gospel": "Jn 6:60-69",
+        "psalm": null
+        },
+        "saint": null,
+        "color": "white",
+        "season": "Easter"
+    },
+    {
+        "date": "2025-05-11",
+        "weekday": "sun",
+        "celebrations": [
+        {
+            "title": "FOURTH SUNDAY OF EASTER",
+            "rank": "sunday"
+        }
+        ],
+        "readings": {
+        "first_reading": "Acts 13:14, 43-52",
+        "second_reading": "Rv 7:9, 14b-17",
+        "gospel": "Jn 10:27-30",
+        "psalm": "IV"
+        },
+        "saint": null,
+        "color": "white",
+        "season": "Easter"
+    },
+    {
+        "date": "2025-05-12",
+        "weekday": "mon",
+        "celebrations": [
+        {
+            "title": "Easter Weekday",
+            "rank": "weekday"
+        },
+        {
+            "title": "Saints Nereus and Achilleus, Martyrs",
+            "rank": "optional memorial"
+        },
+        {
+            "title": "Saint Pancras, Martyr",
+            "rank": "optional memorial"
+        }
+        ],
+        "readings": {
+        "first_reading": "Acts 11:1-18",
+        "second_reading": null,
+        "gospel": "Jn 10:1-10",
+        "psalm": null
+        },
+        "saint": null,
+        "color": "white",
+        "season": "Easter"
+    },
+    {
+        "date": "2025-05-13",
+        "weekday": "tue",
+        "celebrations": [
+        {
+            "title": "Easter Weekday",
+            "rank": "weekday"
+        },
+        {
+            "title": "Our Lady of Fatima",
+            "rank": "optional memorial"
+        }
+        ],
+        "readings": {
+        "first_reading": "Acts 11:19-26",
+        "second_reading": null,
+        "gospel": "Jn 10:22-30",
+        "psalm": null
+        },
+        "saint": null,
+        "color": "white",
+        "season": "Easter"
+    },
+    {
+        "date": "2025-05-14",
+        "weekday": "wed",
+        "celebrations": [
+        {
+            "title": "Saint Matthias, Apostle",
+            "rank": "feast"
+        }
+        ],
+        "readings": {
+        "first_reading": "Acts 1:15-17, 20-26",
+        "second_reading": null,
+        "gospel": "Jn 15:9-17",
+        "psalm": "Prop"
+        },
+        "saint": "Matthias",
+        "color": "red",
+        "season": "Easter"
+    },
+    {
+        "date": "2025-05-15",
+        "weekday": "thu",
+        "celebrations": [
+        {
+            "title": "Easter Weekday",
+            "rank": "weekday"
+        },
+        {
+            "title": "Saint Isidore",
+            "rank": "optional memorial"
+        }
+        ],
+        "readings": {
+        "first_reading": "Acts 13:13-25",
+        "second_reading": null,
+        "gospel": "Jn 13:16-20",
+        "psalm": null
+        },
+        "saint": null,
+        "color": "white",
+        "season": "Easter"
+    },
+    {
+        "date": "2025-05-16",
+        "weekday": "fri",
+        "celebrations": [
+        {
+            "title": "Easter Weekday",
+            "rank": "weekday"
+        }
+        ],
+        "readings": {
+        "first_reading": "Acts 13:26-33",
+        "second_reading": null,
+        "gospel": "Jn 14:1-6",
+        "psalm": null
+        },
+        "saint": null,
+        "color": "white",
+        "season": "Easter"
+    },
+    {
+        "date": "2025-05-17",
+        "weekday": "sat",
+        "celebrations": [
+        {
+            "title": "Easter Weekday",
+            "rank": "weekday"
+        }
+        ],
+        "readings": {
+        "first_reading": "Acts 13:44-52",
+        "second_reading": null,
+        "gospel": "Jn 14:7-14",
+        "psalm": null
+        },
+        "saint": null,
+        "color": "white",
+        "season": "Easter"
+    },
+    {
+        "date": "2025-05-18",
+        "weekday": "sun",
+        "celebrations": [
+        {
+            "title": "FIFTH SUNDAY OF EASTER",
+            "rank": "sunday"
+        }
+        ],
+        "readings": {
+        "first_reading": "Acts 14:21-27",
+        "second_reading": "Rv 21:1-5a",
+        "gospel": "Jn 13:31-33a, 34-35",
+        "psalm": "I"
+        },
+        "saint": null,
+        "color": "white",
+        "season": "Easter"
+    },
+    {
+        "date": "2025-05-19",
+        "weekday": "mon",
+        "celebrations": [
+        {
+            "title": "Easter Weekday",
+            "rank": "weekday"
+        }
+        ],
+        "readings": {
+        "first_reading": "Acts 14:5-18",
+        "second_reading": null,
+        "gospel": "Jn 14:21-26",
+        "psalm": null
+        },
+        "saint": null,
+        "color": "white",
+        "season": "Easter"
+    },
+    {
+        "date": "2025-05-20",
+        "weekday": "tue",
+        "celebrations": [
+        {
+            "title": "Easter Weekday",
+            "rank": "weekday"
+        },
+        {
+            "title": "Saint Bernardine of Siena, Priest",
+            "rank": "optional memorial"
+        }
+        ],
+        "readings": {
+        "first_reading": "Acts 14:19-28",
+        "second_reading": null,
+        "gospel": "Jn 14:27-31a",
+        "psalm": null
+        },
+        "saint": null,
+        "color": "white",
+        "season": "Easter"
+    },
+    {
+        "date": "2025-05-21",
+        "weekday": "wed",
+        "celebrations": [
+        {
+            "title": "Easter Weekday",
+            "rank": "weekday"
+        },
+        {
+            "title": "Saint Christopher Magallanes, Priest, and Companions, Martyrs",
+            "rank": "optional memorial"
+        }
+        ],
+        "readings": {
+        "first_reading": "Acts 15:1-6",
+        "second_reading": null,
+        "gospel": "Jn 15:1-8",
+        "psalm": null
+        },
+        "saint": null,
+        "color": "white",
+        "season": "Easter"
+    },
+    {
+        "date": "2025-05-22",
+        "weekday": "thu",
+        "celebrations": [
+        {
+            "title": "Easter Weekday",
+            "rank": "weekday"
+        },
+        {
+            "title": "Saint Rita of Cascia, Religious",
+            "rank": "optional memorial"
+        }
+        ],
+        "readings": {
+        "first_reading": "Acts 15:7-21",
+        "second_reading": null,
+        "gospel": "Jn 15:9-11",
+        "psalm": null
+        },
+        "saint": null,
+        "color": "white",
+        "season": "Easter"
+    },
+    {
+        "date": "2025-05-23",
+        "weekday": "fri",
+        "celebrations": [
+        {
+            "title": "Easter Weekday",
+            "rank": "weekday"
+        }
+        ],
+        "readings": {
+        "first_reading": "Acts 15:22-31",
+        "second_reading": null,
+        "gospel": "Jn 15:12-17",
+        "psalm": null
+        },
+        "saint": null,
+        "color": "white",
+        "season": "Easter"
+    },
+    {
+        "date": "2025-05-24",
+        "weekday": "sat",
+        "celebrations": [
+        {
+            "title": "Easter Weekday",
+            "rank": "weekday"
+        }
+        ],
+        "readings": {
+        "first_reading": "Acts 16:1-10",
+        "second_reading": null,
+        "gospel": "Jn 15:18-21",
+        "psalm": null
+        },
+        "saint": null,
+        "color": "white",
+        "season": "Easter"
+    },
+    {
+        "date": "2025-05-25",
+        "weekday": "sun",
+        "celebrations": [
+        {
+            "title": "SIXTH SUNDAY OF EASTER",
+            "rank": "sunday"
+        }
+        ],
+        "readings": {
+        "first_reading": "Acts 15:1-2, 22-29",
+        "second_reading": "Rv 21:10-14, 22-23",
+        "gospel": "Jn 14:23-29",
+        "psalm": "II"
+        },
+        "saint": null,
+        "color": "white",
+        "season": "Easter"
+    },
+    {
+        "date": "2025-05-26",
+        "weekday": "mon",
+        "celebrations": [
+        {
+            "title": "Saint Philip Neri, Priest",
+            "rank": "memorial"
+        }
+        ],
+        "readings": {
+        "first_reading": "Acts 16:11-15",
+        "second_reading": null,
+        "gospel": "Jn 15:26—16:4a",
+        "psalm": null
+        },
+        "saint": "Philip Neri",
+        "color": "white",
+        "season": "Easter"
+    },
+    {
+        "date": "2025-05-27",
+        "weekday": "tue",
+        "celebrations": [
+        {
+            "title": "Easter Weekday",
+            "rank": "weekday"
+        },
+        {
+            "title": "Saint Augustine of Canterbury, Bishop",
+            "rank": "optional memorial"
+        }
+        ],
+        "readings": {
+        "first_reading": "Acts 16:22-34",
+        "second_reading": null,
+        "gospel": "Jn 16:5-11",
+        "psalm": null
+        },
+        "saint": null,
+        "color": "white",
+        "season": "Easter"
+    },
+    {
+        "date": "2025-05-28",
+        "weekday": "wed",
+        "celebrations": [
+        {
+            "title": "Easter Weekday",
+            "rank": "weekday"
+        }
+        ],
+        "readings": {
+        "first_reading": "Acts 17:15, 22—18:1",
+        "second_reading": null,
+        "gospel": "Jn 16:12-15",
+        "psalm": null
+        },
+        "saint": null,
+        "color": "white",
+        "season": "Easter"
+    },
+    {
+        "date": "2025-05-29",
+        "weekday": "thu",
+        "celebrations": [
+        {
+            "title": "THE ASCENSION OF THE LORD",
+            "rank": "solemnity"
+        }
+        ],
+        "readings": {
+        "first_reading": "Acts 1:1-11",
+        "second_reading": "Eph 1:17-23 or Heb 9:24-28; 10:19-23",
+        "gospel": "Lk 24:46-53",
+        "psalm": "Prop"
+        },
+        "saint": null,
+        "color": "white",
+        "season": "Easter"
+    },
+    {
+        "date": "2025-05-30",
+        "weekday": "fri",
+        "celebrations": [
+        {
+            "title": "Easter Weekday",
+            "rank": "weekday"
+        }
+        ],
+        "readings": {
+        "first_reading": "Acts 18:9-18",
+        "second_reading": null,
+        "gospel": "Jn 16:20-23",
+        "psalm": null
+        },
+        "saint": null,
+        "color": "white",
+        "season": "Easter"
+    },
+    {
+        "date": "2025-05-31",
+        "weekday": "sat",
+        "celebrations": [
+        {
+            "title": "The Visitation of the Blessed Virgin Mary",
+            "rank": "feast"
+        }
+        ],
+        "readings": {
+        "first_reading": "Zep 3:14-18a or Rom 12:9-16",
+        "second_reading": null,
+        "gospel": "Lk 1:39-56",
+        "psalm": "Prop"
+        },
+        "saint": null,
+        "color": "white",
+        "season": "Easter"
+    },
+    {
+        "date": "2025-06-01",
+        "weekday": "sun",
+        "celebrations": [
+        {
+            "title": "THE ASCENSION OF THE LORD",
+            "rank": "solemnity"
+        }
+        ],
+        "readings": {
+        "first_reading": "Acts 1:1-11",
+        "second_reading": "Eph 1:17-23 or Heb 9:24-28; 10:19-23",
+        "gospel": "Lk 24:46-53",
+        "psalm": "Prop"
+        },
+        "saint": null,
+        "color": "white",
+        "season": "Easter"
+    },
+    {
+        "date": "2025-06-02",
+        "weekday": "mon",
+        "celebrations": [
+        {
+            "title": "Easter Weekday",
+            "rank": "weekday"
+        },
+        {
+            "title": "Saints Marcellinus and Peter, Martyrs",
+            "rank": "optional memorial"
+        }
+        ],
+        "readings": {
+        "first_reading": "Acts 19:1-8",
+        "second_reading": null,
+        "gospel": "Jn 16:29-33",
+        "psalm": null
+        },
+        "saint": null,
+        "color": "white",
+        "season": "Easter"
+    },
+    {
+        "date": "2025-06-03",
+        "weekday": "tue",
+        "celebrations": [
+        {
+            "title": "Saint Charles Lwanga and Companions, Martyrs",
+            "rank": "memorial"
+        }
+        ],
+        "readings": {
+        "first_reading": "Acts 20:17-27",
+        "second_reading": null,
+        "gospel": "Jn 17:1-11a",
+        "psalm": null
+        },
+        "saint": "Charles Lwanga and Companions",
+        "color": "red",
+        "season": "Easter"
+    },
+    {
+        "date": "2025-06-04",
+        "weekday": "wed",
+        "celebrations": [
+        {
+            "title": "Easter Weekday",
+            "rank": "weekday"
+        }
+        ],
+        "readings": {
+        "first_reading": "Acts 20:28-38",
+        "second_reading": null,
+        "gospel": "Jn 17:11b-19",
+        "psalm": null
+        },
+        "saint": null,
+        "color": "white",
+        "season": "Easter"
+    },
+    {
+        "date": "2025-06-05",
+        "weekday": "thu",
+        "celebrations": [
+        {
+            "title": "Saint Boniface, Bishop and Martyr",
+            "rank": "memorial"
+        }
+        ],
+        "readings": {
+        "first_reading": "Acts 22:30; 23:6-11",
+        "second_reading": null,
+        "gospel": "Jn 17:20-26",
+        "psalm": null
+        },
+        "saint": "Boniface",
+        "color": "red",
+        "season": "Easter"
+    },
+    {
+        "date": "2025-06-06",
+        "weekday": "fri",
+        "celebrations": [
+        {
+            "title": "Easter Weekday",
+            "rank": "weekday"
+        },
+        {
+            "title": "Saint Norbert, Bishop",
+            "rank": "optional memorial"
+        }
+        ],
+        "readings": {
+        "first_reading": "Acts 25:13b-21",
+        "second_reading": null,
+        "gospel": "Jn 21:15-19",
+        "psalm": null
+        },
+        "saint": null,
+        "color": "white",
+        "season": "Easter"
+    },
+    {
+        "date": "2025-06-07",
+        "weekday": "sat",
+        "celebrations": [
+        {
+            "title": "Easter Weekday",
+            "rank": "weekday"
+        }
+        ],
+        "readings": {
+        "first_reading": "Acts 28:16-20, 30-31",
+        "second_reading": null,
+        "gospel": "Jn 21:20-25",
+        "psalm": null
+        },
+        "saint": null,
+        "color": "white",
+        "season": "Easter"
+    },
+    {
+        "date": "2025-06-08",
+        "weekday": "sun",
+        "celebrations": [
+        {
+            "title": "PENTECOST SUNDAY",
+            "rank": "solemnity"
+        }
+        ],
+        "readings": {
+        "first_reading": "Acts 2:1-11",
+        "second_reading": "1 Cor 12:3b-7, 12-13 or Rom 8:8-17",
+        "gospel": "Jn 20:19-23 or Jn 14:15-16, 23b-26",
+        "psalm": "Prop"
+        },
+        "saint": null,
+        "color": "red",
+        "season": "Easter"
+    },
+    {
+        "date": "2025-06-09",
+        "weekday": "mon",
+        "celebrations": [
+        {
+            "title": "The Blessed Virgin Mary, Mother of the Church",
+            "rank": "memorial"
+        }
+        ],
+        "readings": {
+        "first_reading": "Gn 3:9-15, 20 or Acts 1:12-14",
+        "second_reading": null,
+        "gospel": "Jn 19:25-34",
+        "psalm": "II"
+        },
+        "saint": null,
+        "color": "white",
+        "season": "Ordinary Time"
+    },
+    {
+        "date": "2025-06-10",
+        "weekday": "tue",
+        "celebrations": [
+        {
+            "title": "Weekday",
+            "rank": "weekday"
+        }
+        ],
+        "readings": {
+        "first_reading": "2 Cor 1:18-22",
+        "second_reading": null,
+        "gospel": "Mt 5:13-16",
+        "psalm": null
+        },
+        "saint": null,
+        "color": "green",
+        "season": "Ordinary Time"
+    },
+    {
+        "date": "2025-06-11",
+        "weekday": "wed",
+        "celebrations": [
+        {
+            "title": "Saint Barnabas, Apostle",
+            "rank": "memorial"
+        }
+        ],
+        "readings": {
+        "first_reading": "Acts 11:21b-26; 13:1-3",
+        "second_reading": null,
+        "gospel": "Mt 5:17-19",
+        "psalm": null
+        },
+        "saint": "Barnabas",
+        "color": "red",
+        "season": "Ordinary Time"
+    },
+    {
+        "date": "2025-06-12",
+        "weekday": "thu",
+        "celebrations": [
+        {
+            "title": "Weekday",
+            "rank": "weekday"
+        }
+        ],
+        "readings": {
+        "first_reading": "2 Cor 3:15—4:1, 3-6",
+        "second_reading": null,
+        "gospel": "Mt 5:20-26",
+        "psalm": null
+        },
+        "saint": null,
+        "color": "green",
+        "season": "Ordinary Time"
+    },
+    {
+        "date": "2025-06-13",
+        "weekday": "fri",
+        "celebrations": [
+        {
+            "title": "Saint Anthony of Padua, Priest and Doctor of the Church",
+            "rank": "memorial"
+        }
+        ],
+        "readings": {
+        "first_reading": "2 Cor 4:7-15",
+        "second_reading": null,
+        "gospel": "Mt 5:27-32",
+        "psalm": null
+        },
+        "saint": "Anthony of Padua",
+        "color": "white",
+        "season": "Ordinary Time"
+    },
+    {
+        "date": "2025-06-14",
+        "weekday": "sat",
+        "celebrations": [
+        {
+            "title": "Weekday",
+            "rank": "weekday"
+        },
+        {
+            "title": "Blessed Virgin Mary",
+            "rank": "optional memorial"
+        }
+        ],
+        "readings": {
+        "first_reading": "2 Cor 5:14-21",
+        "second_reading": null,
+        "gospel": "Mt 5:33-37",
+        "psalm": null
+        },
+        "saint": null,
+        "color": "green",
+        "season": "Ordinary Time"
+    },
+    {
+        "date": "2025-06-15",
+        "weekday": "sun",
+        "celebrations": [
+        {
+            "title": "THE MOST HOLY TRINITY",
+            "rank": "solemnity"
+        }
+        ],
+        "readings": {
+        "first_reading": "Prv 8:22-31",
+        "second_reading": "Rom 5:1-5",
+        "gospel": "Jn 16:12-15",
+        "psalm": "Prop"
+        },
+        "saint": null,
+        "color": "white",
+        "season": "Ordinary Time"
+    },
+    {
+        "date": "2025-06-16",
+        "weekday": "mon",
+        "celebrations": [
+        {
+            "title": "Weekday (Eleventh Week in Ordinary Time)",
+            "rank": "weekday"
+        }
+        ],
+        "readings": {
+        "first_reading": "2 Cor 6:1-10",
+        "second_reading": null,
+        "gospel": "Mt 5:38-42",
+        "psalm": "III"
+        },
+        "saint": null,
+        "color": "green",
+        "season": "Ordinary Time"
+    },
+    {
+        "date": "2025-06-17",
+        "weekday": "tue",
+        "celebrations": [
+        {
+            "title": "Weekday",
+            "rank": "weekday"
+        }
+        ],
+        "readings": {
+        "first_reading": "2 Cor 8:1-9",
+        "second_reading": null,
+        "gospel": "Mt 5:43-48",
+        "psalm": null
+        },
+        "saint": null,
+        "color": "green",
+        "season": "Ordinary Time"
+    },
+    {
+        "date": "2025-06-18",
+        "weekday": "wed",
+        "celebrations": [
+        {
+            "title": "Weekday",
+            "rank": "weekday"
+        }
+        ],
+        "readings": {
+        "first_reading": "2 Cor 9:6-11",
+        "second_reading": null,
+        "gospel": "Mt 6:1-6, 16-18",
+        "psalm": null
+        },
+        "saint": null,
+        "color": "green",
+        "season": "Ordinary Time"
+    },
+    {
+        "date": "2025-06-19",
+        "weekday": "thu",
+        "celebrations": [
+        {
+            "title": "Weekday",
+            "rank": "weekday"
+        },
+        {
+            "title": "Saint Romuald, Abbot",
+            "rank": "optional memorial"
+        }
+        ],
+        "readings": {
+        "first_reading": "2 Cor 11:1-11",
+        "second_reading": null,
+        "gospel": "Mt 6:7-15",
+        "psalm": null
+        },
+        "saint": null,
+        "color": "green",
+        "season": "Ordinary Time"
+    },
+    {
+        "date": "2025-06-20",
+        "weekday": "fri",
+        "celebrations": [
+        {
+            "title": "Weekday",
+            "rank": "weekday"
+        }
+        ],
+        "readings": {
+        "first_reading": "2 Cor 11:18, 21-30",
+        "second_reading": null,
+        "gospel": "Mt 6:19-23",
+        "psalm": null
+        },
+        "saint": null,
+        "color": "green",
+        "season": "Ordinary Time"
+    },
+    {
+        "date": "2025-06-21",
+        "weekday": "sat",
+        "celebrations": [
+        {
+            "title": "Saint Aloysius Gonzaga, Religious",
+            "rank": "memorial"
+        }
+        ],
+        "readings": {
+        "first_reading": "2 Cor 12:1-10",
+        "second_reading": null,
+        "gospel": "Mt 6:24-34",
+        "psalm": null
+        },
+        "saint": "Aloysius Gonzaga",
+        "color": "white",
+        "season": "Ordinary Time"
+    },
+    {
+        "date": "2025-06-22",
+        "weekday": "sun",
+        "celebrations": [
+        {
+            "title": "USA: THE MOST HOLY BODY AND BLOOD OF CHRIST (Corpus Christi)",
+            "rank": "solemnity"
+        }
+        ],
+        "readings": {
+        "first_reading": "Gn 14:18-20",
+        "second_reading": "1 Cor 11:23-26",
+        "gospel": "Lk 9:11b-17",
+        "psalm": "Prop"
+        },
+        "saint": null,
+        "color": "white",
+        "season": "Ordinary Time"
+    },
+    {
+        "date": "2025-06-23",
+        "weekday": "mon",
+        "celebrations": [
+        {
+            "title": "Weekday (Twelfth Week in Ordinary Time)",
+            "rank": "weekday"
+        }
+        ],
+        "readings": {
+        "first_reading": "Gn 12:1-9",
+        "second_reading": null,
+        "gospel": "Mt 7:1-5",
+        "psalm": "IV"
+        },
+        "saint": null,
+        "color": "green",
+        "season": "Ordinary Time"
+    },
+    {
+        "date": "2025-06-24",
+        "weekday": "tue",
+        "celebrations": [
+        {
+            "title": "THE NATIVITY OF SAINT JOHN THE BAPTIST",
+            "rank": "solemnity"
+        }
+        ],
+        "readings": {
+        "first_reading": "Is 49:1-6",
+        "second_reading": "Acts 13:22-26",
+        "gospel": "Lk 1:57-66, 80",
+        "psalm": "Prop"
+        },
+        "saint": "John the Baptist",
+        "color": "white",
+        "season": "Ordinary Time"
+    },
+    {
+        "date": "2025-06-25",
+        "weekday": "wed",
+        "celebrations": [
+        {
+            "title": "Weekday",
+            "rank": "weekday"
+        }
+        ],
+        "readings": {
+        "first_reading": "Gn 15:1-12, 17-18",
+        "second_reading": null,
+        "gospel": "Mt 7:15-20",
+        "psalm": null
+        },
+        "saint": null,
+        "color": "green",
+        "season": "Ordinary Time"
+    },
+    {
+        "date": "2025-06-26",
+        "weekday": "thu",
+        "celebrations": [
+        {
+            "title": "Weekday",
+            "rank": "weekday"
+        }
+        ],
+        "readings": {
+        "first_reading": "Gn 16:1-12, 15-16 or 16:6b-12, 15-16",
+        "second_reading": null,
+        "gospel": "Mt 7:21-29",
+        "psalm": null
+        },
+        "saint": null,
+        "color": "green",
+        "season": "Ordinary Time"
+    },
+    {
+        "date": "2025-06-27",
+        "weekday": "fri",
+        "celebrations": [
+        {
+            "title": "THE MOST SACRED HEART OF JESUS",
+            "rank": "solemnity"
+        }
+        ],
+        "readings": {
+        "first_reading": "Ez 34:11-16",
+        "second_reading": "Rom 5:5b-11",
+        "gospel": "Lk 15:3-7",
+        "psalm": "Prop"
+        },
+        "saint": null,
+        "color": "white",
+        "season": "Ordinary Time"
+    },
+    {
+        "date": "2025-06-28",
+        "weekday": "sat",
+        "celebrations": [
+        {
+            "title": "Weekday",
+            "rank": "weekday"
+        },
+        {
+            "title": "The Immaculate Heart of the Blessed Virgin Mary",
+            "rank": "optional memorial"
+        },
+        {
+            "title": "Saint Irenaeus, Bishop, Martyr, and Doctor of the Church",
+            "rank": "optional memorial"
+        }
+        ],
+        "readings": {
+        "first_reading": "Gn 18:1-15",
+        "second_reading": null,
+        "gospel": "Mt 8:5-17",
+        "psalm": null
+        },
+        "saint": null,
+        "color": "green",
+        "season": "Ordinary Time"
+    },
+    {
+        "date": "2025-06-29",
+        "weekday": "sun",
+        "celebrations": [
+        {
+            "title": "SAINTS PETER AND PAUL, APOSTLES",
+            "rank": "solemnity"
+        }
+        ],
+        "readings": {
+        "first_reading": "Acts 12:1-11",
+        "second_reading": "2 Tm 4:6-8, 17-18",
+        "gospel": "Mt 16:13-19",
+        "psalm": "Prop"
+        },
+        "saint": "Peter and Paul",
+        "color": "red",
+        "season": "Ordinary Time"
+    },
+    {
+        "date": "2025-06-30",
+        "weekday": "mon",
+        "celebrations": [
+        {
+            "title": "Weekday (Thirteenth Week in Ordinary Time)",
+            "rank": "weekday"
+        },
+        {
+            "title": "The First Martyrs of the Holy Roman Church",
+            "rank": "optional memorial"
+        }
+        ],
+        "readings": {
+        "first_reading": "Gn 18:16-33",
+        "second_reading": null,
+        "gospel": "Mt 8:18-22",
+        "psalm": "I"
+        },
+        "saint": null,
+        "color": "green",
+        "season": "Ordinary Time"
+    },
+    {
+        "date": "2025-07-01",
+        "weekday": "tue",
+        "celebrations": [
+        {
+            "title": "Weekday",
+            "rank": "weekday"
+        },
+        {
+            "title": "Saint Junípero Serra, Priest",
+            "rank": "optional memorial"
+        }
+        ],
+        "readings": {
+        "first_reading": "Gn 19:15-29",
+        "second_reading": null,
+        "gospel": "Mt 8:23-27",
+        "psalm": null
+        },
+        "saint": null,
+        "color": "green",
+        "season": "Ordinary Time"
+    },
+    {
+        "date": "2025-07-02",
+        "weekday": "wed",
+        "celebrations": [
+        {
+            "title": "Weekday",
+            "rank": "weekday"
+        }
+        ],
+        "readings": {
+        "first_reading": "Gn 21:5, 8-20a",
+        "second_reading": null,
+        "gospel": "Mt 8:28-34",
+        "psalm": null
+        },
+        "saint": null,
+        "color": "green",
+        "season": "Ordinary Time"
+    },
+    {
+        "date": "2025-07-03",
+        "weekday": "thu",
+        "celebrations": [
+        {
+            "title": "Saint Thomas, Apostle",
+            "rank": "feast"
+        }
+        ],
+        "readings": {
+        "first_reading": "Eph 2:19-22",
+        "second_reading": null,
+        "gospel": "Jn 20:24-29",
+        "psalm": "Prop"
+        },
+        "saint": "Thomas",
+        "color": "red",
+        "season": "Ordinary Time"
+    },
+    {
+        "date": "2025-07-04",
+        "weekday": "fri",
+        "celebrations": [
+        {
+            "title": "Weekday",
+            "rank": "weekday"
+        },
+        {
+            "title": "USA: Independence Day",
+            "rank": "optional memorial"
+        }
+        ],
+        "readings": {
+        "first_reading": "Gn 23:1-4, 19; 24:1-8, 62-67",
+        "second_reading": null,
+        "gospel": "Mt 9:9-13",
+        "psalm": null
+        },
+        "saint": null,
+        "color": "green",
+        "season": "Ordinary Time"
+    },
+    {
+        "date": "2025-07-05",
+        "weekday": "sat",
+        "celebrations": [
+        {
+            "title": "Weekday",
+            "rank": "weekday"
+        },
+        {
+            "title": "Saint Anthony Zaccaria, Priest",
+            "rank": "optional memorial"
+        },
+        {
+            "title": "Saint Elizabeth of Portugal",
+            "rank": "optional memorial"
+        },
+        {
+            "title": "Blessed Virgin Mary",
+            "rank": "optional memorial"
+        }
+        ],
+        "readings": {
+        "first_reading": "Gn 27:1-5, 15-29",
+        "second_reading": null,
+        "gospel": "Mt 9:14-17",
+        "psalm": null
+        },
+        "saint": null,
+        "color": "green",
+        "season": "Ordinary Time"
+    },
+    {
+        "date": "2025-07-06",
+        "weekday": "sun",
+        "celebrations": [
+        {
+            "title": "FOURTEENTH SUNDAY IN ORDINARY TIME",
+            "rank": "sunday"
+        }
+        ],
+        "readings": {
+        "first_reading": "Is 66:10-14c",
+        "second_reading": "Gal 6:14-18",
+        "gospel": "Lk 10:1-12, 17-20 or 10:1-9",
+        "psalm": "II"
+        },
+        "saint": null,
+        "color": "green",
+        "season": "Ordinary Time"
+    },
+    {
+        "date": "2025-07-07",
+        "weekday": "mon",
+        "celebrations": [
+        {
+            "title": "Weekday",
+            "rank": "weekday"
+        }
+        ],
+        "readings": {
+        "first_reading": "Gn 28:10-22a",
+        "second_reading": null,
+        "gospel": "Mt 9:18-26",
+        "psalm": null
+        },
+        "saint": null,
+        "color": "green",
+        "season": "Ordinary Time"
+    },
+    {
+        "date": "2025-07-08",
+        "weekday": "tue",
+        "celebrations": [
+        {
+            "title": "Weekday",
+            "rank": "weekday"
+        }
+        ],
+        "readings": {
+        "first_reading": "Gn 32:23-33",
+        "second_reading": null,
+        "gospel": "Mt 9:32-38",
+        "psalm": null
+        },
+        "saint": null,
+        "color": "green",
+        "season": "Ordinary Time"
+    },
+    {
+        "date": "2025-07-09",
+        "weekday": "wed",
+        "celebrations": [
+        {
+            "title": "Weekday",
+            "rank": "weekday"
+        },
+        {
+            "title": "Saint Augustine Zhao Rong, Priest, and Companions, Martyrs",
+            "rank": "optional memorial"
+        }
+        ],
+        "readings": {
+        "first_reading": "Gn 41:55-57; 42:5-7a, 17-24a",
+        "second_reading": null,
+        "gospel": "Mt 10:1-7",
+        "psalm": null
+        },
+        "saint": null,
+        "color": "green",
+        "season": "Ordinary Time"
+    },
+    {
+        "date": "2025-07-10",
+        "weekday": "thu",
+        "celebrations": [
+        {
+            "title": "Weekday",
+            "rank": "weekday"
+        }
+        ],
+        "readings": {
+        "first_reading": "Gn 44:18-21, 23b-29; 45:1-5",
+        "second_reading": null,
+        "gospel": "Mt 10:7-15",
+        "psalm": null
+        },
+        "saint": null,
+        "color": "green",
+        "season": "Ordinary Time"
+    },
+    {
+        "date": "2025-07-11",
+        "weekday": "fri",
+        "celebrations": [
+        {
+            "title": "Saint Benedict, Abbot",
+            "rank": "memorial"
+        }
+        ],
+        "readings": {
+        "first_reading": "Gn 46:1-7, 28-30",
+        "second_reading": null,
+        "gospel": "Mt 10:16-23",
+        "psalm": null
+        },
+        "saint": "Benedict",
+        "color": "white",
+        "season": "Ordinary Time"
+    },
+    {
+        "date": "2025-07-12",
+        "weekday": "sat",
+        "celebrations": [
+        {
+            "title": "Weekday",
+            "rank": "weekday"
+        },
+        {
+            "title": "Blessed Virgin Mary",
+            "rank": "optional memorial"
+        }
+        ],
+        "readings": {
+        "first_reading": "Gn 49:29-32; 50:15-26a",
+        "second_reading": null,
+        "gospel": "Mt 10:24-33",
+        "psalm": null
+        },
+        "saint": null,
+        "color": "green",
+        "season": "Ordinary Time"
+    },
+    {
+        "date": "2025-07-13",
+        "weekday": "sun",
+        "celebrations": [
+        {
+            "title": "FIFTEENTH SUNDAY IN ORDINARY TIME",
+            "rank": "sunday"
+        }
+        ],
+        "readings": {
+        "first_reading": "Dt 30:10-14",
+        "second_reading": "Col 1:15-20",
+        "gospel": "Lk 10:25-37",
+        "psalm": "III"
+        },
+        "saint": null,
+        "color": "green",
+        "season": "Ordinary Time"
+    },
+    {
+        "date": "2025-07-14",
+        "weekday": "mon",
+        "celebrations": [
+        {
+            "title": "Saint Kateri Tekakwitha, Virgin",
+            "rank": "memorial"
+        }
+        ],
+        "readings": {
+        "first_reading": "Ex 1:8-14, 22",
+        "second_reading": null,
+        "gospel": "Mt 10:34—11:1",
+        "psalm": null
+        },
+        "saint": "Kateri Tekakwitha",
+        "color": "white",
+        "season": "Ordinary Time"
+    },
+    {
+        "date": "2025-07-15",
+        "weekday": "tue",
+        "celebrations": [
+        {
+            "title": "Saint Bonaventure, Bishop and Doctor of the Church",
+            "rank": "memorial"
+        }
+        ],
+        "readings": {
+        "first_reading": "Ex 2:1-15a",
+        "second_reading": null,
+        "gospel": "Mt 11:20-24",
+        "psalm": null
+        },
+        "saint": "Bonaventure",
+        "color": "white",
+        "season": "Ordinary Time"
+    },
+    {
+        "date": "2025-07-16",
+        "weekday": "wed",
+        "celebrations": [
+        {
+            "title": "Weekday",
+            "rank": "weekday"
+        },
+        {
+            "title": "Our Lady of Mount Carmel",
+            "rank": "optional memorial"
+        }
+        ],
+        "readings": {
+        "first_reading": "Ex 3:1-6, 9-12",
+        "second_reading": null,
+        "gospel": "Mt 11:25-27",
+        "psalm": null
+        },
+        "saint": null,
+        "color": "green",
+        "season": "Ordinary Time"
+    },
+    {
+        "date": "2025-07-17",
+        "weekday": "thu",
+        "celebrations": [
+        {
+            "title": "Weekday",
+            "rank": "weekday"
+        }
+        ],
+        "readings": {
+        "first_reading": "Ex 3:13-20",
+        "second_reading": null,
+        "gospel": "Mt 11:28-30",
+        "psalm": null
+        },
+        "saint": null,
+        "color": "green",
+        "season": "Ordinary Time"
+    },
+    {
+        "date": "2025-07-18",
+        "weekday": "fri",
+        "celebrations": [
+        {
+            "title": "Weekday",
+            "rank": "weekday"
+        },
+        {
+            "title": "Saint Camillus de Lellis, Priest",
+            "rank": "optional memorial"
+        }
+        ],
+        "readings": {
+        "first_reading": "Ex 11:10—12:14",
+        "second_reading": null,
+        "gospel": "Mt 12:1-8",
+        "psalm": null
+        },
+        "saint": null,
+        "color": "green",
+        "season": "Ordinary Time"
+    },
+    {
+        "date": "2025-07-19",
+        "weekday": "sat",
+        "celebrations": [
+        {
+            "title": "Weekday",
+            "rank": "weekday"
+        },
+        {
+            "title": "Blessed Virgin Mary",
+            "rank": "optional memorial"
+        }
+        ],
+        "readings": {
+        "first_reading": "Ex 12:37-42",
+        "second_reading": null,
+        "gospel": "Mt 12:14-21",
+        "psalm": null
+        },
+        "saint": null,
+        "color": "green",
+        "season": "Ordinary Time"
+    },
+    {
+        "date": "2025-07-20",
+        "weekday": "sun",
+        "celebrations": [
+        {
+            "title": "SIXTEENTH SUNDAY IN ORDINARY TIME",
+            "rank": "sunday"
+        }
+        ],
+        "readings": {
+        "first_reading": "Gn 18:1-10a",
+        "second_reading": "Col 1:24-28",
+        "gospel": "Lk 10:38-42",
+        "psalm": "IV"
+        },
+        "saint": null,
+        "color": "green",
+        "season": "Ordinary Time"
+    },
+    {
+        "date": "2025-07-21",
+        "weekday": "mon",
+        "celebrations": [
+        {
+            "title": "Weekday",
+            "rank": "weekday"
+        },
+        {
+            "title": "Saint Lawrence of Brindisi, Priest and Doctor of the Church",
+            "rank": "optional memorial"
+        }
+        ],
+        "readings": {
+        "first_reading": "Ex 14:5-18",
+        "second_reading": null,
+        "gospel": "Mt 12:38-42",
+        "psalm": null
+        },
+        "saint": null,
+        "color": "green",
+        "season": "Ordinary Time"
+    },
+    {
+        "date": "2025-07-22",
+        "weekday": "tue",
+        "celebrations": [
+        {
+            "title": "Saint Mary Magdalene",
+            "rank": "feast"
+        }
+        ],
+        "readings": {
+        "first_reading": "Sg 3:1-4b or 2 Cor 5:14-17",
+        "second_reading": null,
+        "gospel": "Jn 20:1-2, 11-18",
+        "psalm": "Prop"
+        },
+        "saint": "Mary Magdalene",
+        "color": "white",
+        "season": "Ordinary Time"
+    },
+    {
+        "date": "2025-07-23",
+        "weekday": "wed",
+        "celebrations": [
+        {
+            "title": "Weekday",
+            "rank": "weekday"
+        },
+        {
+            "title": "Saint Bridget, Religious",
+            "rank": "optional memorial"
+        }
+        ],
+        "readings": {
+        "first_reading": "Ex 16:1-5, 9-15",
+        "second_reading": null,
+        "gospel": "Mt 13:1-9",
+        "psalm": null
+        },
+        "saint": null,
+        "color": "green",
+        "season": "Ordinary Time"
+    },
+    {
+        "date": "2025-07-24",
+        "weekday": "thu",
+        "celebrations": [
+        {
+            "title": "Weekday",
+            "rank": "weekday"
+        },
+        {
+            "title": "Saint Sharbel Makhlūf, Priest",
+            "rank": "optional memorial"
+        }
+        ],
+        "readings": {
+        "first_reading": "Ex 19:1-2, 9-11, 16-20b",
+        "second_reading": null,
+        "gospel": "Mt 13:10-17",
+        "psalm": null
+        },
+        "saint": null,
+        "color": "green",
+        "season": "Ordinary Time"
+    },
+    {
+        "date": "2025-07-25",
+        "weekday": "fri",
+        "celebrations": [
+        {
+            "title": "Saint James, Apostle",
+            "rank": "feast"
+        }
+        ],
+        "readings": {
+        "first_reading": "2 Cor 4:7-15",
+        "second_reading": null,
+        "gospel": "Mt 20:20-28",
+        "psalm": "Prop"
+        },
+        "saint": "James",
+        "color": "red",
+        "season": "Ordinary Time"
+    },
+    {
+        "date": "2025-07-26",
+        "weekday": "sat",
+        "celebrations": [
+        {
+            "title": "Saints Joachim and Anne, Parents of the Blessed Virgin Mary",
+            "rank": "memorial"
+        }
+        ],
+        "readings": {
+        "first_reading": "Ex 24:3-8",
+        "second_reading": null,
+        "gospel": "Mt 13:24-30",
+        "psalm": null
+        },
+        "saint": "Joachim and Anne",
+        "color": "white",
+        "season": "Ordinary Time"
+    },
+    {
+        "date": "2025-07-27",
+        "weekday": "sun",
+        "celebrations": [
+        {
+            "title": "SEVENTEENTH SUNDAY IN ORDINARY TIME",
+            "rank": "sunday"
+        }
+        ],
+        "readings": {
+        "first_reading": "Gn 18:20-32",
+        "second_reading": "Col 2:12-14",
+        "gospel": "Lk 11:1-13",
+        "psalm": "I"
+        },
+        "saint": null,
+        "color": "green",
+        "season": "Ordinary Time"
+    },
+    {
+        "date": "2025-07-28",
+        "weekday": "mon",
+        "celebrations": [
+        {
+            "title": "Weekday",
+            "rank": "weekday"
+        }
+        ],
+        "readings": {
+        "first_reading": "Ex 32:15-24, 30-34",
+        "second_reading": null,
+        "gospel": "Mt 13:31-35",
+        "psalm": null
+        },
+        "saint": null,
+        "color": "green",
+        "season": "Ordinary Time"
+    },
+    {
+        "date": "2025-07-29",
+        "weekday": "tue",
+        "celebrations": [
+        {
+            "title": "Saints Martha, Mary, and Lazarus",
+            "rank": "memorial"
+        }
+        ],
+        "readings": {
+        "first_reading": "Ex 33:7-11; 34:5b-9, 28",
+        "second_reading": null,
+        "gospel": "Jn 11:19-27 or Lk 10:38-42",
+        "psalm": null
+        },
+        "saint": "Martha, Mary, and Lazarus",
+        "color": "white",
+        "season": "Ordinary Time"
+    },
+    {
+        "date": "2025-07-30",
+        "weekday": "wed",
+        "celebrations": [
+        {
+            "title": "Weekday",
+            "rank": "weekday"
+        },
+        {
+            "title": "Saint Peter Chrysologus, Bishop and Doctor of the Church",
+            "rank": "optional memorial"
+        }
+        ],
+        "readings": {
+        "first_reading": "Ex 34:29-35",
+        "second_reading": null,
+        "gospel": "Mt 13:44-46",
+        "psalm": null
+        },
+        "saint": null,
+        "color": "green",
+        "season": "Ordinary Time"
+    },
+    {
+        "date": "2025-07-31",
+        "weekday": "thu",
+        "celebrations": [
+        {
+            "title": "Saint Ignatius of Loyola, Priest",
+            "rank": "memorial"
+        }
+        ],
+        "readings": {
+        "first_reading": "Ex 40:16-21, 34-38",
+        "second_reading": null,
+        "gospel": "Mt 13:47-53",
+        "psalm": null
+        },
+        "saint": "Ignatius of Loyola",
+        "color": "white",
+        "season": "Ordinary Time"
+    },
+    {
+        "date": "2025-08-01",
+        "weekday": "fri",
+        "celebrations": [
+        {
+            "title": "Saint Alphonsus Liguori, Bishop and Doctor of the Church",
+            "rank": "memorial"
+        }
+        ],
+        "readings": {
+        "first_reading": "Lv 23:1, 4-11, 15-16, 27, 34b-37",
+        "second_reading": null,
+        "gospel": "Mt 13:54-58",
+        "psalm": null
+        },
+        "saint": "Alphonsus Liguori",
+        "color": "white",
+        "season": "Ordinary Time"
+    },
+    {
+        "date": "2025-08-02",
+        "weekday": "sat",
+        "celebrations": [
+        {
+            "title": "Weekday",
+            "rank": "weekday"
+        },
+        {
+            "title": "Saint Eusebius of Vercelli, Bishop",
+            "rank": "optional memorial"
+        },
+        {
+            "title": "Saint Peter Julian Eymard, Priest",
+            "rank": "optional memorial"
+        },
+        {
+            "title": "Blessed Virgin Mary",
+            "rank": "optional memorial"
+        }
+        ],
+        "readings": {
+        "first_reading": "Lv 25:1, 8-17",
+        "second_reading": null,
+        "gospel": "Mt 14:1-12",
+        "psalm": null
+        },
+        "saint": null,
+        "color": "green",
+        "season": "Ordinary Time"
+    },
+    {
+        "date": "2025-08-03",
+        "weekday": "sun",
+        "celebrations": [
+        {
+            "title": "EIGHTEENTH SUNDAY IN ORDINARY TIME",
+            "rank": "sunday"
+        }
+        ],
+        "readings": {
+        "first_reading": "Eccl 1:2; 2:21-23",
+        "second_reading": "Col 3:1-5, 9-11",
+        "gospel": "Lk 12:13-21",
+        "psalm": "II"
+        },
+        "saint": null,
+        "color": "green",
+        "season": "Ordinary Time"
+    },
+    {
+        "date": "2025-08-04",
+        "weekday": "mon",
+        "celebrations": [
+        {
+            "title": "Saint John Vianney, Priest",
+            "rank": "memorial"
+        }
+        ],
+        "readings": {
+        "first_reading": "Nm 11:4b-15",
+        "second_reading": null,
+        "gospel": "Mt 14:13-21",
+        "psalm": null
+        },
+        "saint": "John Vianney",
+        "color": "white",
+        "season": "Ordinary Time"
+    },
+    {
+        "date": "2025-08-05",
+        "weekday": "tue",
+        "celebrations": [
+        {
+            "title": "Weekday",
+            "rank": "weekday"
+        },
+        {
+            "title": "The Dedication of the Basilica of Saint Mary Major",
+            "rank": "optional memorial"
+        }
+        ],
+        "readings": {
+        "first_reading": "Nm 12:1-13",
+        "second_reading": null,
+        "gospel": "Mt 14:22-36 or Mt 15:1-2, 10-14",
+        "psalm": null
+        },
+        "saint": null,
+        "color": "green",
+        "season": "Ordinary Time"
+    },
+    {
+        "date": "2025-08-06",
+        "weekday": "wed",
+        "celebrations": [
+        {
+            "title": "The Transfiguration of the Lord",
+            "rank": "feast"
+        }
+        ],
+        "readings": {
+        "first_reading": "Dn 7:9-10, 13-14",
+        "second_reading": "2 Pt 1:16-19",
+        "gospel": "Lk 9:28b-36",
+        "psalm": "Prop"
+        },
+        "saint": null,
+        "color": "white",
+        "season": "Ordinary Time"
+    },
+    {
+        "date": "2025-08-07",
+        "weekday": "thu",
+        "celebrations": [
+        {
+            "title": "Weekday",
+            "rank": "weekday"
+        },
+        {
+            "title": "Saint Sixtus II, Pope, and Companions, Martyrs",
+            "rank": "optional memorial"
+        },
+        {
+            "title": "Saint Cajetan, Priest",
+            "rank": "optional memorial"
+        }
+        ],
+        "readings": {
+        "first_reading": "Nm 20:1-13",
+        "second_reading": null,
+        "gospel": "Mt 16:13-23",
+        "psalm": null
+        },
+        "saint": null,
+        "color": "green",
+        "season": "Ordinary Time"
+    },
+    {
+        "date": "2025-08-08",
+        "weekday": "fri",
+        "celebrations": [
+        {
+            "title": "Saint Dominic, Priest",
+            "rank": "memorial"
+        }
+        ],
+        "readings": {
+        "first_reading": "Dt 4:32-40",
+        "second_reading": null,
+        "gospel": "Mt 16:24-28",
+        "psalm": null
+        },
+        "saint": "Dominic",
+        "color": "white",
+        "season": "Ordinary Time"
+    },
+    {
+        "date": "2025-08-09",
+        "weekday": "sat",
+        "celebrations": [
+        {
+            "title": "Weekday",
+            "rank": "weekday"
+        },
+        {
+            "title": "Saint Teresa Benedicta of the Cross, Virgin and Martyr",
+            "rank": "optional memorial"
+        },
+        {
+            "title": "Blessed Virgin Mary",
+            "rank": "optional memorial"
+        }
+        ],
+        "readings": {
+        "first_reading": "Dt 6:4-13",
+        "second_reading": null,
+        "gospel": "Mt 17:14-20",
+        "psalm": null
+        },
+        "saint": null,
+        "color": "green",
+        "season": "Ordinary Time"
+    },
+    {
+        "date": "2025-08-10",
+        "weekday": "sun",
+        "celebrations": [
+        {
+            "title": "NINETEENTH SUNDAY IN ORDINARY TIME",
+            "rank": "sunday"
+        }
+        ],
+        "readings": {
+        "first_reading": "Wis 18:6-9",
+        "second_reading": "Heb 11:1-2, 8-19 or 11:1-2, 8-12",
+        "gospel": "Lk 12:32-48 or 12:35-40",
+        "psalm": "III"
+        },
+        "saint": null,
+        "color": "green",
+        "season": "Ordinary Time"
+    },
+    {
+        "date": "2025-08-11",
+        "weekday": "mon",
+        "celebrations": [
+        {
+            "title": "Saint Clare, Virgin",
+            "rank": "memorial"
+        }
+        ],
+        "readings": {
+        "first_reading": "Dt 10:12-22",
+        "second_reading": null,
+        "gospel": "Mt 17:22-27",
+        "psalm": null
+        },
+        "saint": "Clare",
+        "color": "white",
+        "season": "Ordinary Time"
+    },
+    {
+        "date": "2025-08-12",
+        "weekday": "tue",
+        "celebrations": [
+        {
+            "title": "Weekday",
+            "rank": "weekday"
+        },
+        {
+            "title": "Saint Jane Frances de Chantal, Religious",
+            "rank": "optional memorial"
+        }
+        ],
+        "readings": {
+        "first_reading": "Dt 31:1-8",
+        "second_reading": null,
+        "gospel": "Mt 18:1-5, 10, 12-14",
+        "psalm": null
+        },
+        "saint": null,
+        "color": "green",
+        "season": "Ordinary Time"
+    },
+    {
+        "date": "2025-08-13",
+        "weekday": "wed",
+        "celebrations": [
+        {
+            "title": "Weekday",
+            "rank": "weekday"
+        },
+        {
+            "title": "Saints Pontian, Pope, and Hippolytus, Priest, Martyrs",
+            "rank": "optional memorial"
+        }
+        ],
+        "readings": {
+        "first_reading": "Dt 34:1-12",
+        "second_reading": null,
+        "gospel": "Mt 18:15-20",
+        "psalm": null
+        },
+        "saint": null,
+        "color": "green",
+        "season": "Ordinary Time"
+    },
+    {
+        "date": "2025-08-14",
+        "weekday": "thu",
+        "celebrations": [
+        {
+            "title": "Saint Maximilian Kolbe, Priest and Martyr",
+            "rank": "memorial"
+        }
+        ],
+        "readings": {
+        "first_reading": "Jos 3:7-10a, 11, 13-17",
+        "second_reading": null,
+        "gospel": "Mt 18:21—19:1",
+        "psalm": null
+        },
+        "saint": "Maximilian Kolbe",
+        "color": "red",
+        "season": "Ordinary Time"
+    },
+    {
+        "date": "2025-08-15",
+        "weekday": "fri",
+        "celebrations": [
+        {
+            "title": "THE ASSUMPTION OF THE BLESSED VIRGIN MARY",
+            "rank": "solemnity"
+        }
+        ],
+        "readings": {
+        "first_reading": "Rv 11:19a; 12:1-6a, 10ab",
+        "second_reading": "1 Cor 15:20-27",
+        "gospel": "Lk 1:39-56",
+        "psalm": "Prop"
+        },
+        "saint": null,
+        "color": "white",
+        "season": "Ordinary Time"
+    },
+    {
+        "date": "2025-08-16",
+        "weekday": "sat",
+        "celebrations": [
+        {
+            "title": "Weekday",
+            "rank": "weekday"
+        },
+        {
+            "title": "Saint Stephen of Hungary",
+            "rank": "optional memorial"
+        },
+        {
+            "title": "Blessed Virgin Mary",
+            "rank": "optional memorial"
+        }
+        ],
+        "readings": {
+        "first_reading": "Jos 24:14-29",
+        "second_reading": null,
+        "gospel": "Mt 19:13-15",
+        "psalm": null
+        },
+        "saint": null,
+        "color": "green",
+        "season": "Ordinary Time"
+    },
+    {
+        "date": "2025-08-17",
+        "weekday": "sun",
+        "celebrations": [
+        {
+            "title": "TWENTIETH SUNDAY IN ORDINARY TIME",
+            "rank": "sunday"
+        }
+        ],
+        "readings": {
+        "first_reading": "Jer 38:4-6, 8-10",
+        "second_reading": "Heb 12:1-4",
+        "gospel": "Lk 12:49-53",
+        "psalm": "IV"
+        },
+        "saint": null,
+        "color": "green",
+        "season": "Ordinary Time"
+    },
+        
+        {
+        "date": "2025-08-18",
+        "weekday": "mon",
+        "celebrations": [
+        {
+            "title": "Weekday",
+            "rank": "weekday"
+        }
+        ],
+        "readings": {
+        "first_reading": "Jgs 2:11-19",
+        "second_reading": null,
+        "gospel": "Mt 19:16-22",
+        "psalm": null
+        },
+        "saint": null,
+        "color": "green",
+        "season": "Ordinary Time"
+    },
+    {
+        "date": "2025-08-19",
+        "weekday": "tue",
+        "celebrations": [
+        {
+            "title": "Weekday",
+            "rank": "weekday"
+        },
+        {
+            "title": "Saint John Eudes, Priest",
+            "rank": "optional memorial"
+        }
+        ],
+        "readings": {
+        "first_reading": "Jgs 6:11-24a",
+        "second_reading": null,
+        "gospel": "Mt 19:23-30",
+        "psalm": null
+        },
+        "saint": null,
+        "color": "green",
+        "season": "Ordinary Time"
+    },
+    {
+        "date": "2025-08-20",
+        "weekday": "wed",
+        "celebrations": [
+        {
+            "title": "Saint Bernard, Abbot and Doctor of the Church",
+            "rank": "memorial"
+        }
+        ],
+        "readings": {
+        "first_reading": "Jgs 9:6-15",
+        "second_reading": null,
+        "gospel": "Mt 20:1-16",
+        "psalm": null
+        },
+        "saint": "Bernard",
+        "color": "white",
+        "season": "Ordinary Time"
+    },
+    {
+        "date": "2025-08-21",
+        "weekday": "thu",
+        "celebrations": [
+        {
+            "title": "Saint Pius X, Pope",
+            "rank": "memorial"
+        }
+        ],
+        "readings": {
+        "first_reading": "Jgs 11:29-39a",
+        "second_reading": null,
+        "gospel": "Mt 22:1-14",
+        "psalm": null
+        },
+        "saint": "Pius X",
+        "color": "white",
+        "season": "Ordinary Time"
+    },
+    {
+        "date": "2025-08-22",
+        "weekday": "fri",
+        "celebrations": [
+        {
+            "title": "The Queenship of the Blessed Virgin Mary",
+            "rank": "memorial"
+        }
+        ],
+        "readings": {
+        "first_reading": "Ru 1:1, 3-6, 14b-16, 22",
+        "second_reading": null,
+        "gospel": "Mt 22:34-40",
+        "psalm": null
+        },
+        "saint": null,
+        "color": "white",
+        "season": "Ordinary Time"
+    },
+    {
+        "date": "2025-08-23",
+        "weekday": "sat",
+        "celebrations": [
+        {
+            "title": "Weekday",
+            "rank": "weekday"
+        },
+        {
+            "title": "Saint Rose of Lima, Virgin",
+            "rank": "optional memorial"
+        },
+        {
+            "title": "Blessed Virgin Mary",
+            "rank": "optional memorial"
+        }
+        ],
+        "readings": {
+        "first_reading": "Ru 2:1-3, 8-11; 4:13-17",
+        "second_reading": null,
+        "gospel": "Mt 23:1-12",
+        "psalm": null
+        },
+        "saint": null,
+        "color": "green",
+        "season": "Ordinary Time"
+    },
+    {
+        "date": "2025-08-24",
+        "weekday": "sun",
+        "celebrations": [
+        {
+            "title": "TWENTY-FIRST SUNDAY IN ORDINARY TIME",
+            "rank": "sunday"
+        }
+        ],
+        "readings": {
+        "first_reading": "Is 66:18-21",
+        "second_reading": "Heb 12:5-7, 11-13",
+        "gospel": "Lk 13:22-30",
+        "psalm": "I"
+        },
+        "saint": null,
+        "color": "green",
+        "season": "Ordinary Time"
+    },
+    {
+        "date": "2025-08-25",
+        "weekday": "mon",
+        "celebrations": [
+        {
+            "title": "Weekday",
+            "rank": "weekday"
+        },
+        {
+            "title": "Saint Louis",
+            "rank": "optional memorial"
+        },
+        {
+            "title": "Saint Joseph Calasanz, Priest",
+            "rank": "optional memorial"
+        }
+        ],
+        "readings": {
+        "first_reading": "1 Thes 1:1-5, 8b-10",
+        "second_reading": null,
+        "gospel": "Mt 23:13-22",
+        "psalm": null
+        },
+        "saint": null,
+        "color": "green",
+        "season": "Ordinary Time"
+    },
+    {
+        "date": "2025-08-26",
+        "weekday": "tue",
+        "celebrations": [
+        {
+            "title": "Weekday",
+            "rank": "weekday"
+        }
+        ],
+        "readings": {
+        "first_reading": "1 Thes 2:1-8",
+        "second_reading": null,
+        "gospel": "Mt 23:23-26",
+        "psalm": null
+        },
+        "saint": null,
+        "color": "green",
+        "season": "Ordinary Time"
+    },
+    {
+        "date": "2025-08-27",
+        "weekday": "wed",
+        "celebrations": [
+        {
+            "title": "Saint Monica",
+            "rank": "memorial"
+        }
+        ],
+        "readings": {
+        "first_reading": "1 Thes 2:9-13",
+        "second_reading": null,
+        "gospel": "Mt 23:27-32",
+        "psalm": null
+        },
+        "saint": "Monica",
+        "color": "white",
+        "season": "Ordinary Time"
+    },
+    {
+        "date": "2025-08-28",
+        "weekday": "thu",
+        "celebrations": [
+        {
+            "title": "Saint Augustine, Bishop and Doctor of the Church",
+            "rank": "memorial"
+        }
+        ],
+        "readings": {
+        "first_reading": "1 Thes 3:7-13",
+        "second_reading": null,
+        "gospel": "Mt 24:42-51",
+        "psalm": null
+        },
+        "saint": "Augustine",
+        "color": "white",
+        "season": "Ordinary Time"
+    },
+    {
+        "date": "2025-08-29",
+        "weekday": "fri",
+        "celebrations": [
+        {
+            "title": "The Passion of Saint John the Baptist",
+            "rank": "memorial"
+        }
+        ],
+        "readings": {
+        "first_reading": "1 Thes 4:1-8",
+        "second_reading": null,
+        "gospel": "Mk 6:17-29",
+        "psalm": "Prop"
+        },
+        "saint": "John the Baptist",
+        "color": "red",
+        "season": "Ordinary Time"
+    },
+    {
+        "date": "2025-08-30",
+        "weekday": "sat",
+        "celebrations": [
+        {
+            "title": "Weekday",
+            "rank": "weekday"
+        },
+        {
+            "title": "Blessed Virgin Mary",
+            "rank": "optional memorial"
+        }
+        ],
+        "readings": {
+        "first_reading": "1 Thes 4:9-11",
+        "second_reading": null,
+        "gospel": "Mt 25:14-30",
+        "psalm": null
+        },
+        "saint": null,
+        "color": "green",
+        "season": "Ordinary Time"
+    },
+    {
+        "date": "2025-08-31",
+        "weekday": "sun",
+        "celebrations": [
+        {
+            "title": "TWENTY-SECOND SUNDAY IN ORDINARY TIME",
+            "rank": "sunday"
+        }
+        ],
+        "readings": {
+        "first_reading": "Sir 3:17-18, 20, 28-29",
+        "second_reading": "Heb 12:18-19, 22-24a",
+        "gospel": "Lk 14:1, 7-14",
+        "psalm": "II"
+        },
+        "saint": null,
+        "color": "green",
+        "season": "Ordinary Time"
+    },
+    {
+        "date": "2025-09-01",
+        "weekday": "mon",
+        "celebrations": [
+        {
+            "title": "Weekday",
+            "rank": "weekday"
+        }
+        ],
+        "readings": {
+        "first_reading": "1 Thes 4:13-18",
+        "second_reading": null,
+        "gospel": "Lk 4:16-30",
+        "psalm": null
+        },
+        "saint": null,
+        "color": "green",
+        "season": "Ordinary Time"
+    },
+    {
+        "date": "2025-09-02",
+        "weekday": "tue",
+        "celebrations": [
+        {
+            "title": "Weekday",
+            "rank": "weekday"
+        }
+        ],
+        "readings": {
+        "first_reading": "1 Thes 5:1-6, 9-11",
+        "second_reading": null,
+        "gospel": "Lk 4:31-37",
+        "psalm": null
+        },
+        "saint": null,
+        "color": "green",
+        "season": "Ordinary Time"
+    },
+    {
+        "date": "2025-09-03",
+        "weekday": "wed",
+        "celebrations": [
+        {
+            "title": "Saint Gregory the Great, Pope and Doctor of the Church",
+            "rank": "memorial"
+        }
+        ],
+        "readings": {
+        "first_reading": "Col 1:1-8",
+        "second_reading": null,
+        "gospel": "Lk 4:38-44",
+        "psalm": null
+        },
+        "saint": "Gregory the Great",
+        "color": "white",
+        "season": "Ordinary Time"
+    },
+    {
+        "date": "2025-09-04",
+        "weekday": "thu",
+        "celebrations": [
+        {
+            "title": "Weekday",
+            "rank": "weekday"
+        }
+        ],
+        "readings": {
+        "first_reading": "Col 1:9-14",
+        "second_reading": null,
+        "gospel": "Lk 5:1-11",
+        "psalm": null
+        },
+        "saint": null,
+        "color": "green",
+        "season": "Ordinary Time"
+    },
+    {
+        "date": "2025-09-05",
+        "weekday": "fri",
+        "celebrations": [
+        {
+            "title": "Weekday",
+            "rank": "weekday"
+        },
+        {
+            "title": "Saint Teresa of Calcutta, Virgin",
+            "rank": "optional memorial"
+        }
+        ],
+        "readings": {
+        "first_reading": "Col 1:15-20",
+        "second_reading": null,
+        "gospel": "Lk 5:33-39",
+        "psalm": null
+        },
+        "saint": null,
+        "color": "green",
+        "season": "Ordinary Time"
+    },
+    {
+        "date": "2025-09-06",
+        "weekday": "sat",
+        "celebrations": [
+        {
+            "title": "Weekday",
+            "rank": "weekday"
+        },
+        {
+            "title": "Blessed Virgin Mary",
+            "rank": "optional memorial"
+        }
+        ],
+        "readings": {
+        "first_reading": "Col 1:21-23",
+        "second_reading": null,
+        "gospel": "Lk 6:1-5",
+        "psalm": null
+        },
+        "saint": null,
+        "color": "green",
+        "season": "Ordinary Time"
+    },
+    {
+        "date": "2025-09-07",
+        "weekday": "sun",
+        "celebrations": [
+        {
+            "title": "TWENTY-THIRD SUNDAY IN ORDINARY TIME",
+            "rank": "sunday"
+        }
+        ],
+        "readings": {
+        "first_reading": "Wis 9:13-18b",
+        "second_reading": "Phlm 9-10, 12-17",
+        "gospel": "Lk 14:25-33",
+        "psalm": "III"
+        },
+        "saint": null,
+        "color": "green",
+        "season": "Ordinary Time"
+    },
+    {
+        "date": "2025-09-08",
+        "weekday": "mon",
+        "celebrations": [
+        {
+            "title": "The Nativity of the Blessed Virgin Mary",
+            "rank": "feast"
+        }
+        ],
+        "readings": {
+        "first_reading": "Mi 5:1-4a or Rom 8:28-30",
+        "second_reading": null,
+        "gospel": "Mt 1:1-16, 18-23 or 1:18-23",
+        "psalm": "Prop"
+        },
+        "saint": null,
+        "color": "white",
+        "season": "Ordinary Time"
+    },
+    {
+        "date": "2025-09-09",
+        "weekday": "tue",
+        "celebrations": [
+        {
+            "title": "Saint Peter Claver, Priest",
+            "rank": "memorial"
+        }
+        ],
+        "readings": {
+        "first_reading": "Col 2:6-15",
+        "second_reading": null,
+        "gospel": "Lk 6:12-19",
+        "psalm": null
+        },
+        "saint": "Peter Claver",
+        "color": "white",
+        "season": "Ordinary Time"
+    },
+    {
+        "date": "2025-09-10",
+        "weekday": "wed",
+        "celebrations": [
+        {
+            "title": "Weekday",
+            "rank": "weekday"
+        }
+        ],
+        "readings": {
+        "first_reading": "Col 3:1-11",
+        "second_reading": null,
+        "gospel": "Lk 6:20-26",
+        "psalm": null
+        },
+        "saint": null,
+        "color": "green",
+        "season": "Ordinary Time"
+    },
+    {
+        "date": "2025-09-11",
+        "weekday": "thu",
+        "celebrations": [
+        {
+            "title": "Weekday",
+            "rank": "weekday"
+        }
+        ],
+        "readings": {
+        "first_reading": "Col 3:12-17",
+        "second_reading": null,
+        "gospel": "Lk 6:27-38",
+        "psalm": null
+        },
+        "saint": null,
+        "color": "green",
+        "season": "Ordinary Time"
+    },
+    {
+        "date": "2025-09-12",
+        "weekday": "fri",
+        "celebrations": [
+        {
+            "title": "Weekday",
+            "rank": "weekday"
+        },
+        {
+            "title": "The Most Holy Name of Mary",
+            "rank": "optional memorial"
+        }
+        ],
+        "readings": {
+        "first_reading": "1 Tm 1:1-2, 12-14",
+        "second_reading": null,
+        "gospel": "Lk 6:39-42",
+        "psalm": null
+        },
+        "saint": null,
+        "color": "green",
+        "season": "Ordinary Time"
+    },
+    {
+        "date": "2025-09-13",
+        "weekday": "sat",
+        "celebrations": [
+        {
+            "title": "Saint John Chrysostom, Bishop and Doctor of the Church",
+            "rank": "memorial"
+        }
+        ],
+        "readings": {
+        "first_reading": "1 Tm 1:15-17",
+        "second_reading": null,
+        "gospel": "Lk 6:43-49",
+        "psalm": null
+        },
+        "saint": "John Chrysostom",
+        "color": "white",
+        "season": "Ordinary Time"
+    },
+    {
+        "date": "2025-09-14",
+        "weekday": "sun",
+        "celebrations": [
+        {
+            "title": "THE EXALTATION OF THE HOLY CROSS",
+            "rank": "feast"
+        }
+        ],
+        "readings": {
+        "first_reading": "Nm 21:4b-9",
+        "second_reading": "Phil 2:6-11",
+        "gospel": "Jn 3:13-17",
+        "psalm": "Prop"
+        },
+        "saint": null,
+        "color": "red",
+        "season": "Ordinary Time"
+    },
+    {
+        "date": "2025-09-15",
+        "weekday": "mon",
+        "celebrations": [
+        {
+            "title": "Our Lady of Sorrows",
+            "rank": "memorial"
+        }
+        ],
+        "readings": {
+        "first_reading": "1 Tm 2:1-8",
+        "second_reading": null,
+        "gospel": "Jn 19:25-27 or Lk 2:33-35",
+        "psalm": "Prop"
+        },
+        "saint": null,
+        "color": "white",
+        "season": "Ordinary Time"
+    },
+    {
+        "date": "2025-09-16",
+        "weekday": "tue",
+        "celebrations": [
+        {
+            "title": "Saints Cornelius, Pope, and Cyprian, Bishop, Martyrs",
+            "rank": "memorial"
+        }
+        ],
+        "readings": {
+        "first_reading": "1 Tm 3:1-13",
+        "second_reading": null,
+        "gospel": "Lk 7:11-17",
+        "psalm": "IV"
+        },
+        "saint": "Cornelius and Cyprian",
+        "color": "red",
+        "season": "Ordinary Time"
+    },
+    {
+        "date": "2025-09-17",
+        "weekday": "wed",
+        "celebrations": [
+        {
+            "title": "Weekday",
+            "rank": "weekday"
+        },
+        {
+            "title": "Saint Robert Bellarmine, Bishop and Doctor of the Church",
+            "rank": "optional memorial"
+        },
+        {
+            "title": "Saint Hildegard of Bingen, Virgin and Doctor of the Church",
+            "rank": "optional memorial"
+        }
+        ],
+        "readings": {
+        "first_reading": "1 Tm 3:14-16",
+        "second_reading": null,
+        "gospel": "Lk 7:31-35",
+        "psalm": null
+        },
+        "saint": null,
+        "color": "green",
+        "season": "Ordinary Time"
+    },
+    {
+        "date": "2025-09-18",
+        "weekday": "thu",
+        "celebrations": [
+        {
+            "title": "Weekday",
+            "rank": "weekday"
+        }
+        ],
+        "readings": {
+        "first_reading": "1 Tm 4:12-16",
+        "second_reading": null,
+        "gospel": "Lk 7:36-50",
+        "psalm": null
+        },
+        "saint": null,
+        "color": "green",
+        "season": "Ordinary Time"
+    },
+    {
+        "date": "2025-09-19",
+        "weekday": "fri",
+        "celebrations": [
+        {
+            "title": "Weekday",
+            "rank": "weekday"
+        },
+        {
+            "title": "Saint Januarius, Bishop and Martyr",
+            "rank": "optional memorial"
+        }
+        ],
+        "readings": {
+        "first_reading": "1 Tm 6:2c-12",
+        "second_reading": null,
+        "gospel": "Lk 8:1-3",
+        "psalm": null
+        },
+        "saint": null,
+        "color": "green",
+        "season": "Ordinary Time"
+    },
+    {
+        "date": "2025-09-20",
+        "weekday": "sat",
+        "celebrations": [
+        {
+            "title": "Saints Andrew Kim Tae-gŏn, Priest, and Paul Chŏng Ha-sang, and Companions, Martyrs",
+            "rank": "memorial"
+        }
+        ],
+        "readings": {
+        "first_reading": "1 Tm 6:13-16",
+        "second_reading": null,
+        "gospel": "Lk 8:4-15",
+        "psalm": null
+        },
+        "saint": "Andrew Kim Tae-gŏn and Paul Chŏng Ha-sang",
+        "color": "red",
+        "season": "Ordinary Time"
+    },
+    {
+        "date": "2025-09-21",
+        "weekday": "sun",
+        "celebrations": [
+        {
+            "title": "TWENTY-FIFTH SUNDAY IN ORDINARY TIME",
+            "rank": "sunday"
+        }
+        ],
+        "readings": {
+        "first_reading": "Am 8:4-7",
+        "second_reading": "1 Tm 2:1-8",
+        "gospel": "Lk 16:1-13 or 16:10-13",
+        "psalm": "I"
+        },
+        "saint": null,
+        "color": "green",
+        "season": "Ordinary Time"
+    },
+    {
+        "date": "2025-09-22",
+        "weekday": "mon",
+        "celebrations": [
+        {
+            "title": "Weekday",
+            "rank": "weekday"
+        }
+        ],
+        "readings": {
+        "first_reading": "Ezr 1:1-6",
+        "second_reading": null,
+        "gospel": "Lk 8:16-18",
+        "psalm": null
+        },
+        "saint": null,
+        "color": "green",
+        "season": "Ordinary Time"
+    },
+    {
+        "date": "2025-09-23",
+        "weekday": "tue",
+        "celebrations": [
+        {
+            "title": "Saint Pius of Pietrelcina, Priest",
+            "rank": "memorial"
+        }
+        ],
+        "readings": {
+        "first_reading": "Ezr 6:7-8, 12b, 14-20",
+        "second_reading": null,
+        "gospel": "Lk 8:19-21",
+        "psalm": null
+        },
+        "saint": "Pius of Pietrelcina",
+        "color": "white",
+        "season": "Ordinary Time"
+    },
+    {
+        "date": "2025-09-24",
+        "weekday": "wed",
+        "celebrations": [
+        {
+            "title": "Weekday",
+            "rank": "weekday"
+        }
+        ],
+        "readings": {
+        "first_reading": "Ezr 9:5-9",
+        "second_reading": null,
+        "gospel": "Lk 9:1-6",
+        "psalm": null
+        },
+        "saint": null,
+        "color": "green",
+        "season": "Ordinary Time"
+    },
+    {
+        "date": "2025-09-25",
+        "weekday": "thu",
+        "celebrations": [
+        {
+            "title": "Weekday",
+            "rank": "weekday"
+        }
+        ],
+        "readings": {
+        "first_reading": "Hg 1:1-8",
+        "second_reading": null,
+        "gospel": "Lk 9:7-9",
+        "psalm": null
+        },
+        "saint": null,
+        "color": "green",
+        "season": "Ordinary Time"
+    },
+    {
+        "date": "2025-09-26",
+        "weekday": "fri",
+        "celebrations": [
+        {
+            "title": "Weekday",
+            "rank": "weekday"
+        },
+        {
+            "title": "Saints Cosmas and Damian, Martyrs",
+            "rank": "optional memorial"
+        }
+        ],
+        "readings": {
+        "first_reading": "Hg 2:1-9",
+        "second_reading": null,
+        "gospel": "Lk 9:18-22",
+        "psalm": null
+        },
+        "saint": null,
+        "color": "green",
+        "season": "Ordinary Time"
+    },
+    {
+        "date": "2025-09-27",
+        "weekday": "sat",
+        "celebrations": [
+        {
+            "title": "Saint Vincent de Paul, Priest",
+            "rank": "memorial"
+        }
+        ],
+        "readings": {
+        "first_reading": "Zec 2:5-9, 14-15a",
+        "second_reading": null,
+        "gospel": "Lk 9:43b-45",
+        "psalm": null
+        },
+        "saint": "Vincent de Paul",
+        "color": "white",
+        "season": "Ordinary Time"
+    },
+    {
+        "date": "2025-09-28",
+        "weekday": "sun",
+        "celebrations": [
+        {
+            "title": "TWENTY-SIXTH SUNDAY IN ORDINARY TIME",
+            "rank": "sunday"
+        }
+        ],
+        "readings": {
+        "first_reading": "Am 6:1a, 4-7",
+        "second_reading": "1 Tm 6:11-16",
+        "gospel": "Lk 16:19-31",
+        "psalm": "II"
+        },
+        "saint": null,
+        "color": "green",
+        "season": "Ordinary Time"
+    },
+    {
+        "date": "2025-09-29",
+        "weekday": "mon",
+        "celebrations": [
+        {
+            "title": "Saints Michael, Gabriel and Raphael, Archangels",
+            "rank": "feast"
+        }
+        ],
+        "readings": {
+        "first_reading": "Dn 7:9-10, 13-14 or Rv 12:7-12ab",
+        "second_reading": null,
+        "gospel": "Jn 1:47-51",
+        "psalm": "Prop"
+        },
+        "saint": "Michael, Gabriel, and Raphael",
+        "color": "white",
+        "season": "Ordinary Time"
+    },
+    {
+        "date": "2025-09-30",
+        "weekday": "tue",
+        "celebrations": [
+        {
+            "title": "Saint Jerome, Priest and Doctor of the Church",
+            "rank": "memorial"
+        }
+        ],
+        "readings": {
+        "first_reading": "Zec 8:20-23",
+        "second_reading": null,
+        "gospel": "Lk 9:51-56",
+        "psalm": null
+        },
+        "saint": "Jerome",
+        "color": "white",
+        "season": "Ordinary Time"
+    },
+    {
+        "date": "2025-10-01",
+        "weekday": "wed",
+        "celebrations": [
+        {
+            "title": "Saint Thérèse of the Child Jesus, Virgin and Doctor of the Church",
+            "rank": "memorial"
+        }
+        ],
+        "readings": {
+        "first_reading": "Neh 2:1-8",
+        "second_reading": null,
+        "gospel": "Lk 9:57-62",
+        "psalm": null
+        },
+        "saint": "Thérèse of the Child Jesus",
+        "color": "white",
+        "season": "Ordinary Time"
+    },
+    {
+        "date": "2025-10-02",
+        "weekday": "thu",
+        "celebrations": [
+        {
+            "title": "The Holy Guardian Angels",
+            "rank": "memorial"
+        }
+        ],
+        "readings": {
+        "first_reading": "Neh 8:1-4a, 5-6, 7b-12",
+        "second_reading": null,
+        "gospel": "Mt 18:1-5, 10",
+        "psalm": "Prop"
+        },
+        "saint": null,
+        "color": "white",
+        "season": "Ordinary Time"
+    },
+    {
+        "date": "2025-10-03",
+        "weekday": "fri",
+        "celebrations": [
+        {
+            "title": "Weekday",
+            "rank": "weekday"
+        }
+        ],
+        "readings": {
+        "first_reading": "Bar 1:15-22",
+        "second_reading": null,
+        "gospel": "Lk 10:13-16",
+        "psalm": null
+        },
+        "saint": null,
+        "color": "green",
+        "season": "Ordinary Time"
+    },
+    {
+        "date": "2025-10-04",
+        "weekday": "sat",
+        "celebrations": [
+        {
+            "title": "Saint Francis of Assisi",
+            "rank": "memorial"
+        }
+        ],
+        "readings": {
+        "first_reading": "Bar 4:5-12, 27-29",
+        "second_reading": null,
+        "gospel": "Lk 10:17-24",
+        "psalm": null
+        },
+        "saint": "Francis of Assisi",
+        "color": "white",
+        "season": "Ordinary Time"
+    },
+    {
+        "date": "2025-10-05",
+        "weekday": "sun",
+        "celebrations": [
+        {
+            "title": "TWENTY-SEVENTH SUNDAY IN ORDINARY TIME",
+            "rank": "sunday"
+        }
+        ],
+        "readings": {
+        "first_reading": "Hb 1:2-3; 2:2-4",
+        "second_reading": "2 Tm 1:6-8, 13-14",
+        "gospel": "Lk 17:5-10",
+        "psalm": "III"
+        },
+        "saint": null,
+        "color": "green",
+        "season": "Ordinary Time"
+    },
+    {
+        "date": "2025-10-06",
+        "weekday": "mon",
+        "celebrations": [
+        {
+            "title": "Weekday",
+            "rank": "weekday"
+        },
+        {
+            "title": "Saint Bruno, Priest",
+            "rank": "optional memorial"
+        },
+        {
+            "title": "Blessed Marie Rose Durocher, Virgin",
+            "rank": "optional memorial"
+        }
+        ],
+        "readings": {
+        "first_reading": "Jon 1:1—2:2, 11",
+        "second_reading": null,
+        "gospel": "Lk 10:25-37",
+        "psalm": null
+        },
+        "saint": null,
+        "color": "green",
+        "season": "Ordinary Time"
+    },
+    {
+        "date": "2025-10-07",
+        "weekday": "tue",
+        "celebrations": [
+        {
+            "title": "Our Lady of the Rosary",
+            "rank": "memorial"
+        }
+        ],
+        "readings": {
+        "first_reading": "Jon 3:1-10",
+        "second_reading": null,
+        "gospel": "Lk 10:38-42",
+        "psalm": "Prop"
+        },
+        "saint": null,
+        "color": "white",
+        "season": "Ordinary Time"
+    },
+    {
+        "date": "2025-10-08",
+        "weekday": "wed",
+        "celebrations": [
+        {
+            "title": "Weekday",
+            "rank": "weekday"
+        }
+        ],
+        "readings": {
+        "first_reading": "Jon 4:1-11",
+        "second_reading": null,
+        "gospel": "Lk 11:1-4",
+        "psalm": null
+        },
+        "saint": null,
+        "color": "green",
+        "season": "Ordinary Time"
+    },
+    {
+        "date": "2025-10-09",
+        "weekday": "thu",
+        "celebrations": [
+        {
+            "title": "Weekday",
+            "rank": "weekday"
+        },
+        {
+            "title": "Saint Denis, Bishop, and Companions, Martyrs",
+            "rank": "optional memorial"
+        },
+        {
+            "title": "Saint John Leonardi, Priest",
+            "rank": "optional memorial"
+        }
+        ],
+        "readings": {
+        "first_reading": "Mal 3:13-20b",
+        "second_reading": null,
+        "gospel": "Lk 11:5-13",
+        "psalm": null
+        },
+        "saint": null,
+        "color": "green",
+        "season": "Ordinary Time"
+    },
+    {
+        "date": "2025-10-10",
+        "weekday": "fri",
+        "celebrations": [
+        {
+            "title": "Weekday",
+            "rank": "weekday"
+        }
+        ],
+        "readings": {
+        "first_reading": "Jl 1:13-15; 2:1-2",
+        "second_reading": null,
+        "gospel": "Lk 11:15-26",
+        "psalm": null
+        },
+        "saint": null,
+        "color": "green",
+        "season": "Ordinary Time"
+    },
+    {
+        "date": "2025-10-11",
+        "weekday": "sat",
+        "celebrations": [
+        {
+            "title": "Weekday",
+            "rank": "weekday"
+        },
+        {
+            "title": "Saint John XXIII, Pope",
+            "rank": "optional memorial"
+        },
+        {
+            "title": "Blessed Virgin Mary",
+            "rank": "optional memorial"
+        }
+        ],
+        "readings": {
+        "first_reading": "Jl 4:12-21",
+        "second_reading": null,
+        "gospel": "Lk 11:27-28",
+        "psalm": null
+        },
+        "saint": null,
+        "color": "green",
+        "season": "Ordinary Time"
+    },
+    {
+        "date": "2025-10-12",
+        "weekday": "sun",
+        "celebrations": [
+        {
+            "title": "TWENTY-EIGHTH SUNDAY IN ORDINARY TIME",
+            "rank": "sunday"
+        }
+        ],
+        "readings": {
+        "first_reading": "2 Kgs 5:14-17",
+        "second_reading": "2 Tm 2:8-13",
+        "gospel": "Lk 17:11-19",
+        "psalm": "IV"
+        },
+        "saint": null,
+        "color": "green",
+        "season": "Ordinary Time"
+    },
+    {
+        "date": "2025-10-13",
+        "weekday": "mon",
+        "celebrations": [
+        {
+            "title": "Weekday",
+            "rank": "weekday"
+        }
+        ],
+        "readings": {
+        "first_reading": "Rom 1:1-7",
+        "second_reading": null,
+        "gospel": "Lk 11:29-32",
+        "psalm": null
+        },
+        "saint": null,
+        "color": "green",
+        "season": "Ordinary Time"
+    },
+    {
+        "date": "2025-10-14",
+        "weekday": "tue",
+        "celebrations": [
+        {
+            "title": "Weekday",
+            "rank": "weekday"
+        },
+        {
+            "title": "Saint Callistus I, Pope and Martyr",
+            "rank": "optional memorial"
+        }
+        ],
+        "readings": {
+        "first_reading": "Rom 1:16-25",
+        "second_reading": null,
+        "gospel": "Lk 11:37-41",
+        "psalm": null
+        },
+        "saint": null,
+        "color": "green",
+        "season": "Ordinary Time"
+    },
+    {
+        "date": "2025-10-15",
+        "weekday": "wed",
+        "celebrations": [
+        {
+            "title": "Saint Teresa of Jesus, Virgin and Doctor of the Church",
+            "rank": "memorial"
+        }
+        ],
+        "readings": {
+        "first_reading": "Rom 2:1-11",
+        "second_reading": null,
+        "gospel": "Lk 11:42-46",
+        "psalm": null
+        },
+        "saint": "Teresa of Jesus",
+        "color": "white",
+        "season": "Ordinary Time"
+    },
+    {
+        "date": "2025-10-16",
+        "weekday": "thu",
+        "celebrations": [
+        {
+            "title": "Weekday",
+            "rank": "weekday"
+        },
+        {
+            "title": "Saint Hedwig, Religious",
+            "rank": "optional memorial"
+        },
+        {
+            "title": "Saint Margaret Mary Alacoque, Virgin",
+            "rank": "optional memorial"
+        }
+        ],
+        "readings": {
+        "first_reading": "Rom 3:21-30",
+        "second_reading": null,
+        "gospel": "Lk 11:47-54",
+        "psalm": null
+        },
+        "saint": null,
+        "color": "green",
+        "season": "Ordinary Time"
+    },
+    {
+        "date": "2025-10-17",
+        "weekday": "fri",
+        "celebrations": [
+        {
+            "title": "Saint Ignatius of Antioch, Bishop and Martyr",
+            "rank": "memorial"
+        }
+        ],
+        "readings": {
+        "first_reading": "Rom 4:1-8",
+        "second_reading": null,
+        "gospel": "Lk 12:1-7",
+        "psalm": null
+        },
+        "saint": "Ignatius of Antioch",
+        "color": "red",
+        "season": "Ordinary Time"
+    },
+    {
+        "date": "2025-10-18",
+        "weekday": "sat",
+        "celebrations": [
+        {
+            "title": "Saint Luke, Evangelist",
+            "rank": "feast"
+        }
+        ],
+        "readings": {
+        "first_reading": "2 Tm 4:10-17b",
+        "second_reading": null,
+        "gospel": "Lk 10:1-9",
+        "psalm": "Prop"
+        },
+        "saint": "Luke",
+        "color": "red",
+        "season": "Ordinary Time"
+    },
+    {
+        "date": "2025-10-19",
+        "weekday": "sun",
+        "celebrations": [
+        {
+            "title": "TWENTY-NINTH SUNDAY IN ORDINARY TIME",
+            "rank": "sunday"
+        }
+        ],
+        "readings": {
+        "first_reading": "Ex 17:8-13",
+        "second_reading": "2 Tm 3:14—4:2",
+        "gospel": "Lk 18:1-8",
+        "psalm": "I"
+        },
+        "saint": null,
+        "color": "green",
+        "season": "Ordinary Time"
+    },
+    {
+        "date": "2025-10-20",
+        "weekday": "mon",
+        "celebrations": [
+        {
+            "title": "Weekday",
+            "rank": "weekday"
+        },
+        {
+            "title": "Saint Paul of the Cross, Priest",
+            "rank": "optional memorial"
+        }
+        ],
+        "readings": {
+        "first_reading": "Rom 4:20-25",
+        "second_reading": null,
+        "gospel": "Lk 12:13-21",
+        "psalm": null
+        },
+        "saint": null,
+        "color": "green",
+        "season": "Ordinary Time"
+    },
+    {
+        "date": "2025-10-21",
+        "weekday": "tue",
+        "celebrations": [
+        {
+            "title": "Weekday",
+            "rank": "weekday"
+        }
+        ],
+        "readings": {
+        "first_reading": "Rom 5:12, 15b, 17-19, 20b-21",
+        "second_reading": null,
+        "gospel": "Lk 12:35-38",
+        "psalm": null
+        },
+        "saint": null,
+        "color": "green",
+        "season": "Ordinary Time"
+    },
+    {
+        "date": "2025-10-22",
+        "weekday": "wed",
+        "celebrations": [
+        {
+            "title": "Weekday",
+            "rank": "weekday"
+        },
+        {
+            "title": "Saint John Paul II, Pope",
+            "rank": "optional memorial"
+        }
+        ],
+        "readings": {
+        "first_reading": "Rom 6:12-18",
+        "second_reading": null,
+        "gospel": "Lk 12:39-48",
+        "psalm": null
+        },
+        "saint": null,
+        "color": "green",
+        "season": "Ordinary Time"
+    },
+    {
+        "date": "2025-10-23",
+        "weekday": "thu",
+        "celebrations": [
+        {
+            "title": "Weekday",
+            "rank": "weekday"
+        },
+        {
+            "title": "Saint John of Capistrano, Priest",
+            "rank": "optional memorial"
+        }
+        ],
+        "readings": {
+        "first_reading": "Rom 6:19-23",
+        "second_reading": null,
+        "gospel": "Lk 12:49-53",
+        "psalm": null
+        },
+        "saint": null,
+        "color": "green",
+        "season": "Ordinary Time"
+    },
+    {
+        "date": "2025-10-24",
+        "weekday": "fri",
+        "celebrations": [
+        {
+            "title": "Weekday",
+            "rank": "weekday"
+        },
+        {
+            "title": "Saint Anthony Mary Claret, Bishop",
+            "rank": "optional memorial"
+        }
+        ],
+        "readings": {
+        "first_reading": "Rom 7:18-25a",
+        "second_reading": null,
+        "gospel": "Lk 12:54-59",
+        "psalm": null
+        },
+        "saint": null,
+        "color": "green",
+        "season": "Ordinary Time"
+    },
+    {
+        "date": "2025-10-25",
+        "weekday": "sat",
+        "celebrations": [
+        {
+            "title": "Weekday",
+            "rank": "weekday"
+        },
+        {
+            "title": "Blessed Virgin Mary",
+            "rank": "optional memorial"
+        }
+        ],
+        "readings": {
+        "first_reading": "Rom 8:1-11",
+        "second_reading": null,
+        "gospel": "Lk 13:1-9",
+        "psalm": null
+        },
+        "saint": null,
+        "color": "green",
+        "season": "Ordinary Time"
+    },
+    {
+        "date": "2025-10-26",
+        "weekday": "sun",
+        "celebrations": [
+        {
+            "title": "THIRTIETH SUNDAY IN ORDINARY TIME",
+            "rank": "sunday"
+        }
+        ],
+        "readings": {
+        "first_reading": "Sir 35:12-14, 16-18",
+        "second_reading": "2 Tm 4:6-8, 16-18",
+        "gospel": "Lk 18:9-14",
+        "psalm": "II"
+        },
+        "saint": null,
+        "color": "green",
+        "season": "Ordinary Time"
+    },
+    {
+        "date": "2025-10-27",
+        "weekday": "mon",
+        "celebrations": [
+        {
+            "title": "Weekday",
+            "rank": "weekday"
+        }
+        ],
+        "readings": {
+        "first_reading": "Rom 8:12-17",
+        "second_reading": null,
+        "gospel": "Lk 13:10-17",
+        "psalm": null
+        },
+        "saint": null,
+        "color": "green",
+        "season": "Ordinary Time"
+    },
+    {
+        "date": "2025-10-28",
+        "weekday": "tue",
+        "celebrations": [
+        {
+            "title": "Saints Simon and Jude, Apostles",
+            "rank": "feast"
+        }
+        ],
+        "readings": {
+        "first_reading": "Eph 2:19-22",
+        "second_reading": null,
+        "gospel": "Lk 6:12-16",
+        "psalm": "Prop"
+        },
+        "saint": "Simon and Jude",
+        "color": "red",
+        "season": "Ordinary Time"
+    },
+    {
+        "date": "2025-10-29",
+        "weekday": "wed",
+        "celebrations": [
+        {
+            "title": "Weekday",
+            "rank": "weekday"
+        }
+        ],
+        "readings": {
+        "first_reading": "Rom 8:26-30",
+        "second_reading": null,
+        "gospel": "Lk 13:22-30",
+        "psalm": null
+        },
+        "saint": null,
+        "color": "green",
+        "season": "Ordinary Time"
+    },
+    {
+        "date": "2025-10-30",
+        "weekday": "thu",
+        "celebrations": [
+        {
+            "title": "Weekday",
+            "rank": "weekday"
+        }
+        ],
+        "readings": {
+        "first_reading": "Rom 8:31b-39",
+        "second_reading": null,
+        "gospel": "Lk 13:31-35",
+        "psalm": null
+        },
+        "saint": null,
+        "color": "green",
+        "season": "Ordinary Time"
+    },
+    {
+        "date": "2025-10-31",
+        "weekday": "fri",
+        "celebrations": [
+        {
+            "title": "Weekday",
+            "rank": "weekday"
+        }
+        ],
+        "readings": {
+        "first_reading": "Rom 9:1-5",
+        "second_reading": null,
+        "gospel": "Lk 14:1-6",
+        "psalm": null
+        },
+        "saint": null,
+        "color": "green",
+        "season": "Ordinary Time"
+    },
+    {
+        "date": "2025-11-01",
+        "weekday": "sat",
+        "celebrations": [
+        {
+            "title": "ALL SAINTS",
+            "rank": "solemnity"
+        }
+        ],
+        "readings": {
+        "first_reading": "Rv 7:2-4, 9-14",
+        "second_reading": "1 Jn 3:1-3",
+        "gospel": "Mt 5:1-12a",
+        "psalm": "Prop"
+        },
+        "saint": null,
+        "color": "white",
+        "season": "Ordinary Time"
+    },
+    {
+        "date": "2025-11-02",
+        "weekday": "sun",
+        "celebrations": [
+        {
+            "title": "THE COMMEMORATION OF ALL THE FAITHFUL DEPARTED (All Souls’ Day)",
+            "rank": "sunday"
+        }
+        ],
+        "readings": {
+        "first_reading": "Any from no. 668 or Masses for the Dead (1011-1016)",
+        "second_reading": null,
+        "gospel": "Any from no. 668 or Masses for the Dead (1011-1016)",
+        "psalm": "Prop"
+        },
+        "saint": null,
+        "color": "violet",
+        "season": "Ordinary Time"
+    },
+    {
+        "date": "2025-11-03",
+        "weekday": "mon",
+        "celebrations": [
+        {
+            "title": "Weekday (Thirty-First Week in Ordinary Time)",
+            "rank": "weekday"
+        },
+        {
+            "title": "Saint Martin de Porres, Religious",
+            "rank": "optional memorial"
+        }
+        ],
+        "readings": {
+        "first_reading": "Rom 11:29-36",
+        "second_reading": null,
+        "gospel": "Lk 14:12-14",
+        "psalm": "III"
+        },
+        "saint": null,
+        "color": "green",
+        "season": "Ordinary Time"
+    },
+    {
+        "date": "2025-11-04",
+        "weekday": "tue",
+        "celebrations": [
+        {
+            "title": "Saint Charles Borromeo, Bishop",
+            "rank": "memorial"
+        }
+        ],
+        "readings": {
+        "first_reading": "Rom 12:5-16b",
+        "second_reading": null,
+        "gospel": "Lk 14:15-24",
+        "psalm": null
+        },
+        "saint": "Charles Borromeo",
+        "color": "white",
+        "season": "Ordinary Time"
+    },
+    {
+        "date": "2025-11-05",
+        "weekday": "wed",
+        "celebrations": [
+        {
+            "title": "Weekday",
+            "rank": "weekday"
+        }
+        ],
+        "readings": {
+        "first_reading": "Rom 13:8-10",
+        "second_reading": null,
+        "gospel": "Lk 14:25-33",
+        "psalm": null
+        },
+        "saint": null,
+        "color": "green",
+        "season": "Ordinary Time"
+    },
+    {
+        "date": "2025-11-06",
+        "weekday": "thu",
+        "celebrations": [
+        {
+            "title": "Weekday",
+            "rank": "weekday"
+        }
+        ],
+        "readings": {
+        "first_reading": "Rom 14:7-12",
+        "second_reading": null,
+        "gospel": "Lk 15:1-10",
+        "psalm": null
+        },
+        "saint": null,
+        "color": "green",
+        "season": "Ordinary Time"
+    },
+    {
+        "date": "2025-11-07",
+        "weekday": "fri",
+        "celebrations": [
+        {
+            "title": "Weekday",
+            "rank": "weekday"
+        }
+        ],
+        "readings": {
+        "first_reading": "Rom 15:14-21",
+        "second_reading": null,
+        "gospel": "Lk 16:1-8",
+        "psalm": null
+        },
+        "saint": null,
+        "color": "green",
+        "season": "Ordinary Time"
+    },
+    {
+        "date": "2025-11-08",
+        "weekday": "sat",
+        "celebrations": [
+        {
+            "title": "Weekday",
+            "rank": "weekday"
+        },
+        {
+            "title": "Blessed Virgin Mary",
+            "rank": "optional memorial"
+        }
+        ],
+        "readings": {
+        "first_reading": "Rom 16:3-9, 16, 22-27",
+        "second_reading": null,
+        "gospel": "Lk 16:9-15",
+        "psalm": null
+        },
+        "saint": null,
+        "color": "green",
+        "season": "Ordinary Time"
+    },
+    {
+        "date": "2025-11-09",
+        "weekday": "sun",
+        "celebrations": [
+        {
+            "title": "THE DEDICATION OF THE LATERAN BASILICA",
+            "rank": "feast"
+        }
+        ],
+        "readings": {
+        "first_reading": "Ez 47:1-2, 8-9, 12",
+        "second_reading": "1 Cor 3:9c-11, 16-17",
+        "gospel": "Jn 2:13-22",
+        "psalm": "Prop"
+        },
+        "saint": null,
+        "color": "white",
+        "season": "Ordinary Time"
+    },
+    {
+        "date": "2025-11-10",
+        "weekday": "mon",
+        "celebrations": [
+        {
+            "title": "Saint Leo the Great, Pope and Doctor of the Church",
+            "rank": "memorial"
+        }
+        ],
+        "readings": {
+        "first_reading": "Wis 1:1-7",
+        "second_reading": null,
+        "gospel": "Lk 17:1-6",
+        "psalm": "IV"
+        },
+        "saint": "Leo the Great",
+        "color": "white",
+        "season": "Ordinary Time"
+    },
+    {
+        "date": "2025-11-11",
+        "weekday": "tue",
+        "celebrations": [
+        {
+            "title": "Saint Martin of Tours, Bishop",
+            "rank": "memorial"
+        }
+        ],
+        "readings": {
+        "first_reading": "Wis 2:23—3:9",
+        "second_reading": null,
+        "gospel": "Lk 17:7-10",
+        "psalm": "Prop"
+        },
+        "saint": "Martin of Tours",
+        "color": "white",
+        "season": "Ordinary Time"
+    },
+    {
+        "date": "2025-11-12",
+        "weekday": "wed",
+        "celebrations": [
+        {
+            "title": "Saint Josaphat, Bishop and Martyr",
+            "rank": "memorial"
+        }
+        ],
+        "readings": {
+        "first_reading": "Wis 6:1-11",
+        "second_reading": null,
+        "gospel": "Lk 17:11-19",
+        "psalm": null
+        },
+        "saint": "Josaphat",
+        "color": "red",
+        "season": "Ordinary Time"
+    },
+    {
+        "date": "2025-11-13",
+        "weekday": "thu",
+        "celebrations": [
+        {
+            "title": "Saint Frances Xavier Cabrini, Virgin",
+            "rank": "memorial"
+        }
+        ],
+        "readings": {
+        "first_reading": "Wis 7:22b—8:1",
+        "second_reading": null,
+        "gospel": "Lk 17:20-25",
+        "psalm": null
+        },
+        "saint": "Frances Xavier Cabrini",
+        "color": "white",
+        "season": "Ordinary Time"
+    },
+    {
+        "date": "2025-11-14",
+        "weekday": "fri",
+        "celebrations": [
+        {
+            "title": "Weekday",
+            "rank": "weekday"
+        }
+        ],
+        "readings": {
+        "first_reading": "Wis 13:1-9",
+        "second_reading": null,
+        "gospel": "Lk 17:26-37",
+        "psalm": null
+        },
+        "saint": null,
+        "color": "green",
+        "season": "Ordinary Time"
+    },
+    {
+        "date": "2025-11-15",
+        "weekday": "sat",
+        "celebrations": [
+        {
+            "title": "Weekday",
+            "rank": "weekday"
+        },
+        {
+            "title": "Saint Albert the Great, Bishop and Doctor of the Church",
+            "rank": "optional memorial"
+        },
+        {
+            "title": "Blessed Virgin Mary",
+            "rank": "optional memorial"
+        }
+        ],
+        "readings": {
+        "first_reading": "Wis 18:14-16; 19:6-9",
+        "second_reading": null,
+        "gospel": "Lk 18:1-8",
+        "psalm": null
+        },
+        "saint": null,
+        "color": "green",
+        "season": "Ordinary Time"
+    },
+    {
+        "date": "2025-11-16",
+        "weekday": "sun",
+        "celebrations": [
+        {
+            "title": "THIRTY-THIRD SUNDAY IN ORDINARY TIME",
+            "rank": "sunday"
+        }
+        ],
+        "readings": {
+        "first_reading": "Mal 3:19-20a",
+        "second_reading": "2 Thes 3:7-12",
+        "gospel": "Lk 21:5-19",
+        "psalm": "I"
+        },
+        "saint": null,
+        "color": "green",
+        "season": "Ordinary Time"
+    },
+    {
+        "date": "2025-11-17",
+        "weekday": "mon",
+        "celebrations": [
+        {
+            "title": "Saint Elizabeth of Hungary, Religious",
+            "rank": "memorial"
+        }
+        ],
+        "readings": {
+        "first_reading": "1 Mc 1:10-15, 41-43, 54-57, 62-63",
+        "second_reading": null,
+        "gospel": "Lk 18:35-43",
+        "psalm": null
+        },
+        "saint": "Elizabeth of Hungary",
+        "color": "white",
+        "season": "Ordinary Time"
+    },
+    {
+        "date": "2025-11-18",
+        "weekday": "tue",
+        "celebrations": [
+        {
+            "title": "Weekday",
+            "rank": "weekday"
+        },
+        {
+            "title": "The Dedication of the Basilicas of Saints Peter and Paul, Apostles",
+            "rank": "optional memorial"
+        },
+        {
+            "title": "Saint Rose Philippine Duchesne, Virgin",
+            "rank": "optional memorial"
+        }
+        ],
+        "readings": {
+        "first_reading": "2 Mc 6:18-31",
+        "second_reading": null,
+        "gospel": "Lk 19:1-10",
+        "psalm": null
+        },
+        "saint": null,
+        "color": "green",
+        "season": "Ordinary Time"
+    },
+    {
+        "date": "2025-11-19",
+        "weekday": "wed",
+        "celebrations": [
+        {
+            "title": "Weekday",
+            "rank": "weekday"
+        }
+        ],
+        "readings": {
+        "first_reading": "2 Mc 7:1, 20-31",
+        "second_reading": null,
+        "gospel": "Lk 19:11-28",
+        "psalm": null
+        },
+        "saint": null,
+        "color": "green",
+        "season": "Ordinary Time"
+    },
+    {
+        "date": "2025-11-20",
+        "weekday": "thu",
+        "celebrations": [
+        {
+            "title": "Weekday",
+            "rank": "weekday"
+        }
+        ],
+        "readings": {
+        "first_reading": "1 Mc 2:15-29",
+        "second_reading": null,
+        "gospel": "Lk 19:41-44",
+        "psalm": null
+        },
+        "saint": null,
+        "color": "green",
+        "season": "Ordinary Time"
+    },
+    {
+        "date": "2025-11-21",
+        "weekday": "fri",
+        "celebrations": [
+        {
+            "title": "The Presentation of the Blessed Virgin Mary",
+            "rank": "memorial"
+        }
+        ],
+        "readings": {
+        "first_reading": "1 Mc 4:36-37, 52-59",
+        "second_reading": null,
+        "gospel": "Lk 19:45-48",
+        "psalm": null
+        },
+        "saint": null,
+        "color": "white",
+        "season": "Ordinary Time"
+    },
+    {
+        "date": "2025-11-22",
+        "weekday": "sat",
+        "celebrations": [
+        {
+            "title": "Saint Cecilia, Virgin and Martyr",
+            "rank": "memorial"
+        }
+        ],
+        "readings": {
+        "first_reading": "1 Mc 6:1-13",
+        "second_reading": null,
+        "gospel": "Lk 20:27-40",
+        "psalm": null
+        },
+        "saint": "Cecilia",
+        "color": "red",
+        "season": "Ordinary Time"
+    },
+    {
+        "date": "2025-11-23",
+        "weekday": "sun",
+        "celebrations": [
+        {
+            "title": "OUR LORD JESUS CHRIST, KING OF THE UNIVERSE",
+            "rank": "solemnity"
+        }
+        ],
+        "readings": {
+        "first_reading": "2 Sm 5:1-3",
+        "second_reading": "Col 1:12-20",
+        "gospel": "Lk 23:35-43",
+        "psalm": "Prop"
+        },
+        "saint": null,
+        "color": "white",
+        "season": "Ordinary Time"
+    },
+    {
+        "date": "2025-11-24",
+        "weekday": "mon",
+        "celebrations": [
+        {
+            "title": "Saint Andrew Dũng-Lạc, Priest, and Companions, Martyrs",
+            "rank": "memorial"
+        }
+        ],
+        "readings": {
+        "first_reading": "Dn 1:1-6, 8-20",
+        "second_reading": null,
+        "gospel": "Lk 21:1-4",
+        "psalm": "II"
+        },
+        "saint": "Andrew Dũng-Lạc and Companions",
+        "color": "red",
+        "season": "Ordinary Time"
+    },
+    {
+        "date": "2025-11-25",
+        "weekday": "tue",
+        "celebrations": [
+        {
+            "title": "Weekday",
+            "rank": "weekday"
+        },
+        {
+            "title": "Saint Catherine of Alexandria, Virgin and Martyr",
+            "rank": "optional memorial"
+        }
+        ],
+        "readings": {
+        "first_reading": "Dn 2:31-45",
+        "second_reading": null,
+        "gospel": "Lk 21:5-11",
+        "psalm": null
+        },
+        "saint": null,
+        "color": "green",
+        "season": "Ordinary Time"
+    },
+    {
+        "date": "2025-11-26",
+        "weekday": "wed",
+        "celebrations": [
+        {
+            "title": "Weekday",
+            "rank": "weekday"
+        }
+        ],
+        "readings": {
+        "first_reading": "Dn 5:1-6, 13-14, 16-17, 23-28",
+        "second_reading": null,
+        "gospel": "Lk 21:12-19",
+        "psalm": null
+        },
+        "saint": null,
+        "color": "green",
+        "season": "Ordinary Time"
+    },
+    {
+        "date": "2025-11-27",
+        "weekday": "thu",
+        "celebrations": [
+        {
+            "title": "Weekday",
+            "rank": "weekday"
+        },
+        {
+            "title": "USA: Thanksgiving Day",
+            "rank": "optional memorial"
+        }
+        ],
+        "readings": {
+        "first_reading": "Dn 6:12-28",
+        "second_reading": null,
+        "gospel": "Lk 21:20-28",
+        "psalm": null
+        },
+        "saint": null,
+        "color": "green",
+        "season": "Ordinary Time"
+    },
+    {
+        "date": "2025-11-28",
+        "weekday": "fri",
+        "celebrations": [
+        {
+            "title": "Weekday",
+            "rank": "weekday"
+        }
+        ],
+        "readings": {
+        "first_reading": "Dn 7:2-14",
+        "second_reading": null,
+        "gospel": "Lk 21:29-33",
+        "psalm": null
+        },
+        "saint": null,
+        "color": "green",
+        "season": "Ordinary Time"
+    },
+    {
+        "date": "2025-11-29",
+        "weekday": "sat",
+        "celebrations": [
+        {
+            "title": "Weekday",
+            "rank": "weekday"
+        },
+        {
+            "title": "Blessed Virgin Mary",
+            "rank": "optional memorial"
+        }
+        ],
+        "readings": {
+        "first_reading": "Dn 7:15-27",
+        "second_reading": null,
+        "gospel": "Lk 21:34-36",
+        "psalm": null
+        },
+        "saint": null,
+        "color": "green",
+        "season": "Ordinary Time"
+    },
+    {
+        "date": "2025-11-30",
+        "weekday": "sun",
+        "celebrations": [
+        {
+            "title": "FIRST SUNDAY OF ADVENT",
+            "rank": "sunday"
+        }
+        ],
+        "readings": {
+        "first_reading": "Is 2:1-5",
+        "second_reading": "Rom 13:11-14",
+        "gospel": "Mt 24:37-44",
+        "psalm": "I"
+        },
+        "saint": null,
+        "color": "violet",
+        "season": "Advent"
+    },
+    {
+        "date": "2025-12-01",
+        "weekday": "mon",
+        "celebrations": [
+        {
+            "title": "Advent Weekday",
+            "rank": "weekday"
+        }
+        ],
+        "readings": {
+        "first_reading": "Is 4:2-6",
+        "second_reading": null,
+        "gospel": "Mt 8:5-11",
+        "psalm": null
+        },
+        "saint": null,
+        "color": "violet",
+        "season": "Advent"
+    },
+    {
+        "date": "2025-12-02",
+        "weekday": "tue",
+        "celebrations": [
+        {
+            "title": "Advent Weekday",
+            "rank": "weekday"
+        }
+        ],
+        "readings": {
+        "first_reading": "Is 11:1-10",
+        "second_reading": null,
+        "gospel": "Lk 10:21-24",
+        "psalm": null
+        },
+        "saint": null,
+        "color": "violet",
+        "season": "Advent"
+    },
+    {
+        "date": "2025-12-03",
+        "weekday": "wed",
+        "celebrations": [
+        {
+            "title": "Saint Francis Xavier, Priest",
+            "rank": "memorial"
+        }
+        ],
+        "readings": {
+        "first_reading": "Is 25:6-10a",
+        "second_reading": null,
+        "gospel": "Mt 15:29-37",
+        "psalm": null
+        },
+        "saint": "Francis Xavier",
+        "color": "white",
+        "season": "Advent"
+    },
+    {
+        "date": "2025-12-04",
+        "weekday": "thu",
+        "celebrations": [
+        {
+            "title": "Advent Weekday",
+            "rank": "weekday"
+        },
+        {
+            "title": "Saint John Damascene, Priest and Doctor of the Church",
+            "rank": "optional memorial"
+        }
+        ],
+        "readings": {
+        "first_reading": "Is 26:1-6",
+        "second_reading": null,
+        "gospel": "Mt 7:21, 24-27",
+        "psalm": null
+        },
+        "saint": null,
+        "color": "violet",
+        "season": "Advent"
+    },
+    {
+        "date": "2025-12-05",
+        "weekday": "fri",
+        "celebrations": [
+        {
+            "title": "Advent Weekday",
+            "rank": "weekday"
+        }
+        ],
+        "readings": {
+        "first_reading": "Is 29:17-24",
+        "second_reading": null,
+        "gospel": "Mt 9:27-31",
+        "psalm": null
+        },
+        "saint": null,
+        "color": "violet",
+        "season": "Advent"
+    },
+    {
+        "date": "2025-12-06",
+        "weekday": "sat",
+        "celebrations": [
+        {
+            "title": "Advent Weekday",
+            "rank": "weekday"
+        },
+        {
+            "title": "Saint Nicholas, Bishop",
+            "rank": "optional memorial"
+        }
+        ],
+        "readings": {
+        "first_reading": "Is 30:19-21, 23-26",
+        "second_reading": null,
+        "gospel": "Mt 9:35—10:1, 5a, 6-8",
+        "psalm": null
+        },
+        "saint": null,
+        "color": "violet",
+        "season": "Advent"
+    },
+    {
+        "date": "2025-12-07",
+        "weekday": "sun",
+        "celebrations": [
+        {
+            "title": "SECOND SUNDAY OF ADVENT",
+            "rank": "sunday"
+        }
+        ],
+        "readings": {
+        "first_reading": "Is 11:1-10",
+        "second_reading": "Rom 15:4-9",
+        "gospel": "Mt 3:1-12",
+        "psalm": "II"
+        },
+        "saint": null,
+        "color": "violet",
+        "season": "Advent"
+    },
+    {
+        "date": "2025-12-08",
+        "weekday": "mon",
+        "celebrations": [
+        {
+            "title": "THE IMMACULATE CONCEPTION OF THE BLESSED VIRGIN MARY",
+            "rank": "solemnity"
+        }
+        ],
+        "readings": {
+        "first_reading": "Gn 3:9-15, 20",
+        "second_reading": "Eph 1:3-6, 11-12",
+        "gospel": "Lk 1:26-38",
+        "psalm": "Prop"
+        },
+        "saint": null,
+        "color": "white",
+        "season": "Advent"
+    },
+    {
+        "date": "2025-12-09",
+        "weekday": "tue",
+        "celebrations": [
+        {
+            "title": "Advent Weekday",
+            "rank": "weekday"
+        },
+        {
+            "title": "Saint Juan Diego Cuauhtlatoatzin",
+            "rank": "optional memorial"
+        }
+        ],
+        "readings": {
+        "first_reading": "Is 40:1-11",
+        "second_reading": null,
+        "gospel": "Mt 18:12-14",
+        "psalm": null
+        },
+        "saint": null,
+        "color": "violet",
+        "season": "Advent"
+    },
+    {
+        "date": "2025-12-10",
+        "weekday": "wed",
+        "celebrations": [
+        {
+            "title": "Advent Weekday",
+            "rank": "weekday"
+        },
+        {
+            "title": "Our Lady of Loreto",
+            "rank": "optional memorial"
+        }
+        ],
+        "readings": {
+        "first_reading": "Is 40:25-31",
+        "second_reading": null,
+        "gospel": "Mt 11:28-30",
+        "psalm": null
+        },
+        "saint": null,
+        "color": "violet",
+        "season": "Advent"
+    },
+    {
+        "date": "2025-12-11",
+        "weekday": "thu",
+        "celebrations": [
+        {
+            "title": "Advent Weekday",
+            "rank": "weekday"
+        },
+        {
+            "title": "Saint Damasus I, Pope",
+            "rank": "optional memorial"
+        }
+        ],
+        "readings": {
+        "first_reading": "Is 41:13-20",
+        "second_reading": null,
+        "gospel": "Mt 11:11-15",
+        "psalm": null
+        },
+        "saint": null,
+        "color": "violet",
+        "season": "Advent"
+    },            
+    {
+        "date": "2025-12-12",
+        "weekday": "fri",
+        "celebrations": [
+        {
+            "title": "Our Lady of Guadalupe",
+            "rank": "feast"
+        }
+        ],
+        "readings": {
+        "first_reading": "Zec 2:14-17 or Rv 11:19a; 12:1-6a, 10ab",
+        "second_reading": null,
+        "gospel": "Lk 1:26-38 or Lk 1:39-47",
+        "psalm": "Prop"
+        },
+        "saint": null,
+        "color": "white",
+        "season": "Advent"
+    },
+    {
+        "date": "2025-12-13",
+        "weekday": "sat",
+        "celebrations": [
+        {
+            "title": "Saint Lucy, Virgin and Martyr",
+            "rank": "memorial"
+        }
+        ],
+        "readings": {
+        "first_reading": "Sir 48:1-4, 9-11",
+        "second_reading": null,
+        "gospel": "Mt 17:9a, 10-13",
+        "psalm": null
+        },
+        "saint": "Lucy",
+        "color": "red",
+        "season": "Advent"
+    },
+    {
+        "date": "2025-12-14",
+        "weekday": "sun",
+        "celebrations": [
+        {
+            "title": "THIRD SUNDAY OF ADVENT",
+            "rank": "sunday"
+        }
+        ],
+        "readings": {
+        "first_reading": "Is 35:1-6a, 10",
+        "second_reading": "Jas 5:7-10",
+        "gospel": "Mt 11:2-11",
+        "psalm": "III"
+        },
+        "saint": null,
+        "color": "violet",
+        "season": "Advent"
+    },
+    {
+        "date": "2025-12-15",
+        "weekday": "mon",
+        "celebrations": [
+        {
+            "title": "Advent Weekday",
+            "rank": "weekday"
+        }
+        ],
+        "readings": {
+        "first_reading": "Nm 24:2-7, 15-17a",
+        "second_reading": null,
+        "gospel": "Mt 21:23-27",
+        "psalm": null
+        },
+        "saint": null,
+        "color": "violet",
+        "season": "Advent"
+    },
+    {
+        "date": "2025-12-16",
+        "weekday": "tue",
+        "celebrations": [
+        {
+            "title": "Advent Weekday",
+            "rank": "weekday"
+        }
+        ],
+        "readings": {
+        "first_reading": "Zep 3:1-2, 9-13",
+        "second_reading": null,
+        "gospel": "Mt 21:28-32",
+        "psalm": null
+        },
+        "saint": null,
+        "color": "violet",
+        "season": "Advent"
+    },
+    {
+        "date": "2025-12-17",
+        "weekday": "wed",
+        "celebrations": [
+        {
+            "title": "Advent Weekday",
+            "rank": "weekday"
+        }
+        ],
+        "readings": {
+        "first_reading": "Gn 49:2, 8-10",
+        "second_reading": null,
+        "gospel": "Mt 1:1-17",
+        "psalm": null
+        },
+        "saint": null,
+        "color": "violet",
+        "season": "Advent"
+    },
+    {
+        "date": "2025-12-18",
+        "weekday": "thu",
+        "celebrations": [
+        {
+            "title": "Advent Weekday",
+            "rank": "weekday"
+        }
+        ],
+        "readings": {
+        "first_reading": "Jer 23:5-8",
+        "second_reading": null,
+        "gospel": "Mt 1:18-25",
+        "psalm": null
+        },
+        "saint": null,
+        "color": "violet",
+        "season": "Advent"
+    },
+    {
+        "date": "2025-12-19",
+        "weekday": "fri",
+        "celebrations": [
+        {
+            "title": "Advent Weekday",
+            "rank": "weekday"
+        }
+        ],
+        "readings": {
+        "first_reading": "Jgs 13:2-7, 24-25a",
+        "second_reading": null,
+        "gospel": "Lk 1:5-25",
+        "psalm": null
+        },
+        "saint": null,
+        "color": "violet",
+        "season": "Advent"
+    },
+    {
+        "date": "2025-12-20",
+        "weekday": "sat",
+        "celebrations": [
+        {
+            "title": "Advent Weekday",
+            "rank": "weekday"
+        }
+        ],
+        "readings": {
+        "first_reading": "Is 7:10-14",
+        "second_reading": null,
+        "gospel": "Lk 1:26-38",
+        "psalm": null
+        },
+        "saint": null,
+        "color": "violet",
+        "season": "Advent"
+    },
+    {
+        "date": "2025-12-21",
+        "weekday": "sun",
+        "celebrations": [
+        {
+            "title": "FOURTH SUNDAY OF ADVENT",
+            "rank": "sunday"
+        }
+        ],
+        "readings": {
+        "first_reading": "Is 7:10-14",
+        "second_reading": "Rom 1:1-7",
+        "gospel": "Mt 1:18-24",
+        "psalm": "IV"
+        },
+        "saint": null,
+        "color": "violet",
+        "season": "Advent"
+    },
+    {
+        "date": "2025-12-22",
+        "weekday": "mon",
+        "celebrations": [
+        {
+            "title": "Advent Weekday",
+            "rank": "weekday"
+        }
+        ],
+        "readings": {
+        "first_reading": "1 Sm 1:24-28",
+        "second_reading": null,
+        "gospel": "Lk 1:46-56",
+        "psalm": null
+        },
+        "saint": null,
+        "color": "violet",
+        "season": "Advent"
+    },
+    {
+        "date": "2025-12-23",
+        "weekday": "tue",
+        "celebrations": [
+        {
+            "title": "Advent Weekday",
+            "rank": "weekday"
+        },
+        {
+            "title": "Saint John of Kanty, Priest",
+            "rank": "optional memorial"
+        }
+        ],
+        "readings": {
+        "first_reading": "Mal 3:1-4, 23-24",
+        "second_reading": null,
+        "gospel": "Lk 1:57-66",
+        "psalm": null
+        },
+        "saint": null,
+        "color": "violet",
+        "season": "Advent"
+    },
+    {
+        "date": "2025-12-24",
+        "weekday": "wed",
+        "celebrations": [
+        {
+            "title": "Advent Weekday",
+            "rank": "weekday"
+        }
+        ],
+        "readings": {
+        "first_reading": "2 Sm 7:1-5, 8b-12, 14a, 16",
+        "second_reading": null,
+        "gospel": "Lk 1:67-79",
+        "psalm": null
+        },
+        "saint": null,
+        "color": "violet",
+        "season": "Advent"
+    },
+    {
+        "date": "2025-12-25",
+        "weekday": "thu",
+        "celebrations": [
+        {
+            "title": "THE NATIVITY OF THE LORD (Christmas)",
+            "rank": "solemnity"
+        }
+        ],
+        "readings": {
+        "first_reading": "Is 52:7-10",
+        "second_reading": "Heb 1:1-6",
+        "gospel": "Jn 1:1-18 or 1:1-5, 9-14",
+        "psalm": "Prop"
+        },
+        "saint": null,
+        "color": "white",
+        "season": "Christmas"
+    },
+    {
+        "date": "2025-12-26",
+        "weekday": "fri",
+        "celebrations": [
+        {
+            "title": "Saint Stephen, the First Martyr",
+            "rank": "feast"
+        }
+        ],
+        "readings": {
+        "first_reading": "Acts 6:8-10; 7:54-59",
+        "second_reading": null,
+        "gospel": "Mt 10:17-22",
+        "psalm": "Prop"
+        },
+        "saint": "Stephen",
+        "color": "red",
+        "season": "Christmas"
+    },
+    {
+        "date": "2025-12-27",
+        "weekday": "sat",
+        "celebrations": [
+        {
+            "title": "Saint John, Apostle and Evangelist",
+            "rank": "feast"
+        }
+        ],
+        "readings": {
+        "first_reading": "1 Jn 1:1-4",
+        "second_reading": null,
+        "gospel": "Jn 20:1a, 2-8",
+        "psalm": "Prop"
+        },
+        "saint": "John",
+        "color": "white",
+        "season": "Christmas"
+    },
+    {
+        "date": "2025-12-28",
+        "weekday": "sun",
+        "celebrations": [
+        {
+            "title": "THE HOLY FAMILY OF JESUS, MARY AND JOSEPH",
+            "rank": "feast"
+        }
+        ],
+        "readings": {
+        "first_reading": "Sir 3:2-6, 12-14",
+        "second_reading": "Col 3:12-21 or 3:12-17",
+        "gospel": "Mt 2:13-15, 19-23",
+        "psalm": "Prop"
+        },
+        "saint": null,
+        "color": "white",
+        "season": "Christmas"
+    },
+    {
+        "date": "2025-12-29",
+        "weekday": "mon",
+        "celebrations": [
+        {
+            "title": "Fifth Day within the Octave of the Nativity of the Lord",
+            "rank": "weekday"
+        },
+        {
+            "title": "Saint Thomas Becket, Bishop and Martyr",
+            "rank": "optional memorial"
+        }
+        ],
+        "readings": {
+        "first_reading": "1 Jn 2:3-11",
+        "second_reading": null,
+        "gospel": "Lk 2:22-35",
+        "psalm": "Prop"
+        },
+        "saint": null,
+        "color": "white",
+        "season": "Christmas"
+    },
+    {
+        "date": "2025-12-30",
+        "weekday": "tue",
+        "celebrations": [
+        {
+            "title": "Sixth Day within the Octave of the Nativity of the Lord",
+            "rank": "weekday"
+        }
+        ],
+        "readings": {
+        "first_reading": "1 Jn 2:12-17",
+        "second_reading": null,
+        "gospel": "Lk 2:36-40",
+        "psalm": "Prop"
+        },
+        "saint": null,
+        "color": "white",
+        "season": "Christmas"
+    },
+    {
+        "date": "2025-12-31",
+        "weekday": "wed",
+        "celebrations": [
+        {
+            "title": "Seventh Day within the Octave of the Nativity of the Lord",
+            "rank": "weekday"
+        },
+        {
+            "title": "Saint Sylvester I, Pope",
+            "rank": "optional memorial"
+        }
+        ],
+        "readings": {
+        "first_reading": "1 Jn 2:18-21",
+        "second_reading": null,
+        "gospel": "Jn 1:1-18",
+        "psalm": "Prop"
+        },
+        "saint": null,
+        "color": "white",
+        "season": "Christmas"
+    }
+]            
+                     

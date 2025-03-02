@@ -3,3 +3,4 @@ langchain-aws
 langchain-community
 langchain-experimental
 boto3
+markitdown

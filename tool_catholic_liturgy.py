@@ -1,6 +1,7 @@
-from datetime import datetime, timedelta
+from datetime import datetime
 from typing import List, Dict, Optional
 from langchain_core.tools import tool
+import concurrent.futures
 import requests
 import json
 
@@ -593,31 +594,74 @@ The New Testament is central to the **faith, liturgy, and teachings of the Catho
 > **“The word of God is living and active.” – Hebrews 4:12**
 """
 
-from typing import Dict
-import requests
+# Load the JSON database once (global for efficiency)
+with open("2025_ordo.json", "r", encoding="utf-8") as f:
+    ORDO_2025 = json.load(f)
 
-def get_liturgy_for_year_and_month(year: int, month: int) -> Optional[List[Dict]]:
-    url = f"http://calapi.inadiutorium.cz/api/v0/en/calendars/default/{year}/{month}"
+# Lookup base liturgy from JSON
+def get_liturgy_for_day_ordo(year: int, month: int, day_of_month: int) -> Optional[Dict]:
+    date_str = f"{year}-{month:02d}-{day_of_month:02d}"
+    for entry in ORDO_2025:
+        if entry["date"] == date_str:
+            return entry
+    return None
+
+def get_liturgy_for_year_and_month_ordo(year: int, month: int) -> Optional[List[Dict]]:
+    month_data = [entry for entry in ORDO_2025 if entry["date"].startswith(f"{year}-{month:02d}")]
+    return month_data if month_data else None
+
+#Helper to normalize Bible references for bible-api.com
+def normalize_reference(ref: str) -> str:
+    """Convert shorthand (e.g., 'Nm 6:22-27') to bible-api.com format (e.g., 'Numbers 6:22-27')."""
+    book_map = {
+        "Gn": "Genesis", "Ex": "Exodus", "Lv": "Leviticus", "Nm": "Numbers", "Dt": "Deuteronomy",
+        "Jos": "Joshua", "Jgs": "Judges", "Ru": "Ruth", "1 Sm": "1 Samuel", "2 Sm": "2 Samuel",
+        "1 Kgs": "1 Kings", "2 Kgs": "2 Kings", "1 Chr": "1 Chronicles", "2 Chr": "2 Chronicles",
+        "Ezr": "Ezra", "Neh": "Nehemiah", "Tb": "Tobit", "Jdt": "Judith", "Est": "Esther",
+        "1 Mc": "1 Maccabees", "2 Mc": "2 Maccabees", "Jb": "Job", "Ps": "Psalms", "Prv": "Proverbs",
+        "Eccl": "Ecclesiastes", "Sg": "Song of Solomon", "Wis": "Wisdom", "Sir": "Sirach",
+        "Is": "Isaiah", "Jer": "Jeremiah", "Lam": "Lamentations", "Bar": "Baruch", "Ez": "Ezekiel",
+        "Dn": "Daniel", "Hos": "Hosea", "Jl": "Joel", "Am": "Amos", "Ob": "Obadiah", "Jon": "Jonah",
+        "Mi": "Micah", "Na": "Nahum", "Hb": "Habakkuk", "Zep": "Zephaniah", "Hg": "Haggai",
+        "Zec": "Zechariah", "Mal": "Malachi", "Mt": "Matthew", "Mk": "Mark", "Lk": "Luke",
+        "Jn": "John", "Acts": "Acts", "Rom": "Romans", "1 Cor": "1 Corinthians", "2 Cor": "2 Corinthians",
+        "Gal": "Galatians", "Eph": "Ephesians", "Phil": "Philippians", "Col": "Colossians",
+        "1 Thes": "1 Thessalonians", "2 Thes": "2 Thessalonians", "1 Tm": "1 Timothy",
+        "2 Tm": "2 Timothy", "Ti": "Titus", "Phlm": "Philemon", "Heb": "Hebrews", "Jas": "James",
+        "1 Pt": "1 Peter", "2 Pt": "2 Peter", "1 Jn": "1 John", "2 Jn": "2 John", "3 Jn": "3 John",
+        "Jude": "Jude", "Rv": "Revelation"
+    }
+    parts = ref.split()
+    book = " ".join(parts[:-1])  # Handle multi-word books like "1 Cor"
+    verses = parts[-1]
+    full_book = book_map.get(book, book)  # Fallback to original if not in map
+    return f"{full_book} {verses}".replace(" ", "%20")  # URL-encode spaces
+    
+def get_litury_for_today() -> str:
+    today = datetime.now()
+    return json.dumps(get_liturgy_for_day_ordo(today.year, today.month, today.day))
+
+def get_random_verse() -> str:
+    """
+    {"translation":{"identifier":"web","name":"World English Bible","language":"English","language_code":"eng","license":"Public Domain"},"random_verse":{"book_id":"MRK","book":"Mark","chapter":4,"verse":27,"text":"\nand should sleep and rise night and day, and the seed should spring up and grow, though he doesn’t know how.\n\n"}}
+    """
+    url = "https://bible-api.com/data/web/random"
     try:
         response = requests.get(url)
-        return response.json()
+        random_verse = response.json()
+        book = random_verse['random_verse']['book']
+        chapter = random_verse['random_verse']['chapter']
+        verse = random_verse['random_verse']['verse']
+        text = random_verse['random_verse']['text']
+        return f"{book} {chapter}:{verse} - {text}"
     except Exception as e:
-        print(f"Error fetching liturgy for {year}-{month}: {e}")
-        return None
-
-def get_liturgy_for_day(year: int, month: int, day_of_month: int) -> Optional[Dict]:
-    url = f"http://calapi.inadiutorium.cz/api/v0/en/calendars/default/{year}/{month}/{day_of_month}"
-    try:
-        response = requests.get(url)
-        return response.json()
-    except Exception as e:
-        print(f"Error fetching liturgy for {year}-{month}-{day_of_month}: {e}")
+        print(f"Error fetching random verse: {e}")
         return None
 
 @tool
 def get_liturgy_for_year_and_month_tool(year: int, month: int) -> str:
-    """Returns the liturgy for a given year and month as JSON string"""
-    return json.dumps(get_liturgy_for_year_and_month(year, month))
+    """Returns enhanced liturgy for a year and month as JSON string."""
+    return json.dumps(get_enhanced_liturgy_for_year_and_month(year, month))
 
 @tool
 def get_liturgy_explanation_tool() -> str:
@@ -639,3 +683,107 @@ def get_summary_of_new_testament_tool() -> str:
        Note: Only use this tool for faith related questions
     """
     return SUMMARY_OF_NEW_TESTAMENT
+
+# New helper functions
+def get_sunday_cycle(year: int) -> str:
+    """Determine Sunday cycle (A, B, C) for a year."""
+    cycle = (year - 1980) % 3
+    return "A" if cycle == 0 else "B" if cycle == 1 else "C"
+
+def get_weekday_cycle(year: int) -> str:
+    """Determine weekday cycle (I or II) for a year."""
+    return "I" if year % 2 != 0 else "II"
+
+def get_bible_text(reference: str) -> str:
+    """Fetch Bible text for a normalized reference using bible-api.com."""
+    if not reference:  # Handle null or empty
+        return "No text available"
+    normalized_ref = normalize_reference(reference)
+    url = f"https://bible-api.com/{normalized_ref}"
+    print(f"Fetching Bible text for: '{url}'")
+    try:
+        response = requests.get(url)
+        response.raise_for_status()  # Raise exception for bad status codes
+        data = response.json()
+        return " ".join(verse["text"].strip() for verse in data["verses"])
+    except Exception as e:
+        print(f"Error fetching Bible text for {reference}: {e}")
+        return "Text unavailable"
+
+def get_readings_for_date(date_str: str, liturgy_data: Dict = None) -> Dict:
+    """Fetch readings for a specific date from ordo_2025.json and enrich with Bible text.
+    
+    Args:
+        date_str: Date in 'YYYY-MM-DD' format (e.g., '2025-01-01').
+        liturgy_data: Optional pre-fetched liturgy data; if None, fetch from JSON.
+    
+    Returns:
+        Dict with readings enriched with references and text.
+    """    
+    readings = liturgy_data.get("readings", {})
+    enriched_readings = {}
+    
+    # Handle all possible reading types, including nulls
+    for key in ["first_reading", "second_reading", "gospel"]:
+        ref = readings.get(key)        
+        enriched_readings[key] = {
+            "reference": ref,
+            "text": get_bible_text(ref)
+        }        
+    return enriched_readings
+
+def get_saint_for_date(liturgy_data: Dict) -> str:
+    """Extract saint name from liturgy data."""
+    return liturgy_data.get("saint", "No saint commemorated")
+
+# Enhanced day function
+def get_enhanced_liturgy_for_day(year: int, month: int, day_of_month: int) -> Optional[Dict]:
+    """Fetch liturgy for a day with readings and saint."""
+    liturgy = get_liturgy_for_day_ordo(year, month, day_of_month)   
+    print(liturgy) 
+    if not liturgy:
+        return None
+    date_str = f"{year}-{month:02d}-{day_of_month:02d}"
+    liturgy["readings"] = get_readings_for_date(date_str, liturgy)
+    liturgy["saint"] = get_saint_for_date(liturgy)
+    return liturgy
+
+# Enhanced month function with concurrency
+def get_enhanced_liturgy_for_year_and_month(year: int, month: int) -> Optional[List[Dict]]:
+    """Fetch enhanced liturgy for a month with parallel API calls."""
+    base_liturgy = get_liturgy_for_year_and_month_ordo(year, month)
+    if not base_liturgy:
+        return None
+
+    def enhance_day(day_data: Dict) -> Dict:
+        date = datetime.strptime(day_data["date"], "%Y-%m-%d")
+        enhanced = get_enhanced_liturgy_for_day(date.year, date.month, date.day)
+        return enhanced if enhanced else day_data
+
+    with concurrent.futures.ThreadPoolExecutor() as executor:
+        enhanced_liturgy = list(executor.map(enhance_day, base_liturgy))
+    
+    return enhanced_liturgy
+
+# Updated function to match your example
+def get_gospel_and_readings_for_year_and_month_and_day_of_month(year: int, month: int, day_of_month: int) -> Optional[str]:
+    """Get readings for a given date as JSON string."""
+    liturgy = get_liturgy_for_day_ordo(year, month, day_of_month)
+    if not liturgy:
+        return None
+    readings = liturgy.get("readings", {})
+    result = {
+        "first_reading": readings.get("first_reading"),
+        "second_reading": readings.get("second_reading"),
+        "gospel": readings.get("gospel"),
+        "psalm": readings.get("psalm")
+    }
+    return json.dumps(result)
+
+
+    # Test it
+if __name__ == "__main__":
+    # Test Jan 1, 2025
+    result = get_enhanced_liturgy_for_day(2025, 3, 2)
+    print(json.dumps(result, indent=2))
+    
