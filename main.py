@@ -6,6 +6,12 @@ from langchain_community.chat_message_histories import StreamlitChatMessageHisto
 from langchain_community.callbacks.streamlit.streamlit_callback_handler import StreamlitCallbackHandler
 from streaming_response_callback_handler import StreamingResponseCallbackHandler
 
+# disable warnings
+import warnings
+from langchain._api.deprecation import LangChainDeprecationWarning
+warnings.filterwarnings("ignore", category=LangChainDeprecationWarning)
+
+
 # Initialize memory
 if "memory" not in st.session_state:
     msgs = StreamlitChatMessageHistory(key="chat_messages")
